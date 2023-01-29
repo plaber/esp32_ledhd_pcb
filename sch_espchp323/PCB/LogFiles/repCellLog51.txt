@@ -1,0 +1,39 @@
+=======================================================================
+Expedition PCB - Pinnacle - Version 2013.0.543.380
+=======================================================================
+
+RELOAD CELLS
+
+Job Directory:  C:\PCB_Projects\new_ledsContr2\sch_espchp322\PCB\
+
+
+Design Units:(mm)
+
+Replace Cell Log:   repCellLog51.txt
+
+Sun Oct 25 10:14:02 2020
+
+Reference Designator            Cell Name                         New Cell Name
+===============================================================================
+
+
+---------------  RELOAD CELLS  Sun Oct 25 10:14:02 2020  ---------------
+
+
+
+
+---------------  RELOAD CELLS TMP  Sun Oct 25 10:14:02 2020  ---------------
+
+
+USB1                            SMD_USBM2                         SMD_USBM2                       
+USB                             SMD_USBM2                         SMD_USBM2                       
+
+
+---------------    Sun Oct 25 10:14:02 2020  ---------------
+
+
+
+
+---------------    Sun Oct 25 10:14:02 2020  ---------------
+
+

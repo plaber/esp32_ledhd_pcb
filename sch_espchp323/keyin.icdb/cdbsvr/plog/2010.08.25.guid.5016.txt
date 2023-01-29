@@ -1,0 +1,28 @@
+[2010.08.25 15:46:12] [0000m.09s.091ms] [0] WELCOME
+[2010.08.25 15:46:12] [0000m.09s.092ms] [1] iCDB Database ver.1.009, ubDiQQ9snidtGpRfU+XMOQ, build:403588 created 2010-05-25 11:54:37, sources stamp:ubDiQQ9snidtGpRfU+XMOQ
+[2010.08.25 15:46:12] [0000m.09s.092ms] [1] Copyright 2010 Mentor Graphics Corporation. All Rights Reserved.
+[2010.08.25 15:46:12] [0000m.09s.092ms] [1] Base flow version [7.9]
+[2010.08.25 15:46:12] [0000m.09s.092ms] [1] GBS Install Id [14584], Flow Id [EE 7.9], Full Flow Name [Expedition Enterprise Flow], Exact Access Date [Mar 1 2010]
+[2010.08.25 15:46:12] [0000m.09s.093ms] [1] Machine [Caprica]  User [Mike]  PID [5016]
+[2010.08.25 15:46:12] [0000m.09s.093ms] [1] Operating system [Microsoft Windows 7 Home Premium Edition, 64-bit (build 7600)]
+[2010.08.25 15:46:12] [0000m.09s.093ms] [1] Current working dir [D:\work\CentralLib\Templates\Layout\2 Layer Template]
+[2010.08.25 15:46:12] [0000m.09s.094ms] [1] PATH [C:\MentorGraphics\7.9EE\SDD_HOME\xe\win32\lib;C:\MentorGraphics\7.9EE\SDD_HOME\wg\win32\lib;C:\MentorGraphics\7.9EE\SDD_HOME\common\win32\bin;C:\MentorGraphics\7.9EE\SDD_HOME\common\win32\lib;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files\WIDCOMM\Bluetooth Software\;C:\Program Files\WIDCOMM\Bluetooth Software\syswow64;C:\Program Files\TortoiseSVN\bin;C:\OrCAD\OrCAD_16.2\tools\fet\bin;C:\OrCAD\OrCAD_16.2\tools\pcb\bin;C:\OrCAD\OrCAD_16.2\tools\specctra\bin;C:\OrCAD\OrCAD_16.2\tools\PSpice;C:\OrCAD\OrCAD_16.2\tools\PSpice\Library;C:\OrCAD\OrCAD_16.2\tools\Capture;C:\OrCAD\OrCAD_16.2\tools\bin;C:\MENTOR~1\LICENS~1;C:/MentorGraphics/7.9EE/MGC_HOME.ixn/bin;C:/MentorGraphics/7.9EE/MGC_HOME.ixn/lib;C:\MentorGraphics\7.9EE\MGC_HOME.ixn\bin;C:\MentorGraphics\7.9EE\MGC_HOME.ixn\lib;]
+[2010.08.25 15:46:12] [0000m.09s.094ms] [1] SDD_HOME [C:\MentorGraphics\7.9EE\SDD_HOME] on file system [NTFS]
+[2010.08.25 15:46:12] [0000m.09s.094ms] [1] SDD_PLATFORM [win32]
+[2010.08.25 15:46:12] [0000m.09s.095ms] [1] Local iCDB working dir [C:\MentorData\iCDB] on file system [NTFS]
+[2010.08.25 15:46:12] [0000m.09s.095ms] [3] WARNING: Database [D:\work\CentralLib\Templates\Layout\2 Layer Template\keyin.icdb\icdb.dat] was manually copied
+[2010.08.25 15:46:12] [0000m.09s.095ms] [3] File change time:        [2010-08-17 11.05.13]
+[2010.08.25 15:46:12] [0000m.09s.096ms] [3] File modification time:  [2009-11-24 10.25.47]
+[2010.08.25 15:46:12] [0000m.09s.096ms] [3] Last change time:        [2009-11-24 09.25.47]
+[2010.08.25 15:46:12] [0000m.09s.096ms] [3] Last database open information:
+[2010.08.25 15:46:12] [0000m.09s.096ms] [3] Time:             [2009-11-24 09.25.17]
+[2010.08.25 15:46:12] [0000m.09s.096ms] [3] Location:         [C:\MentorData\CentralLib\Templates\Layout\4 Layer Template_1\keyin.icdb\icdb.dat]
+[2010.08.25 15:46:12] [0000m.09s.096ms] [3] Machine:          [neptune]
+[2010.08.25 15:46:12] [0000m.09s.096ms] [3] User:             [mike]
+[2010.08.25 15:46:12] [0000m.09s.096ms] [3] PID:              [1968]
+[2010.08.25 15:46:12] [0000m.09s.096ms] [3] Application:      [iCDB Server]
+[2010.08.25 15:46:12] [0000m.09s.096ms] [3] Operating system: [Microsoft Windows XP Professional Service Pack 3 (build 2600)]
+[2010.08.25 15:46:12] [0000m.09s.096ms] [3] WARNING: Regenerating database GUID
+[2010.08.25 15:46:12] [0000m.09s.096ms] [3] Previous database GUID [453c-5d27-2cfb-595d-dfb7-b0b1-0c7b-0b40-6536-f676-2710-fff8]
+[2010.08.25 15:46:12] [0000m.09s.097ms] [3] Current database GUID  [3b6b-d459-dfd0-e788-4820-57c8-8205-7c40-ab11-2180-bc7c-9cc5]
+[2010.08.25 15:46:12] [0000m.09s.097ms] [3] DONE

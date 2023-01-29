@@ -1,0 +1,26 @@
+
+                                 BackAnnotation
+                                 --------------
+
+                      01:11 AM Tuesday, September 15, 2020
+       Job Name: C:\PCB_Projects\new_ledsContr2\sch_espchp322\PCB\esp.pcb
+
+
+  Updating Logic Database...
+
+     Version:  99.00.05
+
+     Writing a list of routed plane pins to Logic\rtdplane.caf.
+
+     Finished updating the Logic Database.
+
+     Updating LogicDB Version from 1 to 2.
+
+     Creating a formatted Schematic Netlist (LogFiles\AfterBakAnnoNetlist.txt)...
+     A formatted Schematic Netlist has been created.
+
+     Creating a new Keyin Netlist (C:\PCB_Projects\new_ledsContr2\sch_espchp322\netlist.kyn)
+      from the Logic Database (Work\Layout_Temp\LogicDB.lgc)...
+  A new Keyin Netlist has been generated.
+
+     Completed Back Annotation

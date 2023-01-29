@@ -1,0 +1,10 @@
+Thu Sep 03 16:45:29 2009
+
+Project path: C:\MentorData\CentralLib\Templates\Layout\4 Layer Template\keyin.icdb
+
+Constraints definition "CUSTOM_DESCRIPTION" added.
+Constraints definition "CUSTOM_VALUE" added.
+Constraints definition "CE2PLANECONDUCTOR" added (default value: 254000).
+Constraints definition "CE2CE" added (default value: 254000).
+Constraints definition "DSN_CON_AUTO_CONTROL" added (default value: 0).
+Constraints definition "SIM_DELAY_MATCH_TO" added (default value: (None)).

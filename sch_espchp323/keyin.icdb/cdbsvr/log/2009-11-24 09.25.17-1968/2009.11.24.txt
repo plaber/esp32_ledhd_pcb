@@ -1,0 +1,79 @@
+[2009.11.24 09:25:17] [0000m.00s.000ms] [0] WELCOME
+[2009.11.24 09:25:17] [0000m.00s.000ms] [1] iCDB Server ver.1.007, HvQ8kKCvhuzsBu5CD2LCWg, build:369282 created 2009-09-30 07:43:26, sources stamp:HvQ8kKCvhuzsBu5CD2LCWg
+[2009.11.24 09:25:17] [0000m.00s.000ms] [1] Copyright 2009 Mentor Graphics Corporation. All Rights Reserved.
+[2009.11.24 09:25:17] [0000m.00s.000ms] [1] Base flow version [2007.7]
+[2009.11.24 09:25:17] [0000m.00s.000ms] [1] GBS Install Id [11782], Flow Id [EE2007.7], Full Flow Name[Expedition Enterprise Flow], Exact Access Date[Aug 1 2009]
+[2009.11.24 09:25:17] [0000m.00s.015ms] [1] Machine [neptune]  User [mike]  PID [1968]
+[2009.11.24 09:25:17] [0000m.00s.015ms] [1] Operating system [Microsoft Windows XP Professional Service Pack 3 (build 2600)]
+[2009.11.24 09:25:17] [0000m.00s.015ms] [1] Current working dir [C:\MentorData\CentralLib\Templates\Layout\4 Layer Template_1]
+[2009.11.24 09:25:17] [0000m.00s.015ms] [1] PATH [E:\MentorGraphics\2007.7EE\SDD_HOME\xe\win32\lib;E:\MentorGraphics\2007.7EE\SDD_HOME\wg\win32\lib;E:\MentorGraphics\2007.7EE\SDD_HOME\common\win32\bin;E:\MentorGraphics\2007.7EE\SDD_HOME\common\win32\lib;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\Program Files\doxygen\bin;C:\Program Files\Graphviz2.18\Bin;C:\Program Files\P-CAD 2006 Viewer\;C:\WINDOWS\system32\WindowsPowerShell\v1.0;C:\Program Files\Samsung\Samsung PC Studio 3\;C:\Program Files\TortoiseSVN\bin;E:\MENTOR~1\LICENS~1;E:/MentorGraphics/2007.7EE/MGC_HOME.ixn/bin;E:/MentorGraphics/2007.7EE/MGC_HOME.ixn/lib;E:\MentorGraphics\2007.7EE\MGC_HOME.ixn\bin;E:\MentorGraphics\2007.7EE\MGC_HOME.ixn\lib;C:\Program Files\CVSNT\]
+[2009.11.24 09:25:17] [0000m.00s.015ms] [1] WDIR [C:\MentorData\iCDB]
+[2009.11.24 09:25:17] [0000m.00s.015ms] [1] SDD_HOME [E:\MentorGraphics\2007.7EE\SDD_HOME]
+[2009.11.24 09:25:17] [0000m.00s.015ms] [1] SDD_PLATFORM [win32]
+[2009.11.24 09:25:17] [0000m.00s.015ms] [2] S: Loading config files
+[2009.11.24 09:25:17] [0000m.00s.015ms] [1] Config: WARNING: Could not open config file [C:\MentorData\CentralLib\Templates\Layout\4 Layer Template_1\keyin.icdb\cdbsvr\Server.cfg]
+[2009.11.24 09:25:17] [0000m.00s.015ms] [3] S: Config loaded
+[2009.11.24 09:25:17] [0000m.00s.015ms] [0] S: Single-user mode (auto)
+[2009.11.24 09:25:17] [0000m.00s.015ms] [0] S: Event polling mode autodetection
+[2009.11.24 09:25:17] [0000m.00s.015ms] [0] S: Started up automatically by iCDB Client: neptune:mike:2572
+[2009.11.24 09:25:17] [0000m.00s.015ms] [0] S: Auto close mode
+[2009.11.24 09:25:17] [0000m.00s.015ms] [0] S: Project [C:\MentorData\CentralLib\Templates\Layout\4 Layer Template_1\keyin.icdb]
+[2009.11.24 09:25:17] [0000m.00s.015ms] [0] S: Database ID [453c-5d27-2cfb-595d-dfb7-b0b1-0c7b-0b40-6536-f676-2710-fff8]
+[2009.11.24 09:25:17] [0000m.00s.015ms] [0] S: START
+[2009.11.24 09:25:17] [0000m.00s.031ms] [0] S: Server startup lock file created
+[2009.11.24 09:25:17] [0000m.00s.031ms] [0] S: Listening for client connections on port [10000]
+[2009.11.24 09:25:17] [0000m.00s.031ms] [0] S: Server network ID [neptune:192.168.0.137,5.231.138.203,neptune:10000]
+[2009.11.24 09:25:17] [0000m.00s.031ms] [0] S: Server GUID [d4c6-24b9-b26c-6528-d4c7-b0b1-5c7b-0b40-e256-f676-2710-fff8]
+[2009.11.24 09:25:17] [0000m.00s.031ms] [0] S: Project GUID [453c-5d27-2cfb-595d-dfb7-b0b1-0c7b-0b40-6536-f676-2710-fff8]
+[2009.11.24 09:25:17] [0000m.00s.031ms] [0] S: Wrote data to server address file
+[2009.11.24 09:25:17] [0000m.00s.062ms] [0] S: Server startup lock file removed
+[2009.11.24 09:25:17] [0000m.00s.109ms] [0] S: Plugins loaded: [PIM] [ENetGen70] 
+[2009.11.24 09:25:17] [0000m.00s.109ms] [0] S: Local disc access time: 80 us
+[2009.11.24 09:25:17] [0000m.00s.109ms] [0] S: Filer access time: 63 us
+[2009.11.24 09:25:17] [0000m.00s.125ms] [0] SingleFile: [0000-0000-0000-0000] SFI header version check [1008] [1008]
+[2009.11.24 09:25:17] [0000m.00s.125ms] [0] SingleFile: [0000-0000-0000-0000] SFI header version check [1008] [1008]
+[2009.11.24 09:25:17] [0000m.00s.125ms] [0] SingleFile: [7a2a-055f-4f87-54a6] SFI version check [1008] [1008]
+[2009.11.24 09:25:17] [0000m.00s.125ms] [0] iCDB Server PI: Server & plugin session [42]
+[2009.11.24 09:25:17] [0000m.00s.125ms] [0] iCDB Server PI: Opening database [C:\MentorData\CentralLib\Templates\Layout\4 Layer Template_1\keyin.icdb]
+[2009.11.24 09:25:17] [0000m.00s.125ms] [0] iCDB Server PI: Database [C:\MentorData\CentralLib\Templates\Layout\4 Layer Template_1\keyin.icdb] opened
+[2009.11.24 09:25:17] [0000m.00s.125ms] [0] iCDB Server PI: Checking existence of constraint definitions
+[2009.11.24 09:25:17] [0000m.00s.125ms] [0] iCDB Server PI: Checking constraint definitions version
+[2009.11.24 09:25:17] [0000m.00s.187ms] [1] iCDB Database: Constraint definitions version [ce_ee.cns=7.7.1] up to date
+[2009.11.24 09:25:17] [0000m.00s.187ms] [0] iCDB Server PI: Initializing plugins
+[2009.11.24 09:25:17] [0000m.00s.187ms] [0] iCDB Server PI: Plugins initialized
+[2009.11.24 09:25:17] [0000m.00s.187ms] [0] S: iCDB database loaded
+[2009.11.24 09:25:17] [0000m.00s.203ms] [0] S: Starting threads
+[2009.11.24 09:25:17] [0000m.00s.203ms] [0] BT: Listening for broadcast messages on port [10000]
+[2009.11.24 09:25:17] [0000m.00s.203ms] [1] CMT: There are no clients - waiting [10 seconds]
+[2009.11.24 09:25:17] [0000m.00s.203ms] [0] IT: Session [43] for host [neptune] user [mike] with process ID [2572] created
+[2009.11.24 09:25:17] [0000m.00s.203ms] [1] SC[43]: Registered sub-client [Expedition PCB_1419062] with ID [1] for session ID [43] host [neptune] user [mike] process ID [2572]
+[2009.11.24 09:25:17] [0000m.00s.343ms] [1] CMT: There are [1] clients now
+[2009.11.24 09:25:18] [0000m.00s.921ms] [1] SC[43]: Registered sub-client [ExpeditionCrossProber] with ID [2] for session ID [43] host [neptune] user [mike] process ID [2572]
+[2009.11.24 09:25:44] [0000m.27s.125ms] [1] SC[43]: UnRegistered sub-client [ExpeditionCrossProber] with ID [2] for session ID [43] host [neptune] user [mike] process ID [2572]
+[2009.11.24 09:25:45] [0000m.27s.968ms] [1] SC[43]: UnRegistered sub-client [Expedition PCB_1419062] with ID [1] for session ID [43] host [neptune] user [mike] process ID [2572]
+[2009.11.24 09:25:45] [0000m.28s.000ms] [1] CMT: Removed client [43]
+[2009.11.24 09:25:45] [0000m.28s.000ms] [1] CMT: There are no clients left - waiting [1 seconds]
+[2009.11.24 09:25:47] [0000m.29s.484ms] [0] CMT: Starting server auto-close
+[2009.11.24 09:25:47] [0000m.29s.531ms] [0] S: Closing server
+[2009.11.24 09:25:47] [0000m.29s.609ms] [0] iCDB Server PI: Closing plugins
+[2009.11.24 09:25:47] [0000m.29s.609ms] [0] iCDB Server PI: Plugins closed
+[2009.11.24 09:25:47] [0000m.29s.609ms] [0] iCDB Server PI: Unloading database
+[2009.11.24 09:25:47] [0000m.29s.609ms] [0] iCDB Server PI: Saving storage
+[2009.11.24 09:25:47] [0000m.29s.609ms] [0] iCDB Server PI: Closing database
+[2009.11.24 09:25:47] [0000m.29s.609ms] [1] iCDB Server PI: Stats: Database defragmentation: max[1] avg[1] holes[32%] data[95%]
+[2009.11.24 09:25:47] [0000m.29s.609ms] [1] iCDB Server PI: Stats: Database file size [60992] bytes
+[2009.11.24 09:25:47] [0000m.29s.609ms] [1] iCDB Server PI: WARNING: Database needs defragmentation!
+[2009.11.24 09:25:47] [0000m.29s.640ms] [0] iCDB Server PI: Database closed
+[2009.11.24 09:25:47] [0000m.29s.640ms] [0] iCDB Server PI: Defragmenting database
+[2009.11.24 09:25:47] [0000m.29s.640ms] [0] iCDB Server PI: Backuping database [C:\MentorData\CentralLib\Templates\Layout\4 Layer Template_1\keyin.icdb] to file [C:\MentorData\CentralLib\Templates\Layout\4 Layer Template_1\keyin.icdb\cdbback\2009-11-24 09.25.47-1968-d.zip]
+[2009.11.24 09:25:47] [0000m.29s.671ms] [0] iCDB Server PI: Backup database: DONE
+[2009.11.24 09:25:47] [0000m.29s.671ms] [0] SingleFile: [0000-0000-0000-0000] SFI header version check [1008] [1008]
+[2009.11.24 09:25:47] [0000m.29s.671ms] [0] SingleFile: [7a2a-055f-4f87-54a6] SFI version check [1008] [1008]
+[2009.11.24 09:25:47] [0000m.29s.687ms] [1] iCDB Server PI: Stats: Database file size: before[60992], after[52976], gain[8016]
+[2009.11.24 09:25:47] [0000m.29s.703ms] [0] iCDB Server PI: Database defragmentation completed successfully
+[2009.11.24 09:25:47] [0000m.29s.703ms] [0] iCDB Server PI: Removing database backup [C:\MentorData\CentralLib\Templates\Layout\4 Layer Template_1\keyin.icdb\cdbback\2009-11-24 09.25.47-1968-d.zip]
+[2009.11.24 09:25:47] [0000m.29s.703ms] [1] iCDB Server PI: Stats: Total iCDB execution time: [2405] ticks
+[2009.11.24 09:25:47] [0000m.29s.703ms] [1] iCDB Server PI: Stats: Total iCDB execution time: [671] microseconds
+[2009.11.24 09:25:47] [0000m.29s.703ms] [1] iCDB Server PI: Stats: Total iCDB commands count: [9]
+[2009.11.24 09:25:47] [0000m.29s.703ms] [1] iCDB Server PI: Stats: Average iCDB speed:        [13395] commands per second
+[2009.11.24 09:25:47] [0000m.29s.750ms] [0] S: STOP

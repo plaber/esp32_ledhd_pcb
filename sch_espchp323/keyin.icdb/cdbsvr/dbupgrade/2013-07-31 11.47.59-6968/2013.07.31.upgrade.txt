@@ -1,0 +1,37 @@
+[2013.07.31 11:48:00] [0000m.03s.835ms] [0] WELCOME
+[2013.07.31 11:48:00] [0000m.03s.836ms] [1] iCDB Server ver.1.094, a0HSsGQ+3llE3aODnNgIUw, build:515009 created 2012-08-09 08:10:43, sources stamp:a0HSsGQ+3llE3aODnNgIUw
+[2013.07.31 11:48:00] [0000m.03s.836ms] [1] Copyright 2012 Mentor Graphics Corporation. All Rights Reserved.
+[2013.07.31 11:48:00] [0000m.03s.836ms] [1] Base flow version [7.9.4]
+[2013.07.31 11:48:00] [0000m.03s.836ms] [1] GBS Install Id [26418], Flow Id [EE7.9.4], Full Flow Name [Expedition Enterprise Flow], Exact Access Date [Jun 1 2012]
+[2013.07.31 11:48:00] [0000m.03s.836ms] [1] Machine [CAPRICA]  User [Mike]  PID [6968]
+[2013.07.31 11:48:00] [0000m.03s.837ms] [1] Operating system [Microsoft Windows 7 Home Premium Edition, 64-bit Service Pack 1 (build 7601)]
+[2013.07.31 11:48:00] [0000m.03s.837ms] [1] Current working dir [D:\work\CentralLib\Templates\Layout\2 Layer Template]
+[2013.07.31 11:48:00] [0000m.03s.837ms] [1] PATH [D:\MentorGraphics\7.9.4EE\SDD_HOME\common\win32\bin;D:\MentorGraphics\7.9.4EE\SDD_HOME\common\win32\lib;D:\MentorGraphics\7.9.4EE\SDD_HOME\wg\win32\lib;D:\MentorGraphics\7.9.4EE\SDD_HOME\common\win32\bin;D:\MentorGraphics\7.9.4EE\SDD_HOME\common\win32\lib;D:\MentorGraphics\7.9.4EE\MGC_HOME.ixn\bin;D:\MentorGraphics\7.9.4EE\MGC_HOME.ixn\lib;C:\Program Files (x86)\STMicroelectronics\st_toolset\asm;D:\Cadence\SPB_16.5\tools\PSpice;D:\Cadence\SPB_16.5\tools\PSpice\Library;D:\Cadence\SPB_16.5\tools\Capture;D:\Cadence\SPB_16.5\tools\bin;D:\Cadence\SPB_16.5\OpenAccess\bin\win32\opt;D:\Cadence\SPB_16.5\tools\fet\bin;D:\Cadence\SPB_16.5\tools\pcb\bin;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Program Files\WIDCOMM\Bluetooth Software\;C:\Program Files\WIDCOMM\Bluetooth Software\syswow64;C:\Program Files (x86)\P-CAD 2006 Viewer\;D:\Cadence\SPB_16.5\tools\specctra\bin;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files\TortoiseSVN\bin;D:\iCEcube2\Aldec\Active-HDL\BIN;C:\Program Files (x86)\hdparm\bin;D:\MentorGraphics\7.9.4EE\SDD_HOME\common\win32\lib;D:\MinGW\bin;D:\MinGW\msys\1.0\bin;D:\COSMIC\CXSTM8_EVAL]
+[2013.07.31 11:48:00] [0000m.03s.837ms] [1] SDD_HOME [D:\MentorGraphics\7.9.4EE\SDD_HOME] on file system [NTFS]
+[2013.07.31 11:48:00] [0000m.03s.837ms] [1] SDD_PLATFORM [win32]
+[2013.07.31 11:48:00] [0000m.03s.837ms] [1] WDIR [D:\MentorData;D:\MentorGraphics\7.9.4EE\SDD_HOME\standard]
+[2013.07.31 11:48:00] [0000m.03s.837ms] [1] Local iCDB working dir [D:\MentorData\iCDB] on file system [NTFS]
+[2013.07.31 11:48:00] [0000m.03s.837ms] [0] Creating database content backup before upgrade
+[2013.07.31 11:48:00] [0000m.03s.837ms] [0] Database content backed up to [D:\work\CentralLib\Templates\Layout\2 Layer Template\keyin.icdb\cdbback\2013-07-31 11.47.59-6968.zip] of size [17 810 bytes (17.4 kB)] in [260us]
+[2013.07.31 11:48:00] [0000m.03s.839ms] [0] Upgrading constraint definitions from version [ce_ee.cns=7.9.6]
+[2013.07.31 11:48:00] [0000m.03s.852ms] [0] Upgrading snapshot [1:PCB] from version [2553]
+[2013.07.31 11:48:00] [0000m.03s.857ms] [1] CORE: Upgrade atlas from version 640 [D:\work\CentralLib\Templates\Layout\2 Layer Template\keyin.icdb\s1\cdbcnfgs\2000000010000050.blk\cesatl]
+[2013.07.31 11:48:00] [0000m.03s.858ms] [1] CORE: Upgrade atlas from version 640 to 641 completed successfully [D:\work\CentralLib\Templates\Layout\2 Layer Template\keyin.icdb\s1\cdbcnfgs\2000000010000050.blk\cesatl]
+[2013.07.31 11:48:00] [0000m.03s.858ms] [1] CORE: Upgrade snapshot PCB completed successfully.
+[2013.07.31 11:48:00] [0000m.03s.859ms] [0] Snapshot [1:PCB] upgraded to version [2709] in [6ms 640us]
+[2013.07.31 11:48:00] [0000m.03s.859ms] [0] Upgrading constraint definitions for snapshot [1:PCB]
+[2013.07.31 11:48:00] [0000m.03s.859ms] [0] Constraint definitions for snapshot [1:PCB] upgraded in [167us]
+[2013.07.31 11:48:00] [0000m.03s.859ms] [0] Saving upgraded snapshot [1:PCB]
+[2013.07.31 11:48:00] [0000m.03s.863ms] [0] Upgraded snapshot [1:PCB] saved in [3ms 467us]
+[2013.07.31 11:48:00] [0000m.03s.874ms] [0] Upgrading snapshot [2:PCB_Layout_Temp] from version [2553]
+[2013.07.31 11:48:00] [0000m.03s.879ms] [1] CORE: Upgrade atlas from version 640 [D:\work\CentralLib\Templates\Layout\2 Layer Template\keyin.icdb\s2\cdbcnfgs\2000000010000050.blk\cesatl]
+[2013.07.31 11:48:00] [0000m.03s.879ms] [1] CORE: Upgrade atlas from version 640 to 641 completed successfully [D:\work\CentralLib\Templates\Layout\2 Layer Template\keyin.icdb\s2\cdbcnfgs\2000000010000050.blk\cesatl]
+[2013.07.31 11:48:00] [0000m.03s.880ms] [1] CORE: Upgrade snapshot PCB_Layout_Temp completed successfully.
+[2013.07.31 11:48:00] [0000m.03s.880ms] [0] Snapshot [2:PCB_Layout_Temp] upgraded to version [2709] in [5ms 485us]
+[2013.07.31 11:48:00] [0000m.03s.880ms] [0] Upgrading constraint definitions for snapshot [2:PCB_Layout_Temp]
+[2013.07.31 11:48:00] [0000m.03s.880ms] [0] Constraint definitions for snapshot [2:PCB_Layout_Temp] upgraded in [159us]
+[2013.07.31 11:48:00] [0000m.03s.880ms] [0] Saving upgraded snapshot [2:PCB_Layout_Temp]
+[2013.07.31 11:48:00] [0000m.03s.884ms] [0] Upgraded snapshot [2:PCB_Layout_Temp] saved in [3ms 505us]
+[2013.07.31 11:48:00] [0000m.03s.957ms] [0] Constraint definitions upgraded to version [ce_ee.cns=7.10.24;user.cns=8692-56de-87ae-f6c1-031c-8f15-31c8-f150-a021-b0ff-308c-9cc5]
+[2013.07.31 11:48:00] [0000m.03s.961ms] [0] DONE
+[2013.07.31 11:48:00] [0000m.03s.961ms] [0] .

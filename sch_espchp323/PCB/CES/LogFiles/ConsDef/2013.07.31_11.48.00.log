@@ -1,0 +1,34 @@
+Wed Jul 31 11:48:00 2013
+
+Project path: D:\work\CentralLib\Templates\Layout\2 Layer Template\keyin.icdb
+
+Constraints definition "CONS_DEF_LOADER" added.
+Loaded cns info: D:\MentorGraphics\7.9.4EE\SDD_HOME\standard\ce_ee.cns=7.10.24
+Before global upgrade from version: 7.9.6 to version: 7.10.24
+
+Constraints definition "TOPO_PATTERN_NAME" added.
+Constraints definition "DSN_DEF_PROPAGATION_DELAY" added (default value: 165).
+Constraints definition "DSN_DESIGN_CENTER" added.
+Constraints definition "POWERNET_PINCOUNT_TYPE" added (default value: FALSE).
+Constraints definition "POWERNET_MANUAL_TYPE" added (default value: FALSE).
+Constraints definition "DIFF_IMPEDANCE" added.
+Constraints definition "POUR_DRAW_STYLE" added (default value: Hatched).
+Constraints definition "THERMAL_COND" added.
+Constraints definition "PIN_PACKAGE_DELAY" added.
+BeforeGlobalUpgrade took 13ms, 0s
+
+Upgrade snapshot PCB
+UpgradeSnapshot took 0ms, 0s
+
+Upgrade snapshot PCB_Layout_Temp
+UpgradeSnapshot took 0ms, 0s
+
+After global upgrade
+Constraints definition "DP_CDT" default value set to: 635000.
+Constraints definition "DP_MDC" default value set to: 2540000.
+Constraints definition "DP_MSD" default value set to: 0.
+Constraints definition "DSN_DISCRETES" default value set to: CAPACITOR=C,#_C;CONNECTOR=P,J;DIODE=D,CR;INDUCTOR=L,#_L;RESISTOR=R,#_R.
+Constraints definition "LOSS_TAN" default value set to: 0.020000000000000.
+Constraints definition "TOPO_PIN_GROUP" deleted.
+AfterGlobalUpgrade took 1ms, 0s
+

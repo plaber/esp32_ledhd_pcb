@@ -1,0 +1,156 @@
+[2010.08.25 15:46:13] [0000m.00s.127ms] [0] WELCOME
+[2010.08.25 15:46:13] [0000m.00s.137ms] [1] iCDB Server ver.1.009, ubDiQQ9snidtGpRfU+XMOQ, build:403588 created 2010-05-25 11:54:37, sources stamp:ubDiQQ9snidtGpRfU+XMOQ
+[2010.08.25 15:46:13] [0000m.00s.138ms] [1] Copyright 2010 Mentor Graphics Corporation. All Rights Reserved.
+[2010.08.25 15:46:13] [0000m.00s.138ms] [1] Base flow version [7.9]
+[2010.08.25 15:46:13] [0000m.00s.138ms] [1] GBS Install Id [14584], Flow Id [EE 7.9], Full Flow Name [Expedition Enterprise Flow], Exact Access Date [Mar 1 2010]
+[2010.08.25 15:46:13] [0000m.00s.148ms] [1] Machine [Caprica]  User [Mike]  PID [2272]
+[2010.08.25 15:46:13] [0000m.00s.148ms] [1] Operating system [Microsoft Windows 7 Home Premium Edition, 64-bit (build 7600)]
+[2010.08.25 15:46:13] [0000m.00s.148ms] [1] Current working dir [D:\work\CentralLib\Templates\Layout\2 Layer Template]
+[2010.08.25 15:46:13] [0000m.00s.148ms] [1] PATH [C:\MentorGraphics\7.9EE\SDD_HOME\xe\win32\lib;C:\MentorGraphics\7.9EE\SDD_HOME\wg\win32\lib;C:\MentorGraphics\7.9EE\SDD_HOME\common\win32\bin;C:\MentorGraphics\7.9EE\SDD_HOME\common\win32\lib;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files\WIDCOMM\Bluetooth Software\;C:\Program Files\WIDCOMM\Bluetooth Software\syswow64;C:\Program Files\TortoiseSVN\bin;C:\OrCAD\OrCAD_16.2\tools\fet\bin;C:\OrCAD\OrCAD_16.2\tools\pcb\bin;C:\OrCAD\OrCAD_16.2\tools\specctra\bin;C:\OrCAD\OrCAD_16.2\tools\PSpice;C:\OrCAD\OrCAD_16.2\tools\PSpice\Library;C:\OrCAD\OrCAD_16.2\tools\Capture;C:\OrCAD\OrCAD_16.2\tools\bin;C:\MENTOR~1\LICENS~1;C:/MentorGraphics/7.9EE/MGC_HOME.ixn/bin;C:/MentorGraphics/7.9EE/MGC_HOME.ixn/lib;C:\MentorGraphics\7.9EE\MGC_HOME.ixn\bin;C:\MentorGraphics\7.9EE\MGC_HOME.ixn\lib;]
+[2010.08.25 15:46:13] [0000m.00s.148ms] [1] SDD_HOME [C:\MentorGraphics\7.9EE\SDD_HOME] on file system [NTFS]
+[2010.08.25 15:46:13] [0000m.00s.148ms] [1] SDD_PLATFORM [win32]
+[2010.08.25 15:46:13] [0000m.00s.150ms] [1] Local iCDB working dir [C:\MentorData\iCDB] on file system [NTFS]
+[2010.08.25 15:46:13] [0000m.00s.150ms] [2] S: Loading config files
+[2010.08.25 15:46:13] [0000m.00s.152ms] [1] Config: WARNING: Could not open config file [C:\MentorData\iCDB\Server\Server.cfg]
+[2010.08.25 15:46:13] [0000m.00s.157ms] [0] Config: ERROR: Could not open config file [C:\MentorData\iCDB\Server\Server.cfg]
+[2010.08.25 15:46:13] [0000m.00s.157ms] [1] Config: WARNING: Could not open config file [D:\work\CentralLib\Templates\Layout\2 Layer Template\keyin.icdb\cdbsvr\Server.cfg]
+[2010.08.25 15:46:13] [0000m.00s.162ms] [3] S: Config loaded
+[2010.08.25 15:46:13] [0000m.00s.166ms] [0] S: Project path [D:\work\CentralLib\Templates\Layout\2 Layer Template\keyin.icdb] on file system [NTFS]
+[2010.08.25 15:46:13] [0000m.00s.167ms] [0] S: Single-user mode (auto)
+[2010.08.25 15:46:13] [0000m.00s.167ms] [0] S: Event polling mode autodetection
+[2010.08.25 15:46:13] [0000m.00s.173ms] [0] S: Started up automatically by iCDB Client: Caprica:Mike:5016
+[2010.08.25 15:46:13] [0000m.00s.173ms] [0] S: Auto close mode
+[2010.08.25 15:46:13] [0000m.00s.173ms] [0] S: Database ID [3b6b-d459-dfd0-e788-4820-57c8-8205-7c40-ab11-2180-bc7c-9cc5]
+[2010.08.25 15:46:13] [0000m.00s.174ms] [0] S: START
+[2010.08.25 15:46:13] [0000m.00s.174ms] [0] S: Server startup lock file created
+[2010.08.25 15:46:13] [0000m.00s.176ms] [0] S: Listening for client connections on port [10000]
+[2010.08.25 15:46:13] [0000m.00s.192ms] [0] S: Server network ID [Caprica:192.168.0.89,Caprica:10000]
+[2010.08.25 15:46:13] [0000m.00s.192ms] [0] S: Server GUID [4ccc-e62c-2ed6-40ec-5820-57c9-8205-7c40-af51-2180-bc7c-9cc5]
+[2010.08.25 15:46:13] [0000m.00s.194ms] [0] S: Project GUID [3b6b-d459-dfd0-e788-4820-57c8-8205-7c40-ab11-2180-bc7c-9cc5]
+[2010.08.25 15:46:13] [0000m.00s.200ms] [0] S: Wrote data to server address file
+[2010.08.25 15:46:13] [0000m.00s.201ms] [0] S: Server startup lock file removed
+[2010.08.25 15:46:13] [0000m.00s.485ms] [0] S: Plugins loaded: [PIM] [ENetGen70] 
+[2010.08.25 15:46:13] [0000m.00s.485ms] [0] S: Local disc access time: 89 us
+[2010.08.25 15:46:13] [0000m.00s.486ms] [0] S: File server access time: 95 us
+[2010.08.25 15:46:13] [0000m.00s.487ms] [0] SingleFile: [0000-0000-0000-0000] SFI header version check [1008] [1008]
+[2010.08.25 15:46:13] [0000m.00s.490ms] [0] SingleFile: [0000-0000-0000-0000] SFI header version check [1008] [1008]
+[2010.08.25 15:46:13] [0000m.00s.490ms] [0] SingleFile: [1fac-4d92-1f52-f0ae] SFI version check [1008] [1008]
+[2010.08.25 15:46:13] [0000m.00s.505ms] [0] iCDB Server PI: Server & plugin session [44]
+[2010.08.25 15:46:13] [0000m.00s.505ms] [0] iCDB Server PI: Opening database [D:\work\CentralLib\Templates\Layout\2 Layer Template\keyin.icdb]
+[2010.08.25 15:46:13] [0000m.00s.505ms] [0] iCDB Server PI: Database [D:\work\CentralLib\Templates\Layout\2 Layer Template\keyin.icdb] opened
+[2010.08.25 15:46:13] [0000m.00s.505ms] [0] iCDB Server PI: Checking existence of constraint definitions
+[2010.08.25 15:46:13] [0000m.00s.505ms] [0] iCDB Server PI: Checking constraint definitions version
+[2010.08.25 15:46:14] [0000m.00s.858ms] [0] iCDB Database: Upgrading constraint definitions from version [ce_ee.cns=7.7.1]
+[2010.08.25 15:46:14] [0000m.00s.859ms] [1] iCDB Storage Server: Backup snapshot: ProjectPath[D:\work\CentralLib\Templates\Layout\2 Layer Template\keyin.icdb] SnapshotID[1]
+[2010.08.25 15:46:14] [0000m.00s.863ms] [0] iCDB Storage Server Backup Thread: Backup snapshot: BackupPath[D:\work\CentralLib\Templates\Layout\2 Layer Template\keyin.icdb\cdbback\2010-08-25 15.46.14-2272.zip]
+[2010.08.25 15:46:14] [0000m.00s.876ms] [0] iCDB Storage Server Backup Thread: Backup snapshot DONE: Result[ Succeeded[TRUE]] BackupPath[D:\work\CentralLib\Templates\Layout\2 Layer Template\keyin.icdb\cdbback]
+[2010.08.25 15:46:14] [0000m.00s.881ms] [1] CORE: Applying a fix no 61 stage [fsAtlasLoaded] to atlas [D:\work\CentralLib\Templates\Layout\2 Layer Template\keyin.icdb\s1\cdbcatlg\catlgatl]
+[2010.08.25 15:46:14] [0000m.00s.881ms] [1] CORE: Applying a fix no 62 stage [fsAtlasLoaded] to atlas [D:\work\CentralLib\Templates\Layout\2 Layer Template\keyin.icdb\s1\cdbcatlg\catlgatl]
+[2010.08.25 15:46:14] [0000m.00s.881ms] [1] CORE: Atlas fixed stage [fsAtlasLoaded] successfully [D:\work\CentralLib\Templates\Layout\2 Layer Template\keyin.icdb\s1\cdbcatlg\catlgatl]
+[2010.08.25 15:46:14] [0000m.00s.889ms] [1] CORE: Applying a fix no 60 stage [fsAtlasLoaded] to atlas [D:\work\CentralLib\Templates\Layout\2 Layer Template\keyin.icdb\s1\cdbcnfgs\2000000010000050.blk\cesatl]
+[2010.08.25 15:46:14] [0000m.00s.889ms] [1] CORE: Applying a fix no 63 stage [fsAtlasLoaded] to atlas [D:\work\CentralLib\Templates\Layout\2 Layer Template\keyin.icdb\s1\cdbcnfgs\2000000010000050.blk\cesatl]
+[2010.08.25 15:46:14] [0000m.00s.889ms] [1] CORE: Applying a fix no 70 stage [fsAtlasLoaded] to atlas [D:\work\CentralLib\Templates\Layout\2 Layer Template\keyin.icdb\s1\cdbcnfgs\2000000010000050.blk\cesatl]
+[2010.08.25 15:46:14] [0000m.00s.890ms] [1] CORE: Applying a fix no 71 stage [fsAtlasLoaded] to atlas [D:\work\CentralLib\Templates\Layout\2 Layer Template\keyin.icdb\s1\cdbcnfgs\2000000010000050.blk\cesatl]
+[2010.08.25 15:46:14] [0000m.00s.890ms] [1] CORE: Applying a fix no 72 stage [fsAtlasLoaded] to atlas [D:\work\CentralLib\Templates\Layout\2 Layer Template\keyin.icdb\s1\cdbcnfgs\2000000010000050.blk\cesatl]
+[2010.08.25 15:46:14] [0000m.00s.890ms] [1] CORE: Applying a fix no 73 stage [fsAtlasLoaded] to atlas [D:\work\CentralLib\Templates\Layout\2 Layer Template\keyin.icdb\s1\cdbcnfgs\2000000010000050.blk\cesatl]
+[2010.08.25 15:46:14] [0000m.00s.890ms] [1] CORE: Applying a fix no 76 stage [fsAtlasLoaded] to atlas [D:\work\CentralLib\Templates\Layout\2 Layer Template\keyin.icdb\s1\cdbcnfgs\2000000010000050.blk\cesatl]
+[2010.08.25 15:46:14] [0000m.00s.891ms] [1] CORE: Applying a fix no 77 stage [fsAtlasLoaded] to atlas [D:\work\CentralLib\Templates\Layout\2 Layer Template\keyin.icdb\s1\cdbcnfgs\2000000010000050.blk\cesatl]
+[2010.08.25 15:46:14] [0000m.00s.891ms] [1] CORE: Atlas fixed stage [fsAtlasLoaded] successfully [D:\work\CentralLib\Templates\Layout\2 Layer Template\keyin.icdb\s1\cdbcnfgs\2000000010000050.blk\cesatl]
+[2010.08.25 15:46:14] [0000m.00s.891ms] [1] CORE: Upgrade snapshot PCB completed successfully.
+[2010.08.25 15:46:14] [0000m.00s.891ms] [1] CORE: Applying a fix no 74 stage [fsSnapshotLoaded] to atlas [D:\work\CentralLib\Templates\Layout\2 Layer Template\keyin.icdb\s1\cdbcnfgs\2000000010000050.blk\cesatl]
+[2010.08.25 15:46:14] [0000m.00s.891ms] [1] CORE: Atlas fixed stage [fsSnapshotLoaded] successfully [D:\work\CentralLib\Templates\Layout\2 Layer Template\keyin.icdb\s1\cdbcnfgs\2000000010000050.blk\cesatl]
+[2010.08.25 15:46:14] [0000m.00s.899ms] [1] iCDB Storage Server: WARNING: Unloading CHANGED file [D:\work\CentralLib\Templates\Layout\2 Layer Template\keyin.icdb\s1\cdbcatlg\catlgatl.v] - auto-saving it
+[2010.08.25 15:46:14] [0000m.00s.900ms] [1] iCDB Storage Server: WARNING: Unloading CHANGED file [D:\work\CentralLib\Templates\Layout\2 Layer Template\keyin.icdb\s1\cdbcnfgs\2000000010000050.blk\cesatl.v] - auto-saving it
+[2010.08.25 15:46:14] [0000m.00s.903ms] [1] CORE: Applying a fix no 61 stage [fsAtlasLoaded] to atlas [D:\work\CentralLib\Templates\Layout\2 Layer Template\keyin.icdb\s2\cdbcatlg\catlgatl]
+[2010.08.25 15:46:14] [0000m.00s.903ms] [1] CORE: Applying a fix no 62 stage [fsAtlasLoaded] to atlas [D:\work\CentralLib\Templates\Layout\2 Layer Template\keyin.icdb\s2\cdbcatlg\catlgatl]
+[2010.08.25 15:46:14] [0000m.00s.903ms] [1] CORE: Atlas fixed stage [fsAtlasLoaded] successfully [D:\work\CentralLib\Templates\Layout\2 Layer Template\keyin.icdb\s2\cdbcatlg\catlgatl]
+[2010.08.25 15:46:14] [0000m.00s.909ms] [1] CORE: Applying a fix no 60 stage [fsAtlasLoaded] to atlas [D:\work\CentralLib\Templates\Layout\2 Layer Template\keyin.icdb\s2\cdbcnfgs\2000000010000050.blk\cesatl]
+[2010.08.25 15:46:14] [0000m.00s.910ms] [1] CORE: Applying a fix no 63 stage [fsAtlasLoaded] to atlas [D:\work\CentralLib\Templates\Layout\2 Layer Template\keyin.icdb\s2\cdbcnfgs\2000000010000050.blk\cesatl]
+[2010.08.25 15:46:14] [0000m.00s.910ms] [1] CORE: Applying a fix no 70 stage [fsAtlasLoaded] to atlas [D:\work\CentralLib\Templates\Layout\2 Layer Template\keyin.icdb\s2\cdbcnfgs\2000000010000050.blk\cesatl]
+[2010.08.25 15:46:14] [0000m.00s.910ms] [1] CORE: Applying a fix no 71 stage [fsAtlasLoaded] to atlas [D:\work\CentralLib\Templates\Layout\2 Layer Template\keyin.icdb\s2\cdbcnfgs\2000000010000050.blk\cesatl]
+[2010.08.25 15:46:14] [0000m.00s.910ms] [1] CORE: Applying a fix no 72 stage [fsAtlasLoaded] to atlas [D:\work\CentralLib\Templates\Layout\2 Layer Template\keyin.icdb\s2\cdbcnfgs\2000000010000050.blk\cesatl]
+[2010.08.25 15:46:14] [0000m.00s.911ms] [1] CORE: Applying a fix no 73 stage [fsAtlasLoaded] to atlas [D:\work\CentralLib\Templates\Layout\2 Layer Template\keyin.icdb\s2\cdbcnfgs\2000000010000050.blk\cesatl]
+[2010.08.25 15:46:14] [0000m.00s.911ms] [1] CORE: Applying a fix no 76 stage [fsAtlasLoaded] to atlas [D:\work\CentralLib\Templates\Layout\2 Layer Template\keyin.icdb\s2\cdbcnfgs\2000000010000050.blk\cesatl]
+[2010.08.25 15:46:14] [0000m.00s.911ms] [1] CORE: Applying a fix no 77 stage [fsAtlasLoaded] to atlas [D:\work\CentralLib\Templates\Layout\2 Layer Template\keyin.icdb\s2\cdbcnfgs\2000000010000050.blk\cesatl]
+[2010.08.25 15:46:14] [0000m.00s.911ms] [1] CORE: Atlas fixed stage [fsAtlasLoaded] successfully [D:\work\CentralLib\Templates\Layout\2 Layer Template\keyin.icdb\s2\cdbcnfgs\2000000010000050.blk\cesatl]
+[2010.08.25 15:46:14] [0000m.00s.911ms] [1] CORE: Upgrade snapshot PCB_Layout_Temp completed successfully.
+[2010.08.25 15:46:14] [0000m.00s.912ms] [1] CORE: Applying a fix no 74 stage [fsSnapshotLoaded] to atlas [D:\work\CentralLib\Templates\Layout\2 Layer Template\keyin.icdb\s2\cdbcnfgs\2000000010000050.blk\cesatl]
+[2010.08.25 15:46:14] [0000m.00s.912ms] [1] CORE: Atlas fixed stage [fsSnapshotLoaded] successfully [D:\work\CentralLib\Templates\Layout\2 Layer Template\keyin.icdb\s2\cdbcnfgs\2000000010000050.blk\cesatl]
+[2010.08.25 15:46:14] [0000m.00s.919ms] [1] iCDB Storage Server: WARNING: Unloading CHANGED file [D:\work\CentralLib\Templates\Layout\2 Layer Template\keyin.icdb\s2\cdbcatlg\catlgatl.v] - auto-saving it
+[2010.08.25 15:46:14] [0000m.00s.919ms] [1] iCDB Storage Server: WARNING: Unloading CHANGED file [D:\work\CentralLib\Templates\Layout\2 Layer Template\keyin.icdb\s2\cdbcnfgs\2000000010000050.blk\cesatl.v] - auto-saving it
+[2010.08.25 15:46:14] [0000m.01s.051ms] [0] iCDB Database: Constraint definitions upgraded to version [ce_ee.cns=7.9.6]
+[2010.08.25 15:46:14] [0000m.01s.063ms] [1] iCDB Server PI: Checking database integrity
+[2010.08.25 15:46:14] [0000m.01s.094ms] [1] iCDB Storage Server: WARNING: Unloading CHANGED file [D:\work\CentralLib\Templates\Layout\2 Layer Template\keyin.icdb\s1\cdbcmpcache\dxdatl.v] - auto-saving it
+[2010.08.25 15:46:14] [0000m.01s.118ms] [1] iCDB Storage Server: WARNING: Unloading CHANGED file [D:\work\CentralLib\Templates\Layout\2 Layer Template\keyin.icdb\s2\cdbcmpcache\dxdatl.v] - auto-saving it
+[2010.08.25 15:46:14] [0000m.01s.118ms] [1] iCDB Server PI: Database integrity check PASSED
+[2010.08.25 15:46:14] [0000m.01s.119ms] [0] iCDB Server PI: Initializing plugins
+[2010.08.25 15:46:14] [0000m.01s.143ms] [0] iCDB Server PI: Plugins initialized
+[2010.08.25 15:46:14] [0000m.01s.143ms] [0] S: iCDB database loaded
+[2010.08.25 15:46:14] [0000m.01s.146ms] [0] S: Starting threads
+[2010.08.25 15:46:14] [0000m.01s.147ms] [0] BT: Listening for broadcast messages on port [10000]
+[2010.08.25 15:46:14] [0000m.01s.148ms] [1] CMT: There are no clients - waiting [10 seconds]
+[2010.08.25 15:46:14] [0000m.01s.149ms] [0] IT: Session [45] for host [Caprica] user [Mike] with process ID [5016] created
+[2010.08.25 15:46:14] [0000m.01s.150ms] [1] SCL: WARNING: Could not find client [45] stat data
+[2010.08.25 15:46:14] [0000m.01s.152ms] [1] SC[45]: Registered sub-client [EEVM_EEVM_132788484] with ID [1] for session ID [45] host [Caprica] user [Mike] process ID [5016]
+[2010.08.25 15:46:14] [0000m.01s.178ms] [1] SC[45]: UnRegistered sub-client [EEVM_EEVM_132788484] with ID [1] for session ID [45] host [Caprica] user [Mike] process ID [5016]
+[2010.08.25 15:46:14] [0000m.01s.248ms] [1] CMT: There are [1] clients now
+[2010.08.25 15:46:14] [0000m.01s.248ms] [1] CMT: Removed client [45]
+[2010.08.25 15:46:14] [0000m.01s.248ms] [1] CMT: There are no clients left - waiting [1 seconds]
+[2010.08.25 15:46:15] [0000m.01s.953ms] [0] IT: Session [46] for host [Caprica] user [Mike] with process ID [5016] created
+[2010.08.25 15:46:15] [0000m.01s.955ms] [1] SC[46]: Registered sub-client [Expedition PCB_416744814] with ID [1] for session ID [46] host [Caprica] user [Mike] process ID [5016]
+[2010.08.25 15:46:16] [0000m.03s.006ms] [1] SC[46]: Registered sub-client [ExpeditionCrossProber] with ID [2] for session ID [46] host [Caprica] user [Mike] process ID [5016]
+[2010.08.25 15:46:33] [0000m.20s.200ms] [0] DFAMT: File server access time: 96 us
+[2010.08.25 15:47:13] [0001m.00s.400ms] [1] SC[46]: Registered sub-client [JobPrefsDBPI_416803362] with ID [3] for session ID [46] host [Caprica] user [Mike] process ID [5016]
+[2010.08.25 15:47:13] [0001m.00s.443ms] [1] SC[46]: UnRegistered sub-client [JobPrefsDBPI_416803362] with ID [3] for session ID [46] host [Caprica] user [Mike] process ID [5016]
+[2010.08.25 15:47:13] [0001m.00s.506ms] [1] SC[46]: Registered sub-client [JobPrefsDBPI_416803471] with ID [4] for session ID [46] host [Caprica] user [Mike] process ID [5016]
+[2010.08.25 15:47:13] [0001m.00s.522ms] [1] SC[46]: UnRegistered sub-client [JobPrefsDBPI_416803471] with ID [4] for session ID [46] host [Caprica] user [Mike] process ID [5016]
+[2010.08.25 15:47:13] [0001m.00s.531ms] [1] SC[46]: Registered sub-client [JobPrefsDBPI_416803502] with ID [5] for session ID [46] host [Caprica] user [Mike] process ID [5016]
+[2010.08.25 15:47:13] [0001m.00s.538ms] [1] SC[46]: UnRegistered sub-client [JobPrefsDBPI_416803502] with ID [5] for session ID [46] host [Caprica] user [Mike] process ID [5016]
+[2010.08.25 15:47:14] [0001m.00s.801ms] [1] SC[46]: Registered sub-client [JobPrefsDBPI_416803767] with ID [6] for session ID [46] host [Caprica] user [Mike] process ID [5016]
+[2010.08.25 15:47:14] [0001m.00s.811ms] [1] SC[46]: UnRegistered sub-client [JobPrefsDBPI_416803767] with ID [6] for session ID [46] host [Caprica] user [Mike] process ID [5016]
+[2010.08.25 15:47:14] [0001m.01s.058ms] [1] SC[46]: UnRegistered sub-client [ExpeditionCrossProber] with ID [2] for session ID [46] host [Caprica] user [Mike] process ID [5016]
+[2010.08.25 15:47:14] [0001m.01s.080ms] [1] SC[46]: Registered sub-client [iCDBBackup] with ID [7] for session ID [46] host [Caprica] user [Mike] process ID [5016]
+[2010.08.25 15:47:14] [0001m.01s.091ms] [1] iCDB Storage Server: Backup queued: NetSubClientData[ClientData[ClientNetAddress[Caprica] # ClientUserName[Mike] # ClientProcessID[5016] # SessionID[46]] # SubClientData[SubClientName[iCDBBackup] # SubClientID[7]]] ProjectPath[D:\work\CentralLib\Templates\Layout\2 Layer Template\keyin.icdb] BackupPath[D:\work\CentralLib\Templates\Layout\2 Layer Template\AutoBackup\1282736834\keyin.icdb] WithLogFiles[1] Overwrite[0]
+[2010.08.25 15:47:14] [0001m.01s.255ms] [1] SC[46]: UnRegistered sub-client [iCDBBackup] with ID [7] for session ID [46] host [Caprica] user [Mike] process ID [5016]
+[2010.08.25 15:47:14] [0001m.01s.266ms] [1] SC[46]: UnRegistered sub-client [Expedition PCB_416744814] with ID [1] for session ID [46] host [Caprica] user [Mike] process ID [5016]
+[2010.08.25 15:47:14] [0001m.01s.289ms] [1] iCDB Storage Server Backup Thread: Backup done: NetSubClientData[ClientData[ClientNetAddress[Caprica] # ClientUserName[Mike] # ClientProcessID[5016] # SessionID[46]] # SubClientData[SubClientName[iCDBBackup] # SubClientID[7]]] BackupPath[D:\work\CentralLib\Templates\Layout\2 Layer Template\AutoBackup\1282736834] WithLogFiles[1] Overwrite[0]
+[2010.08.25 15:47:14] [0001m.01s.314ms] [1] CMT: Removed client [46]
+[2010.08.25 15:47:14] [0001m.01s.314ms] [1] CMT: There are no clients left - waiting [1 seconds]
+[2010.08.25 15:47:14] [0001m.01s.631ms] [0] IT: Session [47] for host [Caprica] user [Mike] with process ID [5016] created
+[2010.08.25 15:47:14] [0001m.01s.633ms] [1] SC[47]: Registered sub-client [JobPrefsDBPI_416804500] with ID [1] for session ID [47] host [Caprica] user [Mike] process ID [5016]
+[2010.08.25 15:47:14] [0001m.01s.659ms] [1] SC[47]: UnRegistered sub-client [JobPrefsDBPI_416804500] with ID [1] for session ID [47] host [Caprica] user [Mike] process ID [5016]
+[2010.08.25 15:47:15] [0001m.01s.716ms] [1] CMT: Removed client [47]
+[2010.08.25 15:47:15] [0001m.01s.716ms] [1] CMT: There are no clients left - waiting [1 seconds]
+[2010.08.25 15:47:15] [0001m.02s.332ms] [0] IT: Session [48] for host [Caprica] user [Mike] with process ID [5016] created
+[2010.08.25 15:47:15] [0001m.02s.334ms] [1] SC[48]: Registered sub-client [Expedition PCB_416805202] with ID [1] for session ID [48] host [Caprica] user [Mike] process ID [5016]
+[2010.08.25 15:47:16] [0001m.02s.798ms] [1] SC[48]: Registered sub-client [JobPrefsDBPI_416805764] with ID [2] for session ID [48] host [Caprica] user [Mike] process ID [5016]
+[2010.08.25 15:47:16] [0001m.02s.805ms] [1] SC[48]: UnRegistered sub-client [JobPrefsDBPI_416805764] with ID [2] for session ID [48] host [Caprica] user [Mike] process ID [5016]
+[2010.08.25 15:47:17] [0001m.04s.071ms] [1] SC[48]: Registered sub-client [ExpeditionCrossProber] with ID [3] for session ID [48] host [Caprica] user [Mike] process ID [5016]
+[2010.08.25 15:47:23] [0001m.10s.402ms] [1] SC[48]: UnRegistered sub-client [ExpeditionCrossProber] with ID [3] for session ID [48] host [Caprica] user [Mike] process ID [5016]
+[2010.08.25 15:47:23] [0001m.10s.482ms] [1] SC[48]: UnRegistered sub-client [Expedition PCB_416805202] with ID [1] for session ID [48] host [Caprica] user [Mike] process ID [5016]
+[2010.08.25 15:47:23] [0001m.10s.517ms] [1] CMT: Removed client [48]
+[2010.08.25 15:47:23] [0001m.10s.517ms] [1] CMT: There are no clients left - waiting [1 seconds]
+[2010.08.25 15:47:25] [0001m.11s.717ms] [0] CMT: Starting server auto-close
+[2010.08.25 15:47:25] [0001m.11s.731ms] [0] S: Closing server
+[2010.08.25 15:47:25] [0001m.11s.833ms] [0] iCDB Server PI: Closing plugins
+[2010.08.25 15:47:25] [0001m.11s.833ms] [0] iCDB Server PI: Plugins closed
+[2010.08.25 15:47:25] [0001m.11s.833ms] [0] iCDB Server PI: Unloading database
+[2010.08.25 15:47:25] [0001m.11s.833ms] [0] iCDB Server PI: Saving storage
+[2010.08.25 15:47:25] [0001m.11s.833ms] [0] iCDB Server PI: Closing database
+[2010.08.25 15:47:25] [0001m.11s.833ms] [1] iCDB Server PI: Stats: Database defragmentation: max[2] avg[1] holes[36%] data[54%]
+[2010.08.25 15:47:25] [0001m.11s.833ms] [1] iCDB Server PI: Stats: Database file size [72368] bytes
+[2010.08.25 15:47:25] [0001m.11s.833ms] [1] iCDB Server PI: WARNING: Database needs defragmentation!
+[2010.08.25 15:47:25] [0001m.11s.842ms] [0] iCDB Server PI: Database closed
+[2010.08.25 15:47:25] [0001m.11s.842ms] [0] iCDB Server PI: Defragmenting database
+[2010.08.25 15:47:25] [0001m.11s.842ms] [0] iCDB Server PI: Backuping database [D:\work\CentralLib\Templates\Layout\2 Layer Template\keyin.icdb] to file [D:\work\CentralLib\Templates\Layout\2 Layer Template\keyin.icdb\cdbback\2010-08-25 15.47.25-2272-d.zip]
+[2010.08.25 15:47:25] [0001m.11s.874ms] [0] iCDB Server PI: Backup database: DONE
+[2010.08.25 15:47:25] [0001m.11s.887ms] [0] SingleFile: [0000-0000-0000-0000] SFI header version check [1008] [1008]
+[2010.08.25 15:47:25] [0001m.11s.887ms] [0] SingleFile: [1fac-4d92-1f52-f0ae] SFI version check [1008] [1008]
+[2010.08.25 15:47:25] [0001m.11s.899ms] [1] iCDB Server PI: Stats: Database file size: before[72408], after[52144], gain[20264]
+[2010.08.25 15:47:25] [0001m.11s.900ms] [0] iCDB Server PI: Database defragmentation completed successfully
+[2010.08.25 15:47:25] [0001m.11s.900ms] [1] BackupTransaction: Removing database backup [D:\work\CentralLib\Templates\Layout\2 Layer Template\keyin.icdb\cdbback\2010-08-25 15.47.25-2272-d.zip]
+[2010.08.25 15:47:25] [0001m.11s.901ms] [1] iCDB Server PI: Stats: Total iCDB execution time: [39865] ticks
+[2010.08.25 15:47:25] [0001m.11s.901ms] [1] iCDB Server PI: Stats: Total iCDB execution time: [17751] microseconds
+[2010.08.25 15:47:25] [0001m.11s.901ms] [1] iCDB Server PI: Stats: Total iCDB commands count: [81]
+[2010.08.25 15:47:25] [0001m.11s.901ms] [1] iCDB Server PI: Stats: Average iCDB speed:        [4562] commands per second
+[2010.08.25 15:47:25] [0001m.11s.994ms] [0] S: STOP

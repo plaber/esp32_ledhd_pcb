@@ -1,0 +1,146 @@
+
+                               Forward Annotation
+                               ------------------
+
+                       10:19 AM Saturday, January 21, 2023
+      Job Name: C:\PCB_Projects\new_ledsContr3\sch_espchp323\PCB\esp32.pcb
+
+
+Version:  01.01.00
+
+     The PDBs listed in the project file will be searched to satisfy the parts
+      requirements of the iCDB only for parts not already found in the
+      Target PDB.
+
+     The schematic source is a Keyin Netlist.
+     
+
+    2:  no valid page assigned previous to %%part/value - assuming page 1
+   38:  no valid priority assigned previous to %%net - assuming priority 6
+     Netlist has no syntax errors
+
+     The Keyin Netlist has been read
+
+     Target PDB Name: Work\Layout_Temp\PartsDB.pdb
+
+     Number of Part Numbers: 14
+          Part Numb: ESP32W -> Vend Part: ESP32W 
+          Part Numb: LED3528 -> Vend Part: LED3528 
+          Part Numb: QFN16 -> Vend Part: QFN16 
+          Part Numb: SIP2 -> Vend Part: SIP2 
+          Part Numb: SIP4 -> Vend Part: SIP4 
+          Part Numb: SIP6 -> Vend Part: SIP6 
+          Part Numb: SOIC8EP -> Vend Part: SOIC8EP 
+          Part Numb: SOT23 -> Vend Part: SOT23 
+          Part Numb: SOT23-5 -> Vend Part: SOT23-5 
+          Part Numb: SW_BT85 -> Vend Part: SW_BT85 
+          Part Numb: SW_FSM2 -> Vend Part: SW_FSM2 
+          Part Numb: USBC -> Vend Part: USBC 
+          Part Numb: 0603 -> Vend Part: 0603 
+          Part Numb: 0805 -> Vend Part: 0805 
+
+     Number of Part Names: 0
+
+     Number of Part Labels: 0
+
+
+
+
+     29 nets were found containing 121 pins
+     35 components were found
+
+     Creating a formatted Schematic Netlist (LogFiles\SchematicNetlist.txt)...
+     A formatted Schematic Netlist has been created.
+
+     The Logic DataBase and the Schematic Design are now in sync.  Use
+      Netload to bring the Component Design into sync.
+
+     Logic Data has been successfully Compiled with no errors or warnings.
+      Please proceed with your component Design.
+                                     NetLoad
+                                     -------
+
+                       10:19 AM Saturday, January 21, 2023
+      Job Name: C:\PCB_Projects\new_ledsContr3\sch_espchp323\PCB\esp32.pcb
+
+
+Version:  02.11.12
+
+	Netloading the Layout.  Unused components will be deleted.
+
+	Unconnected pins will be set to net "(Net0)".
+
+	Schematic reference designator changes will be forward annotated.
+
+
+    WARNING:  Removing PCB Net Name "N10486658" from the NetPropsDB.  It is no longer in the schematic.
+
+    WARNING:  Removing PCB Net Name "N10486686" from the NetPropsDB.  It is no longer in the schematic.
+
+    WARNING:  Removing PCB Net Name "N10486944" from the NetPropsDB.  It is no longer in the schematic.
+
+    WARNING:  Removing PCB Net Name "N10487226" from the NetPropsDB.  It is no longer in the schematic.
+
+    WARNING:  Adding PCB Net Name "GPIO14" to the NetPropsDB.
+
+    WARNING:  Adding PCB Net Name "GPIO25" to the NetPropsDB.
+
+    WARNING:  Adding PCB Net Name "GPIO26" to the NetPropsDB.
+
+    WARNING:  Adding PCB Net Name "GPIO27" to the NetPropsDB.
+
+     Netload completed successfully with 8 warning(s).
+     
+     Back Annotating...
+
+  Updating Logic Database...
+
+     Version:  99.00.05
+
+     Writing a list of routed plane pins to Logic\rtdplane.caf.
+
+     Finished updating the Logic Database.
+
+     Creating a formatted Schematic Netlist (LogFiles\AfterBakAnnoNetlist.txt)...
+     A formatted Schematic Netlist has been created.
+
+     Creating a new Keyin Netlist (C:\PCB_Projects\new_ledsContr3\sch_espchp323\netlist.kyn)
+      from the Logic Database (Work\Layout_Temp\LogicDB.lgc)...
+  A new Keyin Netlist has been generated.
+
+
+
+                 Beginning Netload on the Layout Design.
+           ---------------------------------------------------
+	Assigned net GPIO14 to a trace which was originally on net N10486686.
+	Assigned net GPIO14 to a trace which was originally on net N10486686.
+	Assigned net GPIO14 to a via which was originally on net N10486686.
+	Assigned net GPIO14 to a trace which was originally on net N10486686.
+	Assigned net GPIO14 to a trace which was originally on net N10486686.
+	Assigned net GPIO25 to a trace which was originally on net N10486658.
+	Assigned net GPIO25 to a via which was originally on net N10486658.
+	Assigned net GPIO25 to a trace which was originally on net N10486658.
+	Assigned net GPIO25 to a trace which was originally on net N10486658.
+	Assigned net GPIO25 to a trace which was originally on net N10486658.
+	Assigned net GPIO26 to a trace which was originally on net N10487226.
+	Assigned net GPIO26 to a trace which was originally on net N10487226.
+	Assigned net GPIO26 to a via which was originally on net N10487226.
+	Assigned net GPIO26 to a trace which was originally on net N10487226.
+	Assigned net GPIO26 to a trace which was originally on net N10487226.
+	Assigned net GPIO27 to a trace which was originally on net N10486944.
+	Assigned net GPIO27 to a trace which was originally on net N10486944.
+	Assigned net GPIO27 to a via which was originally on net N10486944.
+	Assigned net GPIO27 to a trace which was originally on net N10486944.
+	Assigned net GPIO27 to a trace which was originally on net N10486944.
+
+Some nets were completely deleted from the Layout Design....
+	Deleted net N10486658, which has no pins, from the Layout Design.
+	Deleted net N10486686, which has no pins, from the Layout Design.
+	Deleted net N10486944, which has no pins, from the Layout Design.
+	Deleted net N10487226, which has no pins, from the Layout Design.
+
+Forward-Annotation on the Layout Design has been successfully completed.
+
+There were 20 reassignments of nets.
+There were 0 traces broken back.
+There were 4 nets removed from the Layout Design.

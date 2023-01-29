@@ -1,0 +1,1691 @@
+
+;
+; The following is an extraction of the NetlistBackAnno.txt file limited
+; to those changes from the last forward annotation that involved changes
+; of reference designator regardless of pin or gate swap within the same part.
+; The exception being a local Common DataBase job which performs an implicit
+; forward annotation after every back annotation.
+; Changes could result from one or more runs of ECO/Renumber Ref Des
+; and/or one or more runs of Route/Swap/Gates and/or one or more runs of
+; Place/Automatic/Swap by Part Number.  If it is desired to document just
+; the changes from one or more runs of ECO/Renumber Ref Des, run Forward
+; Annotation to bring the schematic/netlist into sync with the board,
+; make the runs of ECO/Renumber Ref Des, and then run Back Annotation.
+; The first column represents the old reference designator.
+; The second represents the new reference designator using a tab as a separator
+; since references designators may have included spaces.  Leading spaces have
+; been added to reference designators in order to improve readability
+; NOTICE:
+;
+; 1. The file format is subject to change per product release.
+; 2. The information is valid until the user makes changes that require
+; back annotation.
+; 3. For more complete information on all changes the user should reference
+; the NetlistBackAnno.txt file.
+; 
+;  <Fwd Anno Ref><tab> <New Ref>
+;------------------------------- --------------------------------
+
+;------------------------------- --------------------------------
+; STARTING AN EXPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+;------------------------------- --------------------------------
+; STARTING AN EXPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+;------------------------------- --------------------------------
+; STARTING AN EXPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+;------------------------------- --------------------------------
+; STARTING AN EXPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                        02:10 PM Thursday, March 14, 2019
+    Job Name: C:\Documents and Settings\autist\Мои документы\sch\PCB\esp.pcb
+
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                         02:04 PM Friday, March 15, 2019
+    Job Name: C:\Documents and Settings\autist\Мои документы\sch\PCB\esp.pcb
+
+
+;------------------------------- --------------------------------
+; STARTING AN EXPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                         02:05 PM Friday, March 15, 2019
+    Job Name: C:\Documents and Settings\autist\Мои документы\sch\PCB\esp.pcb
+
+
+;------------------------------- --------------------------------
+; STARTING AN EXPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                         03:31 PM Friday, March 15, 2019
+    Job Name: C:\Documents and Settings\autist\Мои документы\sch\PCB\esp.pcb
+
+
+;------------------------------- --------------------------------
+; STARTING AN EXPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                         04:04 PM Friday, March 15, 2019
+    Job Name: C:\Documents and Settings\autist\Мои документы\sch\PCB\esp.pcb
+
+
+;------------------------------- --------------------------------
+; STARTING AN EXPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                         04:05 PM Friday, March 15, 2019
+    Job Name: C:\Documents and Settings\autist\Мои документы\sch\PCB\esp.pcb
+
+
+;------------------------------- --------------------------------
+; STARTING AN EXPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                         04:15 PM Friday, March 15, 2019
+    Job Name: C:\Documents and Settings\autist\Мои документы\sch\PCB\esp.pcb
+
+
+;------------------------------- --------------------------------
+; STARTING AN EXPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                         04:17 PM Friday, March 15, 2019
+    Job Name: C:\Documents and Settings\autist\Мои документы\sch\PCB\esp.pcb
+
+
+;------------------------------- --------------------------------
+; STARTING AN EXPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                         04:19 PM Friday, March 15, 2019
+    Job Name: C:\Documents and Settings\autist\Мои документы\sch\PCB\esp.pcb
+
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                        10:29 AM Tuesday, March 19, 2019
+    Job Name: C:\Documents and Settings\autist\Мои документы\sch\PCB\esp.pcb
+
+
+;------------------------------- --------------------------------
+; STARTING AN EXPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                        10:30 AM Tuesday, March 19, 2019
+    Job Name: C:\Documents and Settings\autist\Мои документы\sch\PCB\esp.pcb
+
+
+;------------------------------- --------------------------------
+; STARTING AN EXPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                        10:32 AM Tuesday, March 19, 2019
+    Job Name: C:\Documents and Settings\autist\Мои документы\sch\PCB\esp.pcb
+
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                       10:26 AM Wednesday, March 20, 2019
+    Job Name: C:\Documents and Settings\autist\Мои документы\sch\PCB\esp.pcb
+
+
+;------------------------------- --------------------------------
+; STARTING AN EXPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                       10:28 AM Wednesday, March 20, 2019
+    Job Name: C:\Documents and Settings\autist\Мои документы\sch\PCB\esp.pcb
+
+
+;------------------------------- --------------------------------
+; STARTING AN EXPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+;------------------------------- --------------------------------
+; STARTING AN EXPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                       10:31 AM Wednesday, March 20, 2019
+    Job Name: C:\Documents and Settings\autist\Мои документы\sch\PCB\esp.pcb
+
+
+;------------------------------- --------------------------------
+; STARTING AN EXPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                       10:32 AM Wednesday, March 20, 2019
+    Job Name: C:\Documents and Settings\autist\Мои документы\sch\PCB\esp.pcb
+
+
+;------------------------------- --------------------------------
+; STARTING AN EXPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                       10:33 AM Wednesday, March 20, 2019
+    Job Name: C:\Documents and Settings\autist\Мои документы\sch\PCB\esp.pcb
+
+
+;------------------------------- --------------------------------
+; STARTING AN EXPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                       10:34 AM Wednesday, March 20, 2019
+    Job Name: C:\Documents and Settings\autist\Мои документы\sch\PCB\esp.pcb
+
+
+;------------------------------- --------------------------------
+; STARTING AN EXPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                       10:36 AM Wednesday, March 20, 2019
+    Job Name: C:\Documents and Settings\autist\Мои документы\sch\PCB\esp.pcb
+
+
+;------------------------------- --------------------------------
+; STARTING AN EXPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                       11:20 AM Wednesday, March 20, 2019
+    Job Name: C:\Documents and Settings\autist\Мои документы\sch\PCB\esp.pcb
+
+
+;------------------------------- --------------------------------
+; STARTING AN EXPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                       11:31 AM Wednesday, March 20, 2019
+    Job Name: C:\Documents and Settings\autist\Мои документы\sch\PCB\esp.pcb
+
+
+;------------------------------- --------------------------------
+; STARTING AN EXPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                       11:35 AM Wednesday, March 20, 2019
+    Job Name: C:\Documents and Settings\autist\Мои документы\sch\PCB\esp.pcb
+
+
+;------------------------------- --------------------------------
+; STARTING AN EXPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                       12:10 PM Wednesday, March 20, 2019
+    Job Name: C:\Documents and Settings\autist\Мои документы\sch\PCB\esp.pcb
+
+
+;------------------------------- --------------------------------
+; STARTING AN EXPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                       12:13 PM Wednesday, March 20, 2019
+    Job Name: C:\Documents and Settings\autist\Мои документы\sch\PCB\esp.pcb
+
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                         02:19 PM Friday, March 22, 2019
+    Job Name: C:\Documents and Settings\autist\Мои документы\sch\PCB\esp.pcb
+
+
+;------------------------------- --------------------------------
+; STARTING AN EXPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                         02:20 PM Friday, March 22, 2019
+    Job Name: C:\Documents and Settings\autist\Мои документы\sch\PCB\esp.pcb
+
+
+;------------------------------- --------------------------------
+; STARTING AN EXPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                        03:35 PM Thursday, April 04, 2019
+    Job Name: C:\Documents and Settings\autist\Мои документы\sch\PCB\esp.pcb
+
+
+;------------------------------- --------------------------------
+; STARTING AN EXPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+;------------------------------- --------------------------------
+; STARTING AN EXPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                        04:29 PM Thursday, April 04, 2019
+    Job Name: C:\Documents and Settings\autist\Мои документы\sch\PCB\esp.pcb
+
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                          12:08 PM Monday, May 20, 2019
+                 Job Name: C:\PCB_Projects\sch_esp1\PCB\esp.pcb
+
+
+;------------------------------- --------------------------------
+; STARTING AN EXPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                          12:09 PM Monday, May 20, 2019
+                 Job Name: C:\PCB_Projects\sch_esp1\PCB\esp.pcb
+
+
+;------------------------------- --------------------------------
+; STARTING AN EXPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                          12:10 PM Monday, May 20, 2019
+                 Job Name: C:\PCB_Projects\sch_esp1\PCB\esp.pcb
+
+
+;------------------------------- --------------------------------
+; STARTING AN EXPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                          12:16 PM Monday, May 20, 2019
+                 Job Name: C:\PCB_Projects\sch_esp1\PCB\esp.pcb
+
+
+;------------------------------- --------------------------------
+; STARTING AN EXPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                          12:28 PM Monday, May 20, 2019
+                 Job Name: C:\PCB_Projects\sch_esp1\PCB\esp.pcb
+
+
+;------------------------------- --------------------------------
+; STARTING AN EXPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                          12:34 PM Monday, May 20, 2019
+                 Job Name: C:\PCB_Projects\sch_esp1\PCB\esp.pcb
+
+
+;------------------------------- --------------------------------
+; STARTING AN EXPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                          12:36 PM Monday, May 20, 2019
+                 Job Name: C:\PCB_Projects\sch_esp1\PCB\esp.pcb
+
+
+;------------------------------- --------------------------------
+; STARTING AN EXPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                          12:41 PM Monday, May 20, 2019
+                 Job Name: C:\PCB_Projects\sch_esp1\PCB\esp.pcb
+
+
+;------------------------------- --------------------------------
+; STARTING AN EXPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                          12:48 PM Monday, May 20, 2019
+                 Job Name: C:\PCB_Projects\sch_esp1\PCB\esp.pcb
+
+
+;------------------------------- --------------------------------
+; STARTING AN EXPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                          12:52 PM Monday, May 20, 2019
+                 Job Name: C:\PCB_Projects\sch_esp1\PCB\esp.pcb
+
+
+;------------------------------- --------------------------------
+; STARTING AN EXPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                          12:54 PM Monday, May 20, 2019
+                 Job Name: C:\PCB_Projects\sch_esp1\PCB\esp.pcb
+
+
+;------------------------------- --------------------------------
+; STARTING AN EXPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                          01:10 PM Monday, May 20, 2019
+                 Job Name: C:\PCB_Projects\sch_esp1\PCB\esp.pcb
+
+
+;------------------------------- --------------------------------
+; STARTING AN EXPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                          01:14 PM Monday, May 20, 2019
+                 Job Name: C:\PCB_Projects\sch_esp1\PCB\esp.pcb
+
+
+;------------------------------- --------------------------------
+; STARTING AN EXPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                          01:19 PM Monday, May 20, 2019
+                 Job Name: C:\PCB_Projects\sch_esp1\PCB\esp.pcb
+
+
+;------------------------------- --------------------------------
+; STARTING AN EXPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                          01:41 PM Monday, May 20, 2019
+                 Job Name: C:\PCB_Projects\sch_esp1\PCB\esp.pcb
+
+
+;------------------------------- --------------------------------
+; STARTING AN EXPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                         04:27 PM Thursday, May 23, 2019
+                 Job Name: C:\PCB_Projects\sch_esp1\PCB\esp.pcb
+
+
+;------------------------------- --------------------------------
+; STARTING AN EXPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                         11:05 AM Monday, June 10, 2019
+                 Job Name: C:\PCB_Projects\sch_esp1\PCB\esp.pcb
+
+
+;------------------------------- --------------------------------
+; STARTING AN EXPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                        11:29 AM Thursday, June 13, 2019
+                 Job Name: C:\PCB_Projects\sch_esp2\PCB\esp.pcb
+
+
+;------------------------------- --------------------------------
+; STARTING AN EXPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                        11:32 AM Thursday, June 13, 2019
+                 Job Name: C:\PCB_Projects\sch_esp2\PCB\esp.pcb
+
+
+;------------------------------- --------------------------------
+; STARTING AN EXPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                        11:42 AM Thursday, June 13, 2019
+                 Job Name: C:\PCB_Projects\sch_esp2\PCB\esp.pcb
+
+
+;------------------------------- --------------------------------
+; STARTING AN EXPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                        11:54 AM Thursday, June 13, 2019
+                 Job Name: C:\PCB_Projects\sch_esp2\PCB\esp.pcb
+
+
+;------------------------------- --------------------------------
+; STARTING AN EXPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                         10:47 AM Friday, June 14, 2019
+               Job Name: C:\PCB_Projects\sch_esp21chp\PCB\esp.pcb
+
+
+;------------------------------- --------------------------------
+; STARTING AN EXPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                         10:52 AM Friday, June 14, 2019
+               Job Name: C:\PCB_Projects\sch_esp21chp\PCB\esp.pcb
+
+
+;------------------------------- --------------------------------
+; STARTING AN EXPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                         10:55 AM Friday, June 14, 2019
+               Job Name: C:\PCB_Projects\sch_esp21chp\PCB\esp.pcb
+
+
+;------------------------------- --------------------------------
+; STARTING AN EXPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                         10:56 AM Friday, June 14, 2019
+               Job Name: C:\PCB_Projects\sch_esp21chp\PCB\esp.pcb
+
+
+;------------------------------- --------------------------------
+; STARTING AN EXPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                         10:58 AM Friday, June 14, 2019
+               Job Name: C:\PCB_Projects\sch_esp21chp\PCB\esp.pcb
+
+
+;------------------------------- --------------------------------
+; STARTING AN EXPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                         11:55 AM Monday, June 24, 2019
+               Job Name: C:\PCB_Projects\sch_esp21chp\PCB\esp.pcb
+
+
+;------------------------------- --------------------------------
+; STARTING AN EXPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                         12:27 PM Monday, June 24, 2019
+               Job Name: C:\PCB_Projects\sch_esp21chp\PCB\esp.pcb
+
+
+;------------------------------- --------------------------------
+; STARTING AN EXPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                         01:01 PM Monday, June 24, 2019
+               Job Name: C:\PCB_Projects\sch_esp21chp\PCB\esp.pcb
+
+
+;------------------------------- --------------------------------
+; STARTING AN EXPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                         01:14 PM Monday, June 24, 2019
+               Job Name: C:\PCB_Projects\sch_esp21chp\PCB\esp.pcb
+
+
+;------------------------------- --------------------------------
+; STARTING AN EXPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                         01:19 PM Monday, June 24, 2019
+               Job Name: C:\PCB_Projects\sch_esp21chp\PCB\esp.pcb
+
+
+;------------------------------- --------------------------------
+; STARTING AN EXPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                         01:30 PM Monday, June 24, 2019
+               Job Name: C:\PCB_Projects\sch_esp21chp\PCB\esp.pcb
+
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                         01:33 PM Monday, June 24, 2019
+               Job Name: C:\PCB_Projects\sch_esp21chp\PCB\esp.pcb
+
+
+;------------------------------- --------------------------------
+; STARTING AN EXPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                         01:34 PM Monday, June 24, 2019
+               Job Name: C:\PCB_Projects\sch_esp21chp\PCB\esp.pcb
+
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                        09:03 PM Thursday, July 25, 2019
+               Job Name: C:\PCB_Projects\sch_esp21chp\PCB\esp.pcb
+
+
+;------------------------------- --------------------------------
+; STARTING AN EXPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                        09:04 PM Thursday, July 25, 2019
+               Job Name: C:\PCB_Projects\sch_esp21chp\PCB\esp.pcb
+
+
+;------------------------------- --------------------------------
+; STARTING AN EXPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                        09:07 PM Thursday, July 25, 2019
+               Job Name: C:\PCB_Projects\sch_esp21chp\PCB\esp.pcb
+
+
+;------------------------------- --------------------------------
+; STARTING AN EXPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                        09:09 PM Thursday, July 25, 2019
+               Job Name: C:\PCB_Projects\sch_esp21chp\PCB\esp.pcb
+
+
+;------------------------------- --------------------------------
+; STARTING AN EXPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                      11:18 PM Thursday, September 26, 2019
+               Job Name: C:\PCB_Projects\sch_esp21chp\PCB\esp.pcb
+
+
+;------------------------------- --------------------------------
+; STARTING AN EXPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                      11:18 PM Thursday, September 26, 2019
+               Job Name: C:\PCB_Projects\sch_esp21chp\PCB\esp.pcb
+
+
+;------------------------------- --------------------------------
+; STARTING AN EXPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                      11:58 PM Thursday, September 26, 2019
+               Job Name: C:\PCB_Projects\sch_esp21chp\PCB\esp.pcb
+
+
+;------------------------------- --------------------------------
+; STARTING AN EXPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                       12:00 AM Friday, September 27, 2019
+               Job Name: C:\PCB_Projects\sch_esp21chp\PCB\esp.pcb
+
+
+;------------------------------- --------------------------------
+; STARTING AN EXPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                       12:13 AM Friday, September 27, 2019
+               Job Name: C:\PCB_Projects\sch_esp21chp\PCB\esp.pcb
+
+
+;------------------------------- --------------------------------
+; STARTING AN EXPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                      10:21 PM Wednesday, October 16, 2019
+               Job Name: C:\PCB_Projects\sch_esp21chp\PCB\esp.pcb
+
+
+;------------------------------- --------------------------------
+; STARTING AN EXPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                       08:23 PM Thursday, October 31, 2019
+            Job Name: C:\PCB_Projects\new_leds\sch_espchp\PCB\esp.pcb
+
+
+;------------------------------- --------------------------------
+; STARTING AN EXPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                       09:59 PM Thursday, October 31, 2019
+            Job Name: C:\PCB_Projects\new_leds\sch_espchp\PCB\esp.pcb
+
+
+;------------------------------- --------------------------------
+; STARTING AN EXPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                       10:01 PM Thursday, October 31, 2019
+            Job Name: C:\PCB_Projects\new_leds\sch_espchp\PCB\esp.pcb
+
+
+;------------------------------- --------------------------------
+; STARTING AN EXPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                       10:12 PM Thursday, October 31, 2019
+            Job Name: C:\PCB_Projects\new_leds\sch_espchp\PCB\esp.pcb
+
+
+;------------------------------- --------------------------------
+; STARTING AN EXPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                       10:33 PM Thursday, October 31, 2019
+            Job Name: C:\PCB_Projects\new_leds\sch_espchp\PCB\esp.pcb
+
+
+;------------------------------- --------------------------------
+; STARTING AN EXPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                       10:41 PM Thursday, October 31, 2019
+            Job Name: C:\PCB_Projects\new_leds\sch_espchp\PCB\esp.pcb
+
+
+;------------------------------- --------------------------------
+; STARTING AN EXPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                       10:46 PM Thursday, October 31, 2019
+            Job Name: C:\PCB_Projects\new_leds\sch_espchp\PCB\esp.pcb
+
+
+;------------------------------- --------------------------------
+; STARTING AN EXPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                       10:47 PM Thursday, October 31, 2019
+            Job Name: C:\PCB_Projects\new_leds\sch_espchp\PCB\esp.pcb
+
+
+;------------------------------- --------------------------------
+; STARTING AN EXPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                       10:56 PM Thursday, October 31, 2019
+            Job Name: C:\PCB_Projects\new_leds\sch_espchp\PCB\esp.pcb
+
+
+;------------------------------- --------------------------------
+; STARTING AN EXPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                       10:59 PM Thursday, October 31, 2019
+            Job Name: C:\PCB_Projects\new_leds\sch_espchp\PCB\esp.pcb
+
+
+;------------------------------- --------------------------------
+; STARTING AN EXPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                       11:03 PM Thursday, October 31, 2019
+            Job Name: C:\PCB_Projects\new_leds\sch_espchp\PCB\esp.pcb
+
+
+;------------------------------- --------------------------------
+; STARTING AN EXPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                       11:03 PM Thursday, October 31, 2019
+            Job Name: C:\PCB_Projects\new_leds\sch_espchp\PCB\esp.pcb
+
+
+;------------------------------- --------------------------------
+; STARTING AN EXPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                       11:04 PM Thursday, October 31, 2019
+            Job Name: C:\PCB_Projects\new_leds\sch_espchp\PCB\esp.pcb
+
+
+;------------------------------- --------------------------------
+; STARTING AN EXPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                       11:16 PM Thursday, October 31, 2019
+            Job Name: C:\PCB_Projects\new_leds\sch_espchp\PCB\esp.pcb
+
+
+;------------------------------- --------------------------------
+; STARTING AN EXPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                       11:19 PM Thursday, October 31, 2019
+            Job Name: C:\PCB_Projects\new_leds\sch_espchp\PCB\esp.pcb
+
+
+;------------------------------- --------------------------------
+; STARTING AN EXPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                       09:59 AM Friday, November 01, 2019
+            Job Name: C:\PCB_Projects\new_leds\sch_espchp\PCB\esp.pcb
+
+
+;------------------------------- --------------------------------
+; STARTING AN EXPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                       01:53 PM Tuesday, November 12, 2019
+            Job Name: C:\PCB_Projects\new_leds\sch_espchp\PCB\esp.pcb
+
+
+;------------------------------- --------------------------------
+; STARTING AN EXPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                       08:52 PM Tuesday, November 12, 2019
+            Job Name: C:\PCB_Projects\new_leds\sch_espchp\PCB\esp.pcb
+
+
+;------------------------------- --------------------------------
+; STARTING AN EXPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                      11:21 AM Saturday, November 16, 2019
+            Job Name: C:\PCB_Projects\new_leds\sch_espchp\PCB\esp.pcb
+
+
+;------------------------------- --------------------------------
+; STARTING AN EXPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                       09:25 PM Sunday, November 17, 2019
+            Job Name: C:\PCB_Projects\new_leds\sch_espchp\PCB\esp.pcb
+
+
+;------------------------------- --------------------------------
+; STARTING AN EXPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                       09:26 PM Sunday, November 17, 2019
+            Job Name: C:\PCB_Projects\new_leds\sch_espchp\PCB\esp.pcb
+
+
+;------------------------------- --------------------------------
+; STARTING AN EXPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                       09:49 PM Sunday, November 17, 2019
+            Job Name: C:\PCB_Projects\new_leds\sch_espchp\PCB\esp.pcb
+
+
+;------------------------------- --------------------------------
+; STARTING AN EXPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                       10:02 PM Sunday, November 17, 2019
+            Job Name: C:\PCB_Projects\new_leds\sch_espchp\PCB\esp.pcb
+
+
+;------------------------------- --------------------------------
+; STARTING AN EXPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                       10:07 PM Sunday, November 17, 2019
+            Job Name: C:\PCB_Projects\new_leds\sch_espchp\PCB\esp.pcb
+
+
+;------------------------------- --------------------------------
+; STARTING AN EXPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                       10:14 PM Sunday, November 17, 2019
+            Job Name: C:\PCB_Projects\new_leds\sch_espchp\PCB\esp.pcb
+
+
+;------------------------------- --------------------------------
+; STARTING AN EXPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                       10:42 PM Sunday, November 17, 2019
+            Job Name: C:\PCB_Projects\new_leds\sch_espchp\PCB\esp.pcb
+
+
+;------------------------------- --------------------------------
+; STARTING AN EXPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                       11:02 PM Sunday, November 17, 2019
+            Job Name: C:\PCB_Projects\new_leds\sch_espchp\PCB\esp.pcb
+
+
+;------------------------------- --------------------------------
+; STARTING AN EXPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                       11:32 PM Sunday, November 17, 2019
+            Job Name: C:\PCB_Projects\new_leds\sch_espchp\PCB\esp.pcb
+
+
+;------------------------------- --------------------------------
+; STARTING AN EXPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                       08:12 PM Tuesday, December 17, 2019
+            Job Name: C:\PCB_Projects\new_leds\sch_espchp\PCB\esp.pcb
+
+
+;------------------------------- --------------------------------
+; STARTING AN EXPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                       08:12 PM Tuesday, December 17, 2019
+            Job Name: C:\PCB_Projects\new_leds\sch_espchp\PCB\esp.pcb
+
+
+;------------------------------- --------------------------------
+; STARTING AN EXPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                       08:13 PM Tuesday, December 17, 2019
+            Job Name: C:\PCB_Projects\new_leds\sch_espchp\PCB\esp.pcb
+
+
+;------------------------------- --------------------------------
+; STARTING AN EXPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                       08:15 PM Tuesday, December 17, 2019
+            Job Name: C:\PCB_Projects\new_leds\sch_espchp\PCB\esp.pcb
+
+
+;------------------------------- --------------------------------
+; STARTING AN EXPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                       11:29 AM Tuesday, February 04, 2020
+         Job Name: C:\PCB_Projects\new_ledsContr\sch_espchp\PCB\esp.pcb
+
+
+;------------------------------- --------------------------------
+; STARTING AN EXPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                       11:38 AM Tuesday, February 04, 2020
+         Job Name: C:\PCB_Projects\new_ledsContr\sch_espchp\PCB\esp.pcb
+
+
+;------------------------------- --------------------------------
+; STARTING AN EXPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                       11:44 AM Tuesday, February 04, 2020
+         Job Name: C:\PCB_Projects\new_ledsContr\sch_espchp\PCB\esp.pcb
+
+
+;------------------------------- --------------------------------
+; STARTING AN EXPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                       11:49 AM Tuesday, February 04, 2020
+         Job Name: C:\PCB_Projects\new_ledsContr\sch_espchp\PCB\esp.pcb
+
+
+;------------------------------- --------------------------------
+; STARTING AN EXPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                       11:57 AM Tuesday, February 04, 2020
+         Job Name: C:\PCB_Projects\new_ledsContr\sch_espchp\PCB\esp.pcb
+
+
+;------------------------------- --------------------------------
+; STARTING AN EXPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                       12:01 PM Tuesday, February 04, 2020
+         Job Name: C:\PCB_Projects\new_ledsContr\sch_espchp\PCB\esp.pcb
+
+
+;------------------------------- --------------------------------
+; STARTING AN EXPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                       12:03 PM Tuesday, February 04, 2020
+         Job Name: C:\PCB_Projects\new_ledsContr\sch_espchp\PCB\esp.pcb
+
+
+;------------------------------- --------------------------------
+; STARTING AN EXPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                       01:17 PM Tuesday, February 04, 2020
+         Job Name: C:\PCB_Projects\new_ledsContr\sch_espchp\PCB\esp.pcb
+
+
+;------------------------------- --------------------------------
+; STARTING AN EXPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                       02:01 PM Tuesday, February 04, 2020
+         Job Name: C:\PCB_Projects\new_ledsContr\sch_espchp\PCB\esp.pcb
+
+
+;------------------------------- --------------------------------
+; STARTING AN EXPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                       10:11 PM Tuesday, February 04, 2020
+         Job Name: C:\PCB_Projects\new_ledsContr\sch_espchp\PCB\esp.pcb
+
+
+;------------------------------- --------------------------------
+; STARTING AN EXPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                       11:11 PM Monday, September 14, 2020
+       Job Name: C:\PCB_Projects\new_ledsContr2\sch_espchp322\PCB\esp.pcb
+
+
+;------------------------------- --------------------------------
+; STARTING AN EXPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                       11:28 PM Monday, September 14, 2020
+       Job Name: C:\PCB_Projects\new_ledsContr2\sch_espchp322\PCB\esp.pcb
+
+
+;------------------------------- --------------------------------
+; STARTING AN EXPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                       11:29 PM Monday, September 14, 2020
+       Job Name: C:\PCB_Projects\new_ledsContr2\sch_espchp322\PCB\esp.pcb
+
+
+;------------------------------- --------------------------------
+; STARTING AN EXPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                      12:52 AM Tuesday, September 15, 2020
+       Job Name: C:\PCB_Projects\new_ledsContr2\sch_espchp322\PCB\esp.pcb
+
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                      01:11 AM Tuesday, September 15, 2020
+       Job Name: C:\PCB_Projects\new_ledsContr2\sch_espchp322\PCB\esp.pcb
+
+
+;------------------------------- --------------------------------
+; STARTING AN EXPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                      01:11 AM Tuesday, September 15, 2020
+       Job Name: C:\PCB_Projects\new_ledsContr2\sch_espchp322\PCB\esp.pcb
+
+
+;------------------------------- --------------------------------
+; STARTING AN EXPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                      01:21 AM Tuesday, September 15, 2020
+       Job Name: C:\PCB_Projects\new_ledsContr2\sch_espchp322\PCB\esp.pcb
+
+
+;------------------------------- --------------------------------
+; STARTING AN EXPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                      01:33 AM Tuesday, September 15, 2020
+       Job Name: C:\PCB_Projects\new_ledsContr2\sch_espchp322\PCB\esp.pcb
+
+
+;------------------------------- --------------------------------
+; STARTING AN EXPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                      11:16 PM Tuesday, September 15, 2020
+       Job Name: C:\PCB_Projects\new_ledsContr2\sch_espchp322\PCB\esp.pcb
+
+
+;------------------------------- --------------------------------
+; STARTING AN EXPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                     10:41 PM Wednesday, September 16, 2020
+       Job Name: C:\PCB_Projects\new_ledsContr2\sch_espchp322\PCB\esp.pcb
+
+
+;------------------------------- --------------------------------
+; STARTING AN EXPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                      12:45 AM Thursday, September 17, 2020
+       Job Name: C:\PCB_Projects\new_ledsContr2\sch_espchp322\PCB\esp.pcb
+
+
+;------------------------------- --------------------------------
+; STARTING AN EXPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                      12:54 AM Thursday, September 17, 2020
+       Job Name: C:\PCB_Projects\new_ledsContr2\sch_espchp322\PCB\esp.pcb
+
+
+;------------------------------- --------------------------------
+; STARTING AN EXPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                      12:54 AM Thursday, September 17, 2020
+       Job Name: C:\PCB_Projects\new_ledsContr2\sch_espchp322\PCB\esp.pcb
+
+
+;------------------------------- --------------------------------
+; STARTING AN EXPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                      12:58 AM Thursday, September 17, 2020
+       Job Name: C:\PCB_Projects\new_ledsContr2\sch_espchp322\PCB\esp.pcb
+
+
+;------------------------------- --------------------------------
+; STARTING AN EXPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                      01:01 AM Thursday, September 17, 2020
+       Job Name: C:\PCB_Projects\new_ledsContr2\sch_espchp322\PCB\esp.pcb
+
+
+;------------------------------- --------------------------------
+; STARTING AN EXPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                      01:33 AM Thursday, September 17, 2020
+       Job Name: C:\PCB_Projects\new_ledsContr2\sch_espchp322\PCB\esp.pcb
+
+
+;------------------------------- --------------------------------
+; STARTING AN EXPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                       10:57 PM Tuesday, October 20, 2020
+      Job Name: C:\PCB_Projects\new_ledsContr2\sch_espchp322\PCB\esp32.pcb
+
+
+;------------------------------- --------------------------------
+; STARTING AN EXPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+;------------------------------- --------------------------------
+; STARTING AN EXPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                      09:23 PM Tuesday, September 20, 2022
+      Job Name: C:\PCB_Projects\new_ledsContr3\sch_espchp323\PCB\esp32.pcb
+
+
+;------------------------------- --------------------------------
+; STARTING AN EXPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                      10:01 PM Tuesday, September 20, 2022
+      Job Name: C:\PCB_Projects\new_ledsContr3\sch_espchp323\PCB\esp32.pcb
+
+
+;------------------------------- --------------------------------
+; STARTING AN EXPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                      11:40 PM Tuesday, September 20, 2022
+      Job Name: C:\PCB_Projects\new_ledsContr3\sch_espchp323\PCB\esp32.pcb
+
+
+;------------------------------- --------------------------------
+; STARTING AN EXPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                      11:42 PM Tuesday, September 20, 2022
+      Job Name: C:\PCB_Projects\new_ledsContr3\sch_espchp323\PCB\esp32.pcb
+
+
+;------------------------------- --------------------------------
+; STARTING AN EXPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                      11:50 PM Tuesday, September 20, 2022
+      Job Name: C:\PCB_Projects\new_ledsContr3\sch_espchp323\PCB\esp32.pcb
+
+
+;------------------------------- --------------------------------
+; STARTING AN EXPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                      11:52 PM Tuesday, September 20, 2022
+      Job Name: C:\PCB_Projects\new_ledsContr3\sch_espchp323\PCB\esp32.pcb
+
+
+;------------------------------- --------------------------------
+; STARTING AN EXPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                     12:06 AM Wednesday, September 21, 2022
+      Job Name: C:\PCB_Projects\new_ledsContr3\sch_espchp323\PCB\esp32.pcb
+
+
+;------------------------------- --------------------------------
+; STARTING AN EXPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                       10:14 PM Sunday, September 25, 2022
+      Job Name: C:\PCB_Projects\new_ledsContr3\sch_espchp323\PCB\esp32.pcb
+
+
+;------------------------------- --------------------------------
+; STARTING AN EXPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                       10:18 PM Sunday, September 25, 2022
+      Job Name: C:\PCB_Projects\new_ledsContr3\sch_espchp323\PCB\esp32.pcb
+
+
+;------------------------------- --------------------------------
+; STARTING AN EXPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                       10:24 PM Sunday, September 25, 2022
+      Job Name: C:\PCB_Projects\new_ledsContr3\sch_espchp323\PCB\esp32.pcb
+
+
+;------------------------------- --------------------------------
+; STARTING AN EXPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                       10:29 PM Sunday, September 25, 2022
+      Job Name: C:\PCB_Projects\new_ledsContr3\sch_espchp323\PCB\esp32.pcb
+
+
+;------------------------------- --------------------------------
+; STARTING AN EXPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                       10:46 PM Sunday, September 25, 2022
+      Job Name: C:\PCB_Projects\new_ledsContr3\sch_espchp323\PCB\esp32.pcb
+
+
+;------------------------------- --------------------------------
+; STARTING AN EXPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                       10:57 PM Sunday, September 25, 2022
+      Job Name: C:\PCB_Projects\new_ledsContr3\sch_espchp323\PCB\esp32.pcb
+
+
+;------------------------------- --------------------------------
+; STARTING AN EXPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                       11:01 PM Sunday, September 25, 2022
+      Job Name: C:\PCB_Projects\new_ledsContr3\sch_espchp323\PCB\esp32.pcb
+
+
+;------------------------------- --------------------------------
+; STARTING AN EXPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                       11:07 PM Sunday, September 25, 2022
+      Job Name: C:\PCB_Projects\new_ledsContr3\sch_espchp323\PCB\esp32.pcb
+
+
+;------------------------------- --------------------------------
+; STARTING AN EXPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                       02:02 PM Sunday, December 04, 2022
+      Job Name: C:\PCB_Projects\new_ledsContr3\sch_espchp323\PCB\esp32.pcb
+
+
+;------------------------------- --------------------------------
+; STARTING AN EXPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                       04:58 PM Sunday, December 11, 2022
+      Job Name: C:\PCB_Projects\new_ledsContr3\sch_espchp323\PCB\esp32.pcb
+
+
+;------------------------------- --------------------------------
+; STARTING AN EXPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                       05:02 PM Sunday, December 11, 2022
+      Job Name: C:\PCB_Projects\new_ledsContr3\sch_espchp323\PCB\esp32.pcb
+
+
+;------------------------------- --------------------------------
+; STARTING AN EXPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                       05:18 PM Sunday, December 11, 2022
+      Job Name: C:\PCB_Projects\new_ledsContr3\sch_espchp323\PCB\esp32.pcb
+
+
+;------------------------------- --------------------------------
+; STARTING AN EXPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                       02:53 PM Sunday, December 18, 2022
+      Job Name: C:\PCB_Projects\new_ledsContr3\sch_espchp323\PCB\esp32.pcb
+
+
+;------------------------------- --------------------------------
+; STARTING AN EXPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                       10:19 AM Saturday, January 21, 2023
+      Job Name: C:\PCB_Projects\new_ledsContr3\sch_espchp323\PCB\esp32.pcb
+

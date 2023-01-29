@@ -1,0 +1,17 @@
+[2009.11.24 09:22:40] [0000m.00s.250ms] [0] WELCOME
+[2009.11.24 09:22:40] [0000m.00s.250ms] [1] iCDB Server ver.1.007, HvQ8kKCvhuzsBu5CD2LCWg, build:369282 created 2009-09-30 07:43:26, sources stamp:HvQ8kKCvhuzsBu5CD2LCWg
+[2009.11.24 09:22:40] [0000m.00s.250ms] [1] Copyright 2009 Mentor Graphics Corporation. All Rights Reserved.
+[2009.11.24 09:22:40] [0000m.00s.250ms] [1] Base flow version [2007.7]
+[2009.11.24 09:22:40] [0000m.00s.250ms] [1] GBS Install Id [11782], Flow Id [EE2007.7], Full Flow Name[Expedition Enterprise Flow], Exact Access Date[Aug 1 2009]
+[2009.11.24 09:22:40] [0000m.00s.250ms] [1] Machine [neptune]  User [mike]  PID [1460]
+[2009.11.24 09:22:40] [0000m.00s.250ms] [1] Operating system [Microsoft Windows XP Professional Service Pack 3 (build 2600)]
+[2009.11.24 09:22:40] [0000m.00s.250ms] [1] Current working dir [C:\MentorData\CentralLib\Templates\Layout\4 Layer Template_1]
+[2009.11.24 09:22:40] [0000m.00s.250ms] [1] PATH [E:\MentorGraphics\2007.7EE\SDD_HOME\xe\win32\lib;E:\MentorGraphics\2007.7EE\SDD_HOME\wg\win32\lib;E:\MentorGraphics\2007.7EE\SDD_HOME\common\win32\bin;E:\MentorGraphics\2007.7EE\SDD_HOME\common\win32\lib;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\Program Files\doxygen\bin;C:\Program Files\Graphviz2.18\Bin;C:\Program Files\P-CAD 2006 Viewer\;C:\WINDOWS\system32\WindowsPowerShell\v1.0;C:\Program Files\Samsung\Samsung PC Studio 3\;C:\Program Files\TortoiseSVN\bin;E:\MENTOR~1\LICENS~1;E:/MentorGraphics/2007.7EE/MGC_HOME.ixn/bin;E:/MentorGraphics/2007.7EE/MGC_HOME.ixn/lib;E:\MentorGraphics\2007.7EE\MGC_HOME.ixn\bin;E:\MentorGraphics\2007.7EE\MGC_HOME.ixn\lib;C:\Program Files\CVSNT\]
+[2009.11.24 09:22:40] [0000m.00s.250ms] [1] WDIR [C:\MentorData\iCDB]
+[2009.11.24 09:22:40] [0000m.00s.250ms] [1] SDD_HOME [E:\MentorGraphics\2007.7EE\SDD_HOME]
+[2009.11.24 09:22:40] [0000m.00s.250ms] [1] SDD_PLATFORM [win32]
+[2009.11.24 09:22:40] [0000m.00s.250ms] [0] Upgrading constraint definitions from version [ce_ee.cns=7.6.1]
+[2009.11.24 09:22:40] [0000m.00s.265ms] [1] CORE: Upgrade snapshot PCB completed successfully.
+[2009.11.24 09:22:40] [0000m.00s.281ms] [1] CORE: Upgrade snapshot PCB_Layout_Temp completed successfully.
+[2009.11.24 09:22:40] [0000m.00s.328ms] [0] Constraint definitions upgraded to version [ce_ee.cns=7.7.1]
+[2009.11.24 09:22:40] [0000m.00s.328ms] [0] DONE

@@ -1,0 +1,33 @@
+
+                                   DXF Export
+                                   ----------
+
+                      09:36 PM Saturday, September 25, 2021
+      Job Name: C:\PCB_Projects\new_ledsContr2\sch_espchp322\PCB\esp32.pcb
+
+
+
+    DXF File: C:\PCB_Projects\new_ledsContr2\sch_espchp322\PCB\Output\esp32.dxf
+
+
+    Total - Export Element
+    ----------------------------------------------------------------------
+
+         1 - Board Outline
+
+        59 - Part Holes Layer 1
+
+        59 - Part Pads Layer 1
+
+         7 - Part Pads SMD Btm
+
+       121 - Part Pads SMD Top
+
+       131 - Via Holes Layer 1
+
+
+    Successful Completion.
+
+
+
+                        09:36 PM Saturday, September 25, 2021

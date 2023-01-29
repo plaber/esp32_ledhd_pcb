@@ -1,0 +1,82 @@
+ ----------------------------
+|    Gerber Plotting Log     |
+|          Started           |
+|  Mon Dec 19 21:58:23 2022  |
+ ----------------------------
+
+
+Processing top.ger
+    Number of Apertures     = 34
+    Number of Moves         = 461
+    Number of Draws         = 671
+    Number of Arcs          = 895
+    Number of Flashes       = 290
+    Number of Comments      = 5
+    Number of Drawn Pads    = 0
+    Number of Filled Shapes = 19
+    Number of Dcode Warnings= 0
+    Number of Dcode Errors  = 0
+    Total Draw Length       = 41.2174 (IN)
+    Total Move Length       = 221.25 (IN)
+
+Processing mask_top.ger
+    Number of Apertures     = 25
+    Number of Moves         = 164
+    Number of Draws         = 0
+    Number of Arcs          = 0
+    Number of Flashes       = 164
+    Number of Comments      = 5
+    Number of Drawn Pads    = 0
+    Number of Filled Shapes = 0
+    Number of Dcode Warnings= 0
+    Number of Dcode Errors  = 0
+    Total Draw Length       = 0 (IN)
+    Total Move Length       = 50.2009 (IN)
+
+Processing mask_bottom.ger
+    Number of Apertures     = 9
+    Number of Moves         = 75
+    Number of Draws         = 4
+    Number of Arcs          = 0
+    Number of Flashes       = 74
+    Number of Comments      = 5
+    Number of Drawn Pads    = 0
+    Number of Filled Shapes = 1
+    Number of Dcode Warnings= 0
+    Number of Dcode Errors  = 0
+    Total Draw Length       = 0.48 (IN)
+    Total Move Length       = 21.9715 (IN)
+
+Processing bottom.ger
+    Number of Apertures     = 15
+    Number of Moves         = 257
+    Number of Draws         = 269
+    Number of Arcs          = 443
+    Number of Flashes       = 200
+    Number of Comments      = 5
+    Number of Drawn Pads    = 0
+    Number of Filled Shapes = 6
+    Number of Dcode Warnings= 0
+    Number of Dcode Errors  = 0
+    Total Draw Length       = 35.3636 (IN)
+    Total Move Length       = 131.087 (IN)
+
+Processing border.ger
+    Number of Apertures     = 1
+    Number of Moves         = 1
+    Number of Draws         = 5
+    Number of Arcs          = 0
+    Number of Flashes       = 0
+    Number of Comments      = 5
+    Number of Drawn Pads    = 0
+    Number of Filled Shapes = 0
+    Number of Dcode Warnings= 0
+    Number of Dcode Errors  = 0
+    Total Draw Length       = 7.2441 (IN)
+    Total Move Length       = 2.59006 (IN)
+
+ ---------------------------
+|    Gerber Plotting Log     |
+|          Finished          |
+|  Mon Dec 19 21:58:23 2022  |
+ ----------------------------

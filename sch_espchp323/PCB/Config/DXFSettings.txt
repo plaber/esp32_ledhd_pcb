@@ -1,0 +1,41 @@
+.FILETYPE DXF_EXPORT_SETTINGS
+.VERSION "VB99.1"
+.DATE "09/25/2021 21:36:51"
+
+!  This file contains settings for the most recent DXF export session
+
+.UNITS in
+
+.SCHEME "Default"
+ ..SCHEME_LOCATION Local
+
+.FILL_PADS 0
+
+.BOARD_CONTENTS 0
+
+.MIRROR_OUTPUT 0
+
+.ITEM "Board Outline"
+ ..LAYER "Board_Outline"
+ ..EXPORT 1
+
+.ITEM "Part Holes Layer 1"
+ ..LAYER "Part_Holes_Layer_Top"
+ ..EXPORT 1
+
+.ITEM "Part Pads Layer 1"
+ ..LAYER "Part_Pads_Layer_Top"
+ ..EXPORT 1
+
+.ITEM "Part Pads SMD Btm"
+ ..LAYER "Part_Pads_SMD_Btm"
+ ..EXPORT 1
+
+.ITEM "Part Pads SMD Top"
+ ..LAYER "Part_Pads_SMD_Top"
+ ..EXPORT 1
+
+.ITEM "Via Holes Layer 1"
+ ..LAYER "Via_Holes_Layer_Top"
+ ..EXPORT 1
+

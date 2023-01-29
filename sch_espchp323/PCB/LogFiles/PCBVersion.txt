@@ -1,0 +1,15 @@
+Expedition PCB - Pinnacle Version: 2013.0.543.380
+
+
+
+Environment Variables:
+----------------------
+HOME = "C:\SPB_Data"
+HOMEDRIVE = "C:"
+HOMEPATH = "\Documents and Settings\autist"
+MGC_HOME = "C:\MentorGraphics\7.9.5EE\MGC_HOME.ixn"
+OS = "Windows_NT"
+PATH = "C:\MentorGraphics\7.9.5EE\SDD_HOME\common\win32\bin;C:\MentorGraphics\7.9.5EE\SDD_HOME\common\win32\lib;C:\MentorGraphics\7.9.5EE\SDD_HOME\xe\win32\lib;C:\MentorGraphics\7.9.5EE\SDD_HOME\common\win32\bin;C:\MentorGraphics\7.9.5EE\SDD_HOME\common\win32\lib;C:\MentorGraphics\7.9.5EE\SDD_HOME\wg\win32\lib;C:\MentorGraphics\7.9.5EE\SDD_HOME\common\win32\bin;C:\MentorGraphics\7.9.5EE\SDD_HOME\common\win32\lib;C:\MentorGraphics\7.9.5EE\MGC_HOME.ixn\bin;C:\MentorGraphics\7.9.5EE\MGC_HOME.ixn\lib;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\Cadence\SPB_16.5\OpenAccess\bin\win32\opt;C:\Cadence\SPB_16.5\tools\Capture;C:\Cadence\SPB_16.5\tools\PSpice\Library;C:\Cadence\SPB_16.5\tools\PSpice;C:\Cadence\SPB_16.5\tools\specctra\bin;C:\Cadence\SPB_16.5\tools\fet\bin;C:\Cadence\SPB_16.5\tools\libutil\bin;C:\Cadence\SPB_16.5\tools\bin;C:\Cadence\SPB_16.5\tools\pcb\bin;"
+SDD_HOME = "C:\MentorGraphics\7.9.5EE\SDD_HOME"
+TEMP = "C:\DOCUME~1\autist\LOCALS~1\Temp"
+TMP = "C:\DOCUME~1\autist\LOCALS~1\Temp"

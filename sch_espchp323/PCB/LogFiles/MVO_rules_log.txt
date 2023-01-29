@@ -1,0 +1,6 @@
+
+Can not open Multiple Via Rules file. File doesn't exist:
+       'C:\PCB_Projects\new_ledsContr3\sch_espchp323\PCB\Config\MultiViaRules.txt'
+
+Can not open Multiple Via Rules file. File doesn't exist:
+       'C:\PCB_Projects\new_ledsContr3\sch_espchp323\PCB\Layout\MVO_Rules.txt'

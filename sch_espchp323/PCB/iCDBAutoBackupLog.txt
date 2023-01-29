@@ -1,0 +1,17 @@
+Tue Nov 24 09:22:49 2009: iCDBReadSettings.
+Tue Nov 24 09:22:49 2009: iCDBBackup. ProjectFile: C:\MentorData\CentralLib\Templates\Layout\4 Layer Template_1\template.prj, Application: iCDBBackup
+Tue Nov 24 09:22:49 2009: iCDBBackup complete
+Tue Nov 24 09:24:29 2009: iCDBReadSettings.
+Tue Nov 24 09:24:29 2009: iCDBBackup. ProjectFile: C:\MentorData\CentralLib\Templates\Layout\4 Layer Template_1\template.prj, Application: iCDBBackup
+Tue Nov 24 09:24:30 2009: iCDBReadSettings.
+Tue Nov 24 09:24:30 2009: iCDBBackup. ProjectFile: C:\MentorData\CentralLib\Templates\Layout\4 Layer Template_1\template.prj, Application: iCDBBackup
+Tue Nov 24 09:24:30 2009: iCDBReadSettings.
+Tue Nov 24 09:24:30 2009: iCDBBackup. ProjectFile: C:\MentorData\CentralLib\Templates\Layout\4 Layer Template_1\template.prj, Application: iCDBBackup
+Tue Nov 24 09:25:01 2009: iCDBReadSettings.
+Tue Nov 24 09:25:01 2009: iCDBBackup. ProjectFile: C:\MentorData\CentralLib\Templates\Layout\4 Layer Template_1\template.prj, Application: iCDBBackup
+Tue Nov 24 09:25:01 2009: iCDBReadSettings.
+Tue Nov 24 09:25:01 2009: iCDBBackup. ProjectFile: C:\MentorData\CentralLib\Templates\Layout\4 Layer Template_1\template.prj, Application: iCDBBackup
+Tue Nov 24 09:25:01 2009: iCDBReadSettings.
+Tue Nov 24 09:25:01 2009: iCDBBackup. ProjectFile: C:\MentorData\CentralLib\Templates\Layout\4 Layer Template_1\template.prj, Application: iCDBBackup
+Tue Nov 24 09:25:45 2009: iCDBReadSettings.
+Tue Nov 24 09:25:45 2009: iCDBBackup. ProjectFile: C:\MentorData\CentralLib\Templates\Layout\4 Layer Template_1\template.prj, Application: iCDBBackup

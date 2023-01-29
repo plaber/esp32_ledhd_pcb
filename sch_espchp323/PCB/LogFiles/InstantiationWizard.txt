@@ -1,0 +1,22 @@
+
+             Paste from Layout Clipboard - Instantiation Wizard Log
+             ------------------------------------------------------
+
+                       01:41 PM Tuesday, February 04, 2020
+         Job Name: C:\PCB_Projects\new_ledsContr\sch_espchp\PCB\esp.pcb
+
+
+
+Ref Des map checking results
+----------------------------
+
+
+    0 Error(s)
+
+
+
+Ref Des map
+-----------
+
+Nets map
+--------

@@ -1,0 +1,29 @@
+[2013.07.31 11:47:53] [0000m.12s.910ms] [0] WELCOME
+[2013.07.31 11:47:53] [0000m.12s.926ms] [1] iCDB Database ver.1.094, a0HSsGQ+3llE3aODnNgIUw, build:515009 created 2012-08-09 08:10:43, sources stamp:a0HSsGQ+3llE3aODnNgIUw
+[2013.07.31 11:47:53] [0000m.12s.926ms] [1] Copyright 2012 Mentor Graphics Corporation. All Rights Reserved.
+[2013.07.31 11:47:53] [0000m.12s.926ms] [1] Base flow version [7.9.4]
+[2013.07.31 11:47:53] [0000m.12s.926ms] [1] GBS Install Id [26418], Flow Id [EE7.9.4], Full Flow Name [Expedition Enterprise Flow], Exact Access Date [Jun 1 2012]
+[2013.07.31 11:47:53] [0000m.12s.927ms] [1] Machine [CAPRICA]  User [Mike]  PID [8996]
+[2013.07.31 11:47:53] [0000m.12s.927ms] [1] Operating system [Microsoft Windows 7 Home Premium Edition, 64-bit Service Pack 1 (build 7601)]
+[2013.07.31 11:47:53] [0000m.12s.927ms] [1] Current working dir [D:\work\CentralLib\Templates\Layout\2 Layer Template]
+[2013.07.31 11:47:53] [0000m.12s.927ms] [1] PATH [D:\MentorGraphics\7.9.4EE\SDD_HOME\common\win32\bin;D:\MentorGraphics\7.9.4EE\SDD_HOME\common\win32\lib;D:\MentorGraphics\7.9.4EE\SDD_HOME\wg\win32\lib;D:\MentorGraphics\7.9.4EE\SDD_HOME\common\win32\bin;D:\MentorGraphics\7.9.4EE\SDD_HOME\common\win32\lib;D:\MentorGraphics\7.9.4EE\MGC_HOME.ixn\bin;D:\MentorGraphics\7.9.4EE\MGC_HOME.ixn\lib;C:\Program Files (x86)\STMicroelectronics\st_toolset\asm;D:\Cadence\SPB_16.5\tools\PSpice;D:\Cadence\SPB_16.5\tools\PSpice\Library;D:\Cadence\SPB_16.5\tools\Capture;D:\Cadence\SPB_16.5\tools\bin;D:\Cadence\SPB_16.5\OpenAccess\bin\win32\opt;D:\Cadence\SPB_16.5\tools\fet\bin;D:\Cadence\SPB_16.5\tools\pcb\bin;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Program Files\WIDCOMM\Bluetooth Software\;C:\Program Files\WIDCOMM\Bluetooth Software\syswow64;C:\Program Files (x86)\P-CAD 2006 Viewer\;D:\Cadence\SPB_16.5\tools\specctra\bin;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files\TortoiseSVN\bin;D:\iCEcube2\Aldec\Active-HDL\BIN;C:\Program Files (x86)\hdparm\bin;D:\MentorGraphics\7.9.4EE\SDD_HOME\common\win32\lib;D:\MinGW\bin;D:\MinGW\msys\1.0\bin;D:\COSMIC\CXSTM8_EVAL]
+[2013.07.31 11:47:53] [0000m.12s.927ms] [1] SDD_HOME [D:\MentorGraphics\7.9.4EE\SDD_HOME] on file system [NTFS]
+[2013.07.31 11:47:53] [0000m.12s.927ms] [1] SDD_PLATFORM [win32]
+[2013.07.31 11:47:53] [0000m.12s.927ms] [1] WDIR [D:\MentorData;D:\MentorGraphics\7.9.4EE\SDD_HOME\standard]
+[2013.07.31 11:47:53] [0000m.12s.927ms] [1] Local iCDB working dir [D:\MentorData\iCDB] on file system [NTFS]
+[2013.07.31 11:47:53] [0000m.12s.927ms] [3] WARNING: Database [D:\work\CentralLib\Templates\Layout\2 Layer Template\keyin.icdb\icdb.dat] was manually copied
+[2013.07.31 11:47:53] [0000m.12s.927ms] [3] File change time:        [2010-10-20 00.49.03]
+[2013.07.31 11:47:53] [0000m.12s.927ms] [3] File modification time:  [2010-08-25 16.07.35]
+[2013.07.31 11:47:53] [0000m.12s.927ms] [3] Last change time:        [2010-08-25 16.07.35]
+[2013.07.31 11:47:53] [0000m.12s.927ms] [3] Last database open information:
+[2013.07.31 11:47:53] [0000m.12s.927ms] [3] Time:             [2010-08-25 16.04.28]
+[2013.07.31 11:47:53] [0000m.12s.927ms] [3] Location:         [D:\work\CentralLib\Templates\Layout\2 Layer Template\keyin.icdb\icdb.dat]
+[2013.07.31 11:47:53] [0000m.12s.927ms] [3] Machine:          [Caprica]
+[2013.07.31 11:47:53] [0000m.12s.927ms] [3] User:             [Mike]
+[2013.07.31 11:47:53] [0000m.12s.927ms] [3] PID:              [4304]
+[2013.07.31 11:47:53] [0000m.12s.927ms] [3] Application:      [iCDB Server]
+[2013.07.31 11:47:53] [0000m.12s.927ms] [3] Operating system: [Microsoft Windows 7 Home Premium Edition, 64-bit (build 7600)]
+[2013.07.31 11:47:53] [0000m.12s.927ms] [3] WARNING: Regenerating database GUID
+[2013.07.31 11:47:53] [0000m.12s.927ms] [3] Previous database GUID [3b6b-d459-dfd0-e788-4820-57c8-8205-7c40-ab11-2180-bc7c-9cc5]
+[2013.07.31 11:47:53] [0000m.12s.929ms] [3] Current database GUID  [3107-9604-f05c-99e9-921c-8f1e-21c8-f150-a621-b0ff-308c-9cc5]
+[2013.07.31 11:47:53] [0000m.12s.929ms] [0] .

@@ -1,0 +1,9 @@
+		-----Replace Padstack Log-----
+		------------------------------
+		09:58:16 PM Dec 19, 2022
+
+The following Padstacks were replaced because the local padstack DB was updated.
+
+Padstack Name		Old Timestamp		New Timestamp
+-------------		-------------		-------------
+OBlong 1,4 drill 0,5		<09/20/2022 08:48:58>		<12/19/2022 09:57:07>

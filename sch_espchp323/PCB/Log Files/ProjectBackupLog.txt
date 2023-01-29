@@ -1,0 +1,22 @@
+[2013-07-31 11.47.58] -------------------- CREATE --------------------
+[2013-07-31 11.47.58] Creating Project Backup infrastructure for project [D:\work\CentralLib\Templates\Layout\2 Layer Template\template.prj].
+[2013-07-31 11.47.58] Migrating AutoBackup directory [2 Layer Template\AutoBackup] content to Project Backup format.
+[2013-07-31 11.47.58] Migrating AutoBackup [1259043769]
+[2013-07-31 11.47.58] Successfully migrated AutoBackup [1259043769] to Project Backup format [2009-11-24 10.22.49 - app.zip]
+[2013-07-31 11.47.58] Migrated AutoBackup [1259043769] removed.
+[2013-07-31 11.47.58] Migrating AutoBackup [1282736834]
+[2013-07-31 11.47.58] Successfully migrated AutoBackup [1282736834] to Project Backup format [2010-08-25 15.47.14 - app.zip]
+[2013-07-31 11.47.58] Migrated AutoBackup [1282736834] removed.
+[2013-07-31 11.47.58] Whole AutoBackup content migrated. AutoBackup directory [2 Layer Template\AutoBackup] removed.
+[2013-07-31 11.47.58] Migrating iCDB upgrade backups from directory [2 Layer Template\keyin.icdb\cdbback] to Project Backup format.
+[2013-07-31 11.47.58] Migrating iCDB upgrade backup file [2010-08-25 15.46.14-2272].
+[2013-07-31 11.47.58] Successfully created [Database Upgrade] backup [2010-08-25 15.46.14 - upgrade.zip] requested by [Caprica:Mike].
+[2013-07-31 11.47.58] Migrated iCDB content backup file [cdbback\2010-08-25 15.46.14-2272.zip] removed.
+[2013-07-31 11.47.58] Successfully migrated iCDB upgrade backup file [2010-08-25 15.46.14-2272] to Project Backup format [2010-08-25 15.46.14 - upgrade.zip]
+[2013-07-31 11.47.58] Migrating iCDB upgrade backup file [2009-11-24 09.22.40-1460].
+[2013-07-31 11.47.58] Successfully created [Database Upgrade] backup [2009-11-24 09.22.40 - upgrade.zip] requested by [neptune:mike].
+[2013-07-31 11.47.58] Migrated iCDB content backup file [cdbback\2009-11-24 09.22.40-1460.zip] removed.
+[2013-07-31 11.47.58] Successfully migrated iCDB upgrade backup file [2009-11-24 09.22.40-1460] to Project Backup format [2009-11-24 09.22.40 - upgrade.zip]
+[2013-07-31 11.48.00] Successfully created [Database Upgrade] backup [2013-07-31 11.48.00 - upgrade.zip] requested by [CAPRICA:Mike].
+[2013-07-31 11.48.00] Migrated iCDB content backup file [cdbback\2013-07-31 11.47.59-6968.zip] removed.
+[2013-07-31 11.48.01] Successfully created [AutoSave] backup [2013-07-31 11.48.00 - auto.zip] requested by [CAPRICA:Mike].

@@ -1,0 +1,778 @@
+(PCB ESP
+ (description
+  (timeStamp "2023 01 21 07 19 15")
+  (program "CAPTURE.EXE" (Version "16.5.0.p001"))
+  (source "Original data from OrCAD/CAPTURE schematic")
+  (title "")
+  (date "Saturday, January 21, 2023")
+  (document "C:\\PCB_PROJECTS\\NEW_LEDSCONTR3\\SCH_ESPCHP323\\ESP.DSN")
+  (revision "-")
+  (organization "")
+  (address1 "")
+  (address2 "")
+  (address3 "")
+  (address4 "")
+  (partvaluecombine "{Value}")
+  (pcbfootprintcombine "{PCB Footprint}"))
+ (structure )
+ (placement
+  (component CON2
+   (place Btt
+    (property 
+     ("PCB Footprint" SIP2)
+     (timestamp 009F6D02)
+     ("Source Package" CON2)
+     (Value CON2)))
+   (place J23
+    (property 
+     ("PCB Footprint" SW_FSM2)
+     (timestamp 009FFFED)
+     ("Source Package" CON2)
+     (Value CON2))))
+  (component CON3
+   (place J25
+    (property 
+     ("PCB Footprint" SOT23)
+     (timestamp 009FBDA1)
+     ("Source Package" CON3)
+     (Value bas16)))
+   (place dmg
+    (property 
+     ("PCB Footprint" SOT23)
+     (timestamp 009F73FB)
+     ("Source Package" CON3)
+     (Value CON3))))
+  (component CON16
+   (place Lis
+    (property 
+     ("PCB Footprint" QFN16)
+     (timestamp 009F68BE)
+     ("Source Package" CON16)
+     (Value CON16))))
+  (component "CAP NP"
+   (place C1
+    (property 
+     ("PCB Footprint" 0805)
+     (timestamp 0000014D)
+     ("Source Package" "CAP NP")
+     (Value "CAP NP")))
+   (place C2
+    (property 
+     ("PCB Footprint" 0805)
+     (timestamp 0000011F)
+     ("Source Package" "CAP NP")
+     (Value "CAP NP")))
+   (place C4
+    (property 
+     ("PCB Footprint" 0603)
+     (timestamp 009F544E)
+     ("Source Package" "CAP NP")
+     (Value "CAP NP")))
+   (place C5
+    (property 
+     ("PCB Footprint" 0603)
+     (timestamp 009FD15B)
+     ("Source Package" "CAP NP")
+     (Value "CAP NP"))))
+  (component CON4
+   (place Out1
+    (property 
+     ("PCB Footprint" SIP4)
+     (timestamp 009FF43B)
+     ("Source Package" CON4)
+     (Value CON4)))
+   (place Out2
+    (property 
+     ("PCB Footprint" SIP4)
+     (timestamp 009FF427)
+     ("Source Package" CON4)
+     (Value CON4))))
+  (component CON5
+   (place Ldo
+    (property 
+     ("PCB Footprint" "SOT23-5")
+     (timestamp 0000295A)
+     ("Source Package" CON5)
+     (Value CON5))))
+  (component CON6
+   (place btnOn
+    (property 
+     ("PCB Footprint" SW_BT85)
+     (timestamp 009FE124)
+     ("Source Package" CON6)
+     (Value CON6)))
+   (place FT232
+    (property 
+     ("PCB Footprint" SIP6)
+     (timestamp 009FECB7)
+     ("Source Package" CON6)
+     (Value CON6))))
+  (component CON39_1
+   (place J1
+    (property 
+     ("PCB Footprint" ESP32W)
+     (timestamp 009FC5BC)
+     ("Source Package" CON39_1)
+     (Value CON39))))
+  (component CON3_1
+   (place J21
+    (property 
+     ("PCB Footprint" LED3528)
+     (timestamp 009F9E20)
+     ("Source Package" CON3_1)
+     (Value CON3))))
+  (component CON8
+   (place TC4056
+    (property 
+     ("PCB Footprint" SOIC8EP)
+     (timestamp 009F6772)
+     ("Source Package" CON8)
+     (Value CON8))))
+  (component CON6_0
+   (place usb
+    (property 
+     ("PCB Footprint" USBC)
+     (timestamp 009F6B0E)
+     ("Source Package" CON6_0)
+     (Value CON6)))
+   (place usb1
+    (property 
+     ("PCB Footprint" USBC)
+     (timestamp 009FD774)
+     ("Source Package" CON6_0)
+     (Value CON6))))
+  (component R
+   (place RSIG1
+    (property 
+     ("PCB Footprint" 0603)
+     (timestamp 00A00287)
+     ("Source Package" R)
+     (Value R)))
+   (place RSP1
+    (property 
+     ("PCB Footprint" 0603)
+     (timestamp 000004EF)
+     ("Source Package" R)
+     (Value R)))
+   (place RSIG2
+    (property 
+     ("PCB Footprint" 0603)
+     (timestamp 00A002BB)
+     ("Source Package" R)
+     (Value R)))
+   (place RSP2
+    (property 
+     ("PCB Footprint" 0603)
+     (timestamp 00000509)
+     ("Source Package" R)
+     (Value R)))
+   (place RSIG3
+    (property 
+     ("PCB Footprint" 0603)
+     (timestamp 00A0032E)
+     ("Source Package" R)
+     (Value R)))
+   (place RSIG4
+    (property 
+     ("PCB Footprint" 0603)
+     (timestamp 00A00348)
+     ("Source Package" R)
+     (Value R)))
+   (place RSIG5
+    (property 
+     ("PCB Footprint" 0603)
+     (timestamp 00A00362)
+     ("Source Package" R)
+     (Value R)))
+   (place RSIG6
+    (property 
+     ("PCB Footprint" 0603)
+     (timestamp 00A0037C)
+     ("Source Package" R)
+     (Value R)))
+   (place Rup1
+    (property 
+     ("PCB Footprint" 0603)
+     (timestamp 00001D84)
+     ("Source Package" R)
+     (Value R)))
+   (place Rup2
+    (property 
+     ("PCB Footprint" 0603)
+     (timestamp 00001D9E)
+     ("Source Package" R)
+     (Value R)))
+   (place Rcurr
+    (property 
+     ("PCB Footprint" 0603)
+     (timestamp 009F7069)
+     ("Source Package" R)
+     (Value R)))
+   (place Rcurr1r
+    (property 
+     ("PCB Footprint" 0603)
+     (timestamp 009F711D)
+     ("Source Package" R)
+     (Value R)))
+   (place RG15D1
+    (property 
+     ("PCB Footprint" 0603)
+     (timestamp 0000021F)
+     ("Source Package" R)
+     (Value R)))
+   (place Rcurr2g
+    (property 
+     ("PCB Footprint" 0603)
+     (timestamp 009F820C)
+     ("Source Package" R)
+     (Value R)))
+   (place RCAP1
+    (property 
+     ("PCB Footprint" 0603)
+     (timestamp 000000F9)
+     ("Source Package" R)
+     (Value R)))
+   (place RCAP2
+    (property 
+     ("PCB Footprint" 0603)
+     (timestamp 009F75BD)
+     ("Source Package" R)
+     (Value R)))))
+ (library
+  (image CON4
+   (property 
+    (sourcelib C:\\CADENCE\\SPB_16.5\\TOOLS\\CAPTURE\\LIBRARY\\CONNECTOR.OLB))
+   (pin 999 1
+    (property 
+     (pinname 1)
+     (pintype 4)))
+   (pin 999 2
+    (property 
+     (pinname 2)
+     (pintype 4)))
+   (pin 999 3
+    (property 
+     (pinname 3)
+     (pintype 4)))
+   (pin 999 4
+    (property 
+     (pinname 4)
+     (pintype 4))))
+  (image CON6_0
+   (property 
+    (sourcelib C:\\PCB_PROJECTS\\NEW_LEDSCONTR3\\SCH_ESPCHP323\\ESP.DSN))
+   (pin 999 A12
+    (property 
+     (pinname A12)
+     (pintype 4)))
+   (pin 999 A9
+    (property 
+     (pinname A9)
+     (pintype 4)))
+   (pin 999 A5
+    (property 
+     (pinname A5)
+     (pintype 4)))
+   (pin 999 B5
+    (property 
+     (pinname B5)
+     (pintype 4)))
+   (pin 999 B9
+    (property 
+     (pinname B9)
+     (pintype 4)))
+   (pin 999 B12
+    (property 
+     (pinname B12)
+     (pintype 4)))
+   (pin 999 M1
+    (property 
+     (pinname M1)
+     (pintype 4)))
+   (pin 999 M2
+    (property 
+     (pinname M2)
+     (pintype 4)))
+   (pin 999 M3
+    (property 
+     (pinname M3)
+     (pintype 4)))
+   (pin 999 M4
+    (property 
+     (pinname M4)
+     (pintype 4))))
+  (image R
+   (property 
+    (sourcelib C:\\CADENCE\\SPB_16.5\\TOOLS\\CAPTURE\\LIBRARY\\DISCRETE.OLB))
+   (pin 999 1
+    (property 
+     (pinname 1)
+     (pintype 4)))
+   (pin 999 2
+    (property 
+     (pinname 2)
+     (pintype 4))))
+  (image CON5
+   (property 
+    (sourcelib C:\\CADENCE\\SPB_16.5\\TOOLS\\CAPTURE\\LIBRARY\\CONNECTOR.OLB))
+   (pin 999 1
+    (property 
+     (pinname 1)
+     (pintype 4)))
+   (pin 999 2
+    (property 
+     (pinname 2)
+     (pintype 4)))
+   (pin 999 3
+    (property 
+     (pinname 3)
+     (pintype 4)))
+   (pin 999 4
+    (property 
+     (pinname 4)
+     (pintype 4)))
+   (pin 999 5
+    (property 
+     (pinname 5)
+     (pintype 4))))
+  (image CON8
+   (property 
+    (sourcelib C:\\CADENCE\\SPB_16.5\\TOOLS\\CAPTURE\\LIBRARY\\CONNECTOR.OLB))
+   (pin 999 1
+    (property 
+     (pinname 1)
+     (pintype 4)))
+   (pin 999 2
+    (property 
+     (pinname 2)
+     (pintype 4)))
+   (pin 999 3
+    (property 
+     (pinname 3)
+     (pintype 4)))
+   (pin 999 4
+    (property 
+     (pinname 4)
+     (pintype 4)))
+   (pin 999 5
+    (property 
+     (pinname 5)
+     (pintype 4)))
+   (pin 999 6
+    (property 
+     (pinname 6)
+     (pintype 4)))
+   (pin 999 7
+    (property 
+     (pinname 7)
+     (pintype 4)))
+   (pin 999 8
+    (property 
+     (pinname 8)
+     (pintype 4))))
+  (image "CAP NP"
+   (property 
+    (sourcelib C:\\CADENCE\\SPB_16.5\\TOOLS\\CAPTURE\\LIBRARY\\DISCRETE.OLB))
+   (pin 999 1
+    (property 
+     (pinname 1)
+     (pintype 4)))
+   (pin 999 2
+    (property 
+     (pinname 2)
+     (pintype 4))))
+  (image CON39_1
+   (property 
+    (sourcelib C:\\PCB_PROJECTS\\NEW_LEDSCONTR\\SCH_ESP32\\ESP32.DSN))
+   (pin 999 1
+    (property 
+     (pinname 1)
+     (pintype 4)))
+   (pin 999 2
+    (property 
+     (pinname 2)
+     (pintype 4)))
+   (pin 999 3
+    (property 
+     (pinname 3)
+     (pintype 4)))
+   (pin 999 4
+    (property 
+     (pinname 4)
+     (pintype 4)))
+   (pin 999 5
+    (property 
+     (pinname 5)
+     (pintype 4)))
+   (pin 999 6
+    (property 
+     (pinname 6)
+     (pintype 4)))
+   (pin 999 7
+    (property 
+     (pinname 7)
+     (pintype 4)))
+   (pin 999 8
+    (property 
+     (pinname 8)
+     (pintype 4)))
+   (pin 999 9
+    (property 
+     (pinname 9)
+     (pintype 4)))
+   (pin 999 10
+    (property 
+     (pinname 10)
+     (pintype 4)))
+   (pin 999 11
+    (property 
+     (pinname 11)
+     (pintype 4)))
+   (pin 999 12
+    (property 
+     (pinname 12)
+     (pintype 4)))
+   (pin 999 13
+    (property 
+     (pinname 13)
+     (pintype 4)))
+   (pin 999 14
+    (property 
+     (pinname 14)
+     (pintype 4)))
+   (pin 999 15
+    (property 
+     (pinname 15)
+     (pintype 4)))
+   (pin 999 16
+    (property 
+     (pinname 16)
+     (pintype 4)))
+   (pin 999 17
+    (property 
+     (pinname 17)
+     (pintype 4)))
+   (pin 999 18
+    (property 
+     (pinname 18)
+     (pintype 4)))
+   (pin 999 19
+    (property 
+     (pinname 19)
+     (pintype 4)))
+   (pin 999 20
+    (property 
+     (pinname 20)
+     (pintype 4)))
+   (pin 999 21
+    (property 
+     (pinname 21)
+     (pintype 4)))
+   (pin 999 22
+    (property 
+     (pinname 22)
+     (pintype 4)))
+   (pin 999 23
+    (property 
+     (pinname 23)
+     (pintype 4)))
+   (pin 999 24
+    (property 
+     (pinname 24)
+     (pintype 4)))
+   (pin 999 25
+    (property 
+     (pinname 25)
+     (pintype 4)))
+   (pin 999 26
+    (property 
+     (pinname 26)
+     (pintype 4)))
+   (pin 999 27
+    (property 
+     (pinname 27)
+     (pintype 4)))
+   (pin 999 28
+    (property 
+     (pinname 28)
+     (pintype 4)))
+   (pin 999 29
+    (property 
+     (pinname 29)
+     (pintype 4)))
+   (pin 999 30
+    (property 
+     (pinname 30)
+     (pintype 4)))
+   (pin 999 31
+    (property 
+     (pinname 31)
+     (pintype 4)))
+   (pin 999 32
+    (property 
+     (pinname 32)
+     (pintype 4)))
+   (pin 999 33
+    (property 
+     (pinname 33)
+     (pintype 4)))
+   (pin 999 34
+    (property 
+     (pinname 34)
+     (pintype 4)))
+   (pin 999 35
+    (property 
+     (pinname 35)
+     (pintype 4)))
+   (pin 999 36
+    (property 
+     (pinname 36)
+     (pintype 4)))
+   (pin 999 37
+    (property 
+     (pinname 37)
+     (pintype 4)))
+   (pin 999 38
+    (property 
+     (pinname 38)
+     (pintype 4))))
+  (image CON2
+   (property 
+    (sourcelib C:\\CADENCE\\SPB_16.5\\TOOLS\\CAPTURE\\LIBRARY\\CONNECTOR.OLB))
+   (pin 999 1
+    (property 
+     (pinname 1)
+     (pintype 4)))
+   (pin 999 2
+    (property 
+     (pinname 2)
+     (pintype 4))))
+  (image CON3_1
+   (property 
+    (sourcelib C:\\PCB_PROJECTS\\SCH_TLC\\TLC5947.DSN))
+   (pin 999 2
+    (property 
+     (pinname 2)
+     (pintype 4)))
+   (pin 999 3
+    (property 
+     (pinname 3)
+     (pintype 4)))
+   (pin 999 4
+    (property 
+     (pinname 4)
+     (pintype 4)))
+   (pin 999 1
+    (property 
+     (pinname 1)
+     (pintype 4))))
+  (image CON6
+   (property 
+    (sourcelib C:\\CADENCE\\SPB_16.5\\TOOLS\\CAPTURE\\LIBRARY\\CONNECTOR.OLB))
+   (pin 999 1
+    (property 
+     (pinname 1)
+     (pintype 4)))
+   (pin 999 2
+    (property 
+     (pinname 2)
+     (pintype 4)))
+   (pin 999 3
+    (property 
+     (pinname 3)
+     (pintype 4)))
+   (pin 999 4
+    (property 
+     (pinname 4)
+     (pintype 4)))
+   (pin 999 5
+    (property 
+     (pinname 5)
+     (pintype 4)))
+   (pin 999 6
+    (property 
+     (pinname 6)
+     (pintype 4))))
+  (image CON3
+   (property 
+    (sourcelib C:\\CADENCE\\SPB_16.5\\TOOLS\\CAPTURE\\LIBRARY\\CONNECTOR.OLB))
+   (pin 999 1
+    (property 
+     (pinname 1)
+     (pintype 4)))
+   (pin 999 2
+    (property 
+     (pinname 2)
+     (pintype 4)))
+   (pin 999 3
+    (property 
+     (pinname 3)
+     (pintype 4))))
+  (image CON16
+   (property 
+    (sourcelib C:\\CADENCE\\SPB_16.5\\TOOLS\\CAPTURE\\LIBRARY\\CONNECTOR.OLB))
+   (pin 999 1
+    (property 
+     (pinname 1)
+     (pintype 4)))
+   (pin 999 2
+    (property 
+     (pinname 2)
+     (pintype 4)))
+   (pin 999 3
+    (property 
+     (pinname 3)
+     (pintype 4)))
+   (pin 999 4
+    (property 
+     (pinname 4)
+     (pintype 4)))
+   (pin 999 5
+    (property 
+     (pinname 5)
+     (pintype 4)))
+   (pin 999 6
+    (property 
+     (pinname 6)
+     (pintype 4)))
+   (pin 999 7
+    (property 
+     (pinname 7)
+     (pintype 4)))
+   (pin 999 8
+    (property 
+     (pinname 8)
+     (pintype 4)))
+   (pin 999 9
+    (property 
+     (pinname 9)
+     (pintype 4)))
+   (pin 999 10
+    (property 
+     (pinname 10)
+     (pintype 4)))
+   (pin 999 11
+    (property 
+     (pinname 11)
+     (pintype 4)))
+   (pin 999 12
+    (property 
+     (pinname 12)
+     (pintype 4)))
+   (pin 999 13
+    (property 
+     (pinname 13)
+     (pintype 4)))
+   (pin 999 14
+    (property 
+     (pinname 14)
+     (pintype 4)))
+   (pin 999 15
+    (property 
+     (pinname 15)
+     (pintype 4)))
+   (pin 999 16
+    (property 
+     (pinname 16)
+     (pintype 4)))))
+ (network
+  (net +3.3V
+    (property 
+     (nettype S))
+   (pins
+     RCAP1-1 Rup1-2 Rup2-2 Ldo-5 Lis-1 Lis-8 Lis-14 J1-2 FT232-4))
+  (net +5V
+    (property 
+     (nettype S))
+   (pins
+     TC4056-4 TC4056-8 usb-A9 usb-B9 J21-1 usb1-A9 usb1-B9))
+  (net ADC
+   (pins
+     RSP1-2 RSP2-2 J1-9))
+  (net BTCHK
+   (pins
+     J25-3 J1-26))
+  (net CH_EN
+   (pins
+     Rup2-1 J1-3 C5-2 FT232-5 J23-1))
+  (net GND
+    (property 
+     (nettype S))
+   (pins
+     C2-2 C1-2 RG15D1-1 RSP2-1 Ldo-2 C4-2 TC4056-1 TC4056-3 Lis-5
+     Lis-12 usb-A12 usb-B12 Btt-2 Rcurr-2 J1-1 J1-15 J1-38 C5-1
+     usb1-A12 usb1-B12 btnOn-2 btnOn-5 btnOn-6 FT232-6 Out1-3 J23-2))
+  (net GPIO0
+   (pins
+     Rup1-1 J1-25 FT232-1))
+  (net GPIO14
+   (pins
+     J1-13 Out2-1 RSIG6-1 RSIG6-2))
+  (net GPIO15
+   (pins
+     RG15D1-2 J1-23))
+  (net GPIO22
+   (pins
+     J1-36 Out1-2 RSIG1-1 RSIG1-2))
+  (net GPIO23
+   (pins
+     J1-37 Out1-4 RSIG2-1 RSIG2-2))
+  (net GPIO25
+   (pins
+     J1-10 Out2-4 RSIG3-1 RSIG3-2))
+  (net GPIO26
+   (pins
+     J1-11 Out2-3 RSIG4-1 RSIG4-2))
+  (net GPIO27
+   (pins
+     J1-12 Out2-2 RSIG5-1 RSIG5-2))
+  (net LIS_SCL
+   (pins
+     Lis-4 J1-8))
+  (net LIS_SDA
+   (pins
+     Lis-6 J1-7))
+  (net MOSFON
+   (pins
+     dmg-1 RCAP2-1 J25-1 J1-29 btnOn-3 btnOn-4))
+  (net N002491
+   (pins
+     RCAP1-2 C2-1))
+  (net N10441812
+   (pins
+     Ldo-4 C4-1))
+  (net N104467061
+   (pins
+     TC4056-2 Rcurr-1))
+  (net N10449477
+   (pins
+     TC4056-7 Rcurr1r-1))
+  (net N10449481
+   (pins
+     Rcurr1r-2 J21-4))
+  (net N10453522
+   (pins
+     TC4056-6 Rcurr2g-1))
+  (net N10453537
+   (pins
+     Rcurr2g-2 J21-3))
+  (net N10488001
+   (pins
+     J1-14 btnOn-1))
+  (net RX
+   (pins
+     J1-35 FT232-2))
+  (net TX
+   (pins
+     J1-34 FT232-3))
+  (net VBT
+    (property 
+     (nettype S))
+   (pins
+     TC4056-5 Btt-1 dmg-2 RCAP2-2))
+  (net VCC
+    (property 
+     (nettype S))
+   (pins
+     C1-1 RSP1-1 Ldo-1 Ldo-3 dmg-3 Out1-1)))
+)

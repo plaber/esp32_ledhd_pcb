@@ -1,0 +1,9 @@
+
+                                Circuit Paste log
+                                -----------------
+
+                      01:56 AM Tuesday, September 15, 2020
+       Job Name: C:\PCB_Projects\new_ledsContr2\sch_espchp322\PCB\esp.pcb
+
+         Clipboard: C:\DOCUME~1\autist\LOCALS~1\Temp\mgc_icc_clipboard\Layout\
+    

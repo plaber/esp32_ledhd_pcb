@@ -1,0 +1,87 @@
+[2009.11.24 09:22:39] [0000m.00s.031ms] [0] WELCOME
+[2009.11.24 09:22:39] [0000m.00s.031ms] [1] iCDB Server ver.1.007, HvQ8kKCvhuzsBu5CD2LCWg, build:369282 created 2009-09-30 07:43:26, sources stamp:HvQ8kKCvhuzsBu5CD2LCWg
+[2009.11.24 09:22:39] [0000m.00s.031ms] [1] Copyright 2009 Mentor Graphics Corporation. All Rights Reserved.
+[2009.11.24 09:22:39] [0000m.00s.031ms] [1] Base flow version [2007.7]
+[2009.11.24 09:22:39] [0000m.00s.031ms] [1] GBS Install Id [11782], Flow Id [EE2007.7], Full Flow Name[Expedition Enterprise Flow], Exact Access Date[Aug 1 2009]
+[2009.11.24 09:22:39] [0000m.00s.046ms] [1] Machine [neptune]  User [mike]  PID [1460]
+[2009.11.24 09:22:39] [0000m.00s.046ms] [1] Operating system [Microsoft Windows XP Professional Service Pack 3 (build 2600)]
+[2009.11.24 09:22:39] [0000m.00s.046ms] [1] Current working dir [C:\MentorData\CentralLib\Templates\Layout\4 Layer Template_1]
+[2009.11.24 09:22:39] [0000m.00s.046ms] [1] PATH [E:\MentorGraphics\2007.7EE\SDD_HOME\xe\win32\lib;E:\MentorGraphics\2007.7EE\SDD_HOME\wg\win32\lib;E:\MentorGraphics\2007.7EE\SDD_HOME\common\win32\bin;E:\MentorGraphics\2007.7EE\SDD_HOME\common\win32\lib;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\Program Files\doxygen\bin;C:\Program Files\Graphviz2.18\Bin;C:\Program Files\P-CAD 2006 Viewer\;C:\WINDOWS\system32\WindowsPowerShell\v1.0;C:\Program Files\Samsung\Samsung PC Studio 3\;C:\Program Files\TortoiseSVN\bin;E:\MENTOR~1\LICENS~1;E:/MentorGraphics/2007.7EE/MGC_HOME.ixn/bin;E:/MentorGraphics/2007.7EE/MGC_HOME.ixn/lib;E:\MentorGraphics\2007.7EE\MGC_HOME.ixn\bin;E:\MentorGraphics\2007.7EE\MGC_HOME.ixn\lib;C:\Program Files\CVSNT\]
+[2009.11.24 09:22:39] [0000m.00s.046ms] [1] WDIR [C:\MentorData\iCDB]
+[2009.11.24 09:22:39] [0000m.00s.046ms] [1] SDD_HOME [E:\MentorGraphics\2007.7EE\SDD_HOME]
+[2009.11.24 09:22:39] [0000m.00s.046ms] [1] SDD_PLATFORM [win32]
+[2009.11.24 09:22:39] [0000m.00s.046ms] [2] S: Loading config files
+[2009.11.24 09:22:39] [0000m.00s.046ms] [1] Config: WARNING: Could not open config file [C:\MentorData\CentralLib\Templates\Layout\4 Layer Template_1\keyin.icdb\cdbsvr\Server.cfg]
+[2009.11.24 09:22:39] [0000m.00s.062ms] [3] S: Config loaded
+[2009.11.24 09:22:39] [0000m.00s.062ms] [0] S: Single-user mode (auto)
+[2009.11.24 09:22:39] [0000m.00s.062ms] [0] S: Event polling mode autodetection
+[2009.11.24 09:22:39] [0000m.00s.062ms] [0] S: Started up automatically by iCDB Client: neptune:mike:3712
+[2009.11.24 09:22:39] [0000m.00s.062ms] [0] S: Auto close mode
+[2009.11.24 09:22:39] [0000m.00s.062ms] [0] S: Project [C:\MentorData\CentralLib\Templates\Layout\4 Layer Template_1\keyin.icdb]
+[2009.11.24 09:22:39] [0000m.00s.062ms] [0] S: Database ID [019d-973d-ec27-0c76-08b7-b0b4-8b7b-0b40-6d06-f676-2710-fff8]
+[2009.11.24 09:22:39] [0000m.00s.062ms] [0] S: START
+[2009.11.24 09:22:39] [0000m.00s.062ms] [0] S: Server startup lock file created
+[2009.11.24 09:22:40] [0000m.00s.078ms] [0] S: Listening for client connections on port [10000]
+[2009.11.24 09:22:40] [0000m.00s.078ms] [0] S: Server network ID [neptune:192.168.0.137,5.231.138.203,neptune:10000]
+[2009.11.24 09:22:40] [0000m.00s.078ms] [0] S: Server GUID [f691-db62-2183-141c-fab7-b0b3-bb7b-0b40-a3a6-f676-2710-fff8]
+[2009.11.24 09:22:40] [0000m.00s.078ms] [0] S: Project GUID [019d-973d-ec27-0c76-08b7-b0b4-8b7b-0b40-6d06-f676-2710-fff8]
+[2009.11.24 09:22:40] [0000m.00s.078ms] [0] S: Wrote data to server address file
+[2009.11.24 09:22:40] [0000m.00s.078ms] [0] S: Server startup lock file removed
+[2009.11.24 09:22:40] [0000m.00s.156ms] [0] S: Plugins loaded: [PIM] [ENetGen70] 
+[2009.11.24 09:22:40] [0000m.00s.171ms] [0] S: Local disc access time: 139 us
+[2009.11.24 09:22:40] [0000m.00s.171ms] [0] S: Filer access time: 104 us
+[2009.11.24 09:22:40] [0000m.00s.171ms] [0] SingleFile: [0000-0000-0000-0000] SFI header version check [1008] [1008]
+[2009.11.24 09:22:40] [0000m.00s.171ms] [0] SingleFile: [0000-0000-0000-0000] SFI header version check [1008] [1008]
+[2009.11.24 09:22:40] [0000m.00s.171ms] [0] SingleFile: [665b-4f58-9fb2-07cf] SFI version check [1008] [1008]
+[2009.11.24 09:22:40] [0000m.00s.187ms] [0] iCDB Server PI: Server & plugin session [36]
+[2009.11.24 09:22:40] [0000m.00s.187ms] [0] iCDB Server PI: Opening database [C:\MentorData\CentralLib\Templates\Layout\4 Layer Template_1\keyin.icdb]
+[2009.11.24 09:22:40] [0000m.00s.187ms] [0] iCDB Server PI: Database [C:\MentorData\CentralLib\Templates\Layout\4 Layer Template_1\keyin.icdb] opened
+[2009.11.24 09:22:40] [0000m.00s.187ms] [0] iCDB Server PI: Checking existence of constraint definitions
+[2009.11.24 09:22:40] [0000m.00s.187ms] [0] iCDB Server PI: Checking constraint definitions version
+[2009.11.24 09:22:40] [0000m.00s.250ms] [0] iCDB Database: Upgrading constraint definitions from version [ce_ee.cns=7.6.1]
+[2009.11.24 09:22:40] [0000m.00s.250ms] [1] iCDB Storage Server: Backup snapshot: ProjectPath[C:\MentorData\CentralLib\Templates\Layout\4 Layer Template_1\keyin.icdb] SnapshotID[1]
+[2009.11.24 09:22:40] [0000m.00s.250ms] [0] iCDB Storage Server Backup Thread: Backup snapshot: BackupPath[C:\MentorData\CentralLib\Templates\Layout\4 Layer Template_1\keyin.icdb\cdbback\2009-11-24 09.22.40-1460.zip]
+[2009.11.24 09:22:40] [0000m.00s.265ms] [0] iCDB Storage Server Backup Thread: Backup snapshot DONE: Result[ Succeeded[TRUE]] BackupPath[C:\MentorData\CentralLib\Templates\Layout\4 Layer Template_1\keyin.icdb\cdbback]
+[2009.11.24 09:22:40] [0000m.00s.265ms] [1] CORE: Applying a fix no 10 to atlas [C:\MentorData\CentralLib\Templates\Layout\4 Layer Template_1\keyin.icdb\s1\cdbcnfgs\2000000010000050.blk\cesatl]
+[2009.11.24 09:22:40] [0000m.00s.265ms] [1] CORE: Atlas fixed successfully [C:\MentorData\CentralLib\Templates\Layout\4 Layer Template_1\keyin.icdb\s1\cdbcnfgs\2000000010000050.blk\cesatl]
+[2009.11.24 09:22:40] [0000m.00s.265ms] [1] CORE: Upgrade snapshot PCB completed successfully.
+[2009.11.24 09:22:40] [0000m.00s.281ms] [1] CORE: Applying a fix no 10 to atlas [C:\MentorData\CentralLib\Templates\Layout\4 Layer Template_1\keyin.icdb\s2\cdbcnfgs\2000000010000050.blk\cesatl]
+[2009.11.24 09:22:40] [0000m.00s.281ms] [1] CORE: Atlas fixed successfully [C:\MentorData\CentralLib\Templates\Layout\4 Layer Template_1\keyin.icdb\s2\cdbcnfgs\2000000010000050.blk\cesatl]
+[2009.11.24 09:22:40] [0000m.00s.281ms] [1] CORE: Upgrade snapshot PCB_Layout_Temp completed successfully.
+[2009.11.24 09:22:40] [0000m.00s.328ms] [0] iCDB Database: Constraint definitions upgraded to version [ce_ee.cns=7.7.1]
+[2009.11.24 09:22:40] [0000m.00s.328ms] [1] iCDB Storage Server: WARNING: Unloading CHANGED file [C:\MentorData\CentralLib\Templates\Layout\4 Layer Template_1\keyin.icdb\s1\cdbcatlg\catlgatl.v] - auto-saving it
+[2009.11.24 09:22:40] [0000m.00s.328ms] [1] iCDB Storage Server: WARNING: Unloading CHANGED file [C:\MentorData\CentralLib\Templates\Layout\4 Layer Template_1\keyin.icdb\s1\cdbcatlg\grpobj] - auto-saving it
+[2009.11.24 09:22:40] [0000m.00s.328ms] [1] iCDB Storage Server: WARNING: Unloading CHANGED file [C:\MentorData\CentralLib\Templates\Layout\4 Layer Template_1\keyin.icdb\s1\cdbcnfgs\2000000010000050.blk\ces_obj_state] - auto-saving it
+[2009.11.24 09:22:40] [0000m.00s.328ms] [1] iCDB Storage Server: WARNING: Unloading CHANGED file [C:\MentorData\CentralLib\Templates\Layout\4 Layer Template_1\keyin.icdb\s1\cdbcnfgs\2000000010000050.blk\cesatl.v] - auto-saving it
+[2009.11.24 09:22:40] [0000m.00s.328ms] [1] iCDB Storage Server: WARNING: Unloading CHANGED file [C:\MentorData\CentralLib\Templates\Layout\4 Layer Template_1\keyin.icdb\s1\uids] - auto-saving it
+[2009.11.24 09:22:40] [0000m.00s.328ms] [1] iCDB Storage Server: WARNING: Unloading CHANGED file [C:\MentorData\CentralLib\Templates\Layout\4 Layer Template_1\keyin.icdb\s2\cdbcatlg\catlgatl.v] - auto-saving it
+[2009.11.24 09:22:40] [0000m.00s.328ms] [1] iCDB Storage Server: WARNING: Unloading CHANGED file [C:\MentorData\CentralLib\Templates\Layout\4 Layer Template_1\keyin.icdb\s2\cdbcatlg\grpobj] - auto-saving it
+[2009.11.24 09:22:40] [0000m.00s.328ms] [1] iCDB Storage Server: WARNING: Unloading CHANGED file [C:\MentorData\CentralLib\Templates\Layout\4 Layer Template_1\keyin.icdb\s2\cdbcnfgs\2000000010000050.blk\ces_obj_state] - auto-saving it
+[2009.11.24 09:22:40] [0000m.00s.328ms] [1] iCDB Storage Server: WARNING: Unloading CHANGED file [C:\MentorData\CentralLib\Templates\Layout\4 Layer Template_1\keyin.icdb\s2\cdbcnfgs\2000000010000050.blk\cesatl.v] - auto-saving it
+[2009.11.24 09:22:40] [0000m.00s.328ms] [1] iCDB Storage Server: WARNING: Unloading CHANGED file [C:\MentorData\CentralLib\Templates\Layout\4 Layer Template_1\keyin.icdb\s2\uids] - auto-saving it
+[2009.11.24 09:22:40] [0000m.00s.343ms] [0] iCDB Server PI: Initializing plugins
+[2009.11.24 09:22:40] [0000m.00s.343ms] [0] iCDB Server PI: Plugins initialized
+[2009.11.24 09:22:40] [0000m.00s.343ms] [0] S: iCDB database loaded
+[2009.11.24 09:22:40] [0000m.00s.343ms] [0] S: Starting threads
+[2009.11.24 09:22:40] [0000m.00s.343ms] [0] BT: Listening for broadcast messages on port [10000]
+[2009.11.24 09:22:40] [0000m.00s.343ms] [0] IT: Session [37] for host [neptune] user [mike] with process ID [3712] created
+[2009.11.24 09:22:40] [0000m.00s.343ms] [1] CMT: There are [1] clients now
+[2009.11.24 09:22:40] [0000m.00s.343ms] [1] SC[37]: Registered sub-client [Expedition PCB_1261375] with ID [1] for session ID [37] host [neptune] user [mike] process ID [3712]
+[2009.11.24 09:22:41] [0000m.01s.109ms] [1] SC[37]: Registered sub-client [ExpeditionCrossProber] with ID [2] for session ID [37] host [neptune] user [mike] process ID [3712]
+[2009.11.24 09:22:49] [0000m.09s.453ms] [1] SC[37]: Registered sub-client [JobPrefsDBPI_1270937] with ID [3] for session ID [37] host [neptune] user [mike] process ID [3712]
+[2009.11.24 09:22:49] [0000m.09s.515ms] [1] SC[37]: UnRegistered sub-client [JobPrefsDBPI_1270937] with ID [3] for session ID [37] host [neptune] user [mike] process ID [3712]
+[2009.11.24 09:22:49] [0000m.09s.546ms] [1] SC[37]: Registered sub-client [JobPrefsDBPI_1271031] with ID [4] for session ID [37] host [neptune] user [mike] process ID [3712]
+[2009.11.24 09:22:49] [0000m.09s.562ms] [1] SC[37]: UnRegistered sub-client [JobPrefsDBPI_1271031] with ID [4] for session ID [37] host [neptune] user [mike] process ID [3712]
+[2009.11.24 09:22:49] [0000m.09s.562ms] [1] SC[37]: Registered sub-client [JobPrefsDBPI_1271046] with ID [5] for session ID [37] host [neptune] user [mike] process ID [3712]
+[2009.11.24 09:22:49] [0000m.09s.578ms] [1] SC[37]: UnRegistered sub-client [JobPrefsDBPI_1271046] with ID [5] for session ID [37] host [neptune] user [mike] process ID [3712]
+[2009.11.24 09:22:49] [0000m.09s.906ms] [1] SC[37]: UnRegistered sub-client [ExpeditionCrossProber] with ID [2] for session ID [37] host [neptune] user [mike] process ID [3712]
+[2009.11.24 09:22:49] [0000m.09s.921ms] [1] SC[37]: Registered sub-client [iCDBBackup] with ID [6] for session ID [37] host [neptune] user [mike] process ID [3712]
+[2009.11.24 09:22:49] [0000m.09s.921ms] [1] iCDB Storage Server: Backup queued: NetSubClientData[ClientData[ClientNetAddress[neptune] # ClientUserName[mike] # ClientProcessID[3712] # SessionID[37]] # SubClientData[SubClientName[iCDBBackup] # SubClientID[6]]] ProjectPath[C:\MentorData\CentralLib\Templates\Layout\4 Layer Template_1\keyin.icdb] BackupPath[C:\MentorData\CentralLib\Templates\Layout\4 Layer Template_1\AutoBackup\1259043769\keyin.icdb] WithLogFiles[1] Overwrite[0]
+[2009.11.24 09:22:49] [0000m.09s.937ms] [1] iCDB Storage Server Backup Thread: Backup done: NetSubClientData[ClientData[ClientNetAddress[neptune] # ClientUserName[mike] # ClientProcessID[3712] # SessionID[37]] # SubClientData[SubClientName[iCDBBackup] # SubClientID[6]]] BackupPath[C:\MentorData\CentralLib\Templates\Layout\4 Layer Template_1\AutoBackup\1259043769] WithLogFiles[1] Overwrite[0]
+[2009.11.24 09:22:49] [0000m.09s.937ms] [1] SC[37]: UnRegistered sub-client [iCDBBackup] with ID [6] for session ID [37] host [neptune] user [mike] process ID [3712]
+[2009.11.24 09:22:49] [0000m.09s.953ms] [1] SC[37]: UnRegistered sub-client [Expedition PCB_1261375] with ID [1] for session ID [37] host [neptune] user [mike] process ID [3712]
+[2009.11.24 09:22:50] [0000m.10s.140ms] [1] CMT: Removed client [37]
+[2009.11.24 09:22:50] [0000m.10s.140ms] [1] CMT: There are no clients left - waiting [1 seconds]
+[2009.11.24 09:22:50] [0000m.10s.687ms] [0] SingleFile: [665b-4f58-9fb2-07cf] Entering critical dump mode
+[2009.11.24 09:22:50] [0000m.10s.687ms] [0] SingleFile: [665b-4f58-9fb2-07cf] Changing storage location to: [C:\MentorData\iCDB\Server\backup\f691-db62-2183-141c-fab7-b0b3-bb7b-0b40-a3a6-f676-2710-fff8\icdb.dat]
+[2009.11.24 09:22:50] [0000m.10s.687ms] [0] SingleFile: [665b-4f58-9fb2-07cf] Successfully opened file [C:\MentorData\iCDB\Server\backup\f691-db62-2183-141c-fab7-b0b3-bb7b-0b40-a3a6-f676-2710-fff8\icdb.dat]

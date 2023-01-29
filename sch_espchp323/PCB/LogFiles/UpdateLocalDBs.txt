@@ -1,0 +1,12 @@
+
+                       Update Local Cell And Padstack DBs
+                       ----------------------------------
+
+                       09:58 PM Monday, December 19, 2022
+      Job Name: C:\PCB_Projects\new_ledsContr3\sch_espchp323\PCB\esp32.pcb
+
+
+     Version:  99.01.00
+
+The Local Cell And Padstack DBs have been updated with no errors or warnings.
+Please proceed with your component Design.

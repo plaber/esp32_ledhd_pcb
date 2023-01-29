@@ -1,0 +1,27 @@
+=======================================================================
+Expedition PCB - Pinnacle - Version 2013.0.543.380
+=======================================================================
+
+RELOAD CELLS
+
+Job Directory:  C:\PCB_Projects\new_ledsContr3\sch_espchp323\PCB\
+
+
+Design Units:(mm)
+
+Replace Cell Log:   repCellLog60.txt
+
+Sat Jan 21 10:19:21 2023
+
+Reference Designator            Cell Name                         New Cell Name
+===============================================================================
+
+
+---------------  RELOAD CELLS  Sat Jan 21 10:19:21 2023  ---------------
+
+
+
+
+---------------    Sat Jan 21 10:19:21 2023  ---------------
+
+

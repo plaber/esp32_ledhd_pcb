@@ -1,0 +1,2660 @@
+.FILETYPE DRCFILE
+.VERSION "2002"
+.DATE "September 25, 2022"
+.TIME "23:16:43"
+.PROXIMITY
+..VIO_XY (16115000, 51476000)  ! (16,11mm, 51,48mm)
+..CLEARANCE 254000  ! 0,25mm
+!..CLEARANCE_STRING "ComponentTypeDB Not Open - NetClass PlacementOutline-To-PlacementOutline : Clearance=0,25mm  "
+..OBJECT_1
+...OBJECT
+....OUTLINE_OBJ PLACE
+.....SIDE TOP
+.....XY (16115000, 51476000)  ! (16,11mm, 51,48mm)
+.....HGT 457200
+.....UNDER_HGT 0
+.....REF_DES "RUP2"
+..OBJECT_2
+...OBJECT
+....OUTLINE_OBJ PLACE
+.....SIDE TOP
+.....XY (12976000, 51615000)  ! (12,98mm, 51,62mm)
+.....HGT 457200
+.....UNDER_HGT 0
+.....REF_DES "C5"
+.PROXIMITY
+..VIO_XY (2976000, 16365000)  ! (2,98mm, 16,36mm)
+..CLEARANCE 254000  ! 0,25mm
+!..CLEARANCE_STRING "ComponentTypeDB Not Open - NetClass PlacementOutline-To-PlacementOutline : Clearance=0,25mm  "
+..OBJECT_1
+...OBJECT
+....OUTLINE_OBJ PLACE
+.....SIDE TOP
+.....XY (2976000, 16365000)  ! (2,98mm, 16,36mm)
+.....HGT 457200
+.....UNDER_HGT 0
+.....REF_DES "RCAP2"
+..OBJECT_2
+...OBJECT
+....OUTLINE_OBJ PLACE
+.....SIDE TOP
+.....XY (330000, 15630000)  ! (0,33mm, 15,63mm)
+.....HGT 8382000
+.....UNDER_HGT 0
+.....REF_DES "FT232"
+.PROXIMITY
+..VIO_XY (2595000, 17968000)  ! (2,6mm, 17,97mm)
+..CLEARANCE 254000  ! 0,25mm
+!..CLEARANCE_STRING "ComponentTypeDB Not Open - NetClass PlacementOutline-To-PlacementOutline : Clearance=0,25mm  "
+..OBJECT_1
+...OBJECT
+....OUTLINE_OBJ PLACE
+.....SIDE TOP
+.....XY (2595000, 17968000)  ! (2,6mm, 17,97mm)
+.....HGT 1016000
+.....UNDER_HGT 0
+.....REF_DES "DMG"
+..OBJECT_2
+...OBJECT
+....OUTLINE_OBJ PLACE
+.....SIDE TOP
+.....XY (330000, 15630000)  ! (0,33mm, 15,63mm)
+.....HGT 8382000
+.....UNDER_HGT 0
+.....REF_DES "FT232"
+.PROXIMITY
+..VIO_XY (4730000, 22230000)  ! (4,73mm, 22,23mm)
+..CLEARANCE 254000  ! 0,25mm
+!..CLEARANCE_STRING "ComponentTypeDB Not Open - NetClass PlacementOutline-To-PlacementOutline : Clearance=0,25mm  "
+..OBJECT_1
+...OBJECT
+....OUTLINE_OBJ PLACE
+.....SIDE TOP
+.....XY (4730000, 22230000)  ! (4,73mm, 22,23mm)
+.....HGT 8382000
+.....UNDER_HGT 0
+.....REF_DES "OUT1"
+..OBJECT_2
+...OBJECT
+....OUTLINE_OBJ PLACE
+.....SIDE TOP
+.....XY (2595000, 17968000)  ! (2,6mm, 17,97mm)
+.....HGT 1016000
+.....UNDER_HGT 0
+.....REF_DES "DMG"
+.PROXIMITY
+..VIO_XY (19861254, 6476000)  ! (19,86mm, 6,48mm)
+..CLEARANCE 254000  ! 0,25mm
+!..CLEARANCE_STRING "ComponentTypeDB Not Open - NetClass PlacementOutline-To-PlacementOutline : Clearance=0,25mm  "
+..OBJECT_1
+...OBJECT
+....OUTLINE_OBJ PLACE
+.....SIDE TOP
+.....XY (17353000, 3722000)  ! (17,35mm, 3,72mm)
+.....HGT 1549400
+.....UNDER_HGT 0
+.....REF_DES "J21"
+..OBJECT_2
+...OBJECT
+....OUTLINE_OBJ PLACE
+.....SIDE TOP
+.....XY (20115000, 6476000)  ! (20,11mm, 6,48mm)
+.....HGT 457200
+.....UNDER_HGT 0
+.....REF_DES "RCURR1R"
+.PROXIMITY
+..VIO_XY (15861254, 6476000)  ! (15,86mm, 6,48mm)
+..CLEARANCE 254000  ! 0,25mm
+!..CLEARANCE_STRING "ComponentTypeDB Not Open - NetClass PlacementOutline-To-PlacementOutline : Clearance=0,25mm  "
+..OBJECT_1
+...OBJECT
+....OUTLINE_OBJ PLACE
+.....SIDE TOP
+.....XY (3888000, 6432000)  ! (3,89mm, 6,43mm)
+.....HGT 8382000
+.....UNDER_HGT 0
+.....REF_DES "BTNON"
+..OBJECT_2
+...OBJECT
+....OUTLINE_OBJ PLACE
+.....SIDE TOP
+.....XY (16115000, 6476000)  ! (16,11mm, 6,48mm)
+.....HGT 457200
+.....UNDER_HGT 0
+.....REF_DES "RCURR2G"
+.PROXIMITY
+..VIO_XY (15861254, 6476000)  ! (15,86mm, 6,48mm)
+..CLEARANCE 254000  ! 0,25mm
+!..CLEARANCE_STRING "ComponentTypeDB Not Open - NetClass PlacementOutline-To-PlacementOutline : Clearance=0,25mm  "
+..OBJECT_1
+...OBJECT
+....OUTLINE_OBJ PLACE
+.....SIDE TOP
+.....XY (6130222, -951600)  ! (6,13mm, -0,95mm)
+.....HGT 0
+.....UNDER_HGT 0
+.....REF_DES "USB"
+..OBJECT_2
+...OBJECT
+....OUTLINE_OBJ PLACE
+.....SIDE TOP
+.....XY (16115000, 6476000)  ! (16,11mm, 6,48mm)
+.....HGT 457200
+.....UNDER_HGT 0
+.....REF_DES "RCURR2G"
+.PROXIMITY
+..VIO_XY (17353000, 6222254)  ! (17,35mm, 6,22mm)
+..CLEARANCE 254000  ! 0,25mm
+!..CLEARANCE_STRING "ComponentTypeDB Not Open - NetClass PlacementOutline-To-PlacementOutline : Clearance=0,25mm  "
+..OBJECT_1
+...OBJECT
+....OUTLINE_OBJ PLACE
+.....SIDE TOP
+.....XY (17353000, 3722000)  ! (17,35mm, 3,72mm)
+.....HGT 1549400
+.....UNDER_HGT 0
+.....REF_DES "J21"
+..OBJECT_2
+...OBJECT
+....OUTLINE_OBJ PLACE
+.....SIDE TOP
+.....XY (16115000, 6476000)  ! (16,11mm, 6,48mm)
+.....HGT 457200
+.....UNDER_HGT 0
+.....REF_DES "RCURR2G"
+.PROXIMITY
+..VIO_XY (15223454, 11380222)  ! (15,22mm, 11,38mm)
+..CLEARANCE 254000  ! 0,25mm
+!..CLEARANCE_STRING "ComponentTypeDB Not Open - NetClass PlacementOutline-To-PlacementOutline : Clearance=0,25mm  "
+..OBJECT_1
+...OBJECT
+....OUTLINE_OBJ PLACE
+.....SIDE TOP
+.....XY (3888000, 6432000)  ! (3,89mm, 6,43mm)
+.....HGT 8382000
+.....UNDER_HGT 0
+.....REF_DES "BTNON"
+..OBJECT_2
+...OBJECT
+....OUTLINE_OBJ PLACE
+.....SIDE TOP
+.....XY (15477200, 11380222)  ! (15,48mm, 11,38mm)
+.....HGT 0
+.....UNDER_HGT 0
+.....REF_DES "USB1"
+.PROXIMITY
+..VIO_XY (17099254, 6432000)  ! (17,1mm, 6,43mm)
+..CLEARANCE 254000  ! 0,25mm
+!..CLEARANCE_STRING "ComponentTypeDB Not Open - NetClass PlacementOutline-To-PlacementOutline : Clearance=0,25mm  "
+..OBJECT_1
+...OBJECT
+....OUTLINE_OBJ PLACE
+.....SIDE TOP
+.....XY (3888000, 6432000)  ! (3,89mm, 6,43mm)
+.....HGT 8382000
+.....UNDER_HGT 0
+.....REF_DES "BTNON"
+..OBJECT_2
+...OBJECT
+....OUTLINE_OBJ PLACE
+.....SIDE TOP
+.....XY (17353000, 3722000)  ! (17,35mm, 3,72mm)
+.....HGT 1549400
+.....UNDER_HGT 0
+.....REF_DES "J21"
+.PROXIMITY
+..VIO_XY (5876476, 6432000)  ! (5,88mm, 6,43mm)
+..CLEARANCE 254000  ! 0,25mm
+!..CLEARANCE_STRING "ComponentTypeDB Not Open - NetClass PlacementOutline-To-PlacementOutline : Clearance=0,25mm  "
+..OBJECT_1
+...OBJECT
+....OUTLINE_OBJ PLACE
+.....SIDE TOP
+.....XY (3888000, 6432000)  ! (3,89mm, 6,43mm)
+.....HGT 8382000
+.....UNDER_HGT 0
+.....REF_DES "BTNON"
+..OBJECT_2
+...OBJECT
+....OUTLINE_OBJ PLACE
+.....SIDE TOP
+.....XY (6130222, -951600)  ! (6,13mm, -0,95mm)
+.....HGT 0
+.....UNDER_HGT 0
+.....REF_DES "USB"
+.PROXIMITY
+..VIO_XY (3634254, 7642500)  ! (3,63mm, 7,64mm)
+..CLEARANCE 254000  ! 0,25mm
+!..CLEARANCE_STRING "ComponentTypeDB Not Open - NetClass PlacementOutline-To-PlacementOutline : Clearance=0,25mm  "
+..OBJECT_1
+...OBJECT
+....OUTLINE_OBJ PLACE
+.....SIDE TOP
+.....XY (960000, 7642500)  ! (0,96mm, 7,64mm)
+.....HGT 1549400
+.....UNDER_HGT 0
+.....REF_DES "TC4056"
+..OBJECT_2
+...OBJECT
+....OUTLINE_OBJ PLACE
+.....SIDE TOP
+.....XY (3888000, 6432000)  ! (3,89mm, 6,43mm)
+.....HGT 8382000
+.....UNDER_HGT 0
+.....REF_DES "BTNON"
+.PROXIMITY
+..VIO_XY (9702078, 48360174)  ! (9,7mm, 48,36mm)
+..CLEARANCE 254000  ! 0,25mm
+!..CLEARANCE_STRING "NetClass Pad-To-Pad : Scheme=(Minimum), Layer=1, NetName1=(Net0), NetName2=+3.3V, Clearance=0,25mm  "
+..OBJECT_1
+...OBJECT
+....PAD SMD
+.....LYR 1
+.....NET "(Net0)"
+.....NETCLASS "(Default)"
+.....NAME "Rectangle 30x11"
+.....REF_DES "LIS"
+.....XY (9780800, 48499874)  ! (9,78mm, 48,5mm)
+..OBJECT_2
+...OBJECT
+....PAD SMD
+.....LYR 1
+.....NET "+3.3V"
+.....NETCLASS "(Default)"
+.....NAME "Rectangle 30x11"
+.....REF_DES "LIS"
+.....XY (10000002, 47780800)  ! (10mm, 47,78mm)
+.PROXIMITY
+..VIO_XY (10360428, 47399800)  ! (10,36mm, 47,4mm)
+..CLEARANCE 254000  ! 0,25mm
+!..CLEARANCE_STRING "NetClass Pad-To-Pad : Scheme=(Minimum), Layer=1, NetName1=(Net0), NetName2=+3.3V, Clearance=0,25mm  "
+..OBJECT_1
+...OBJECT
+....PAD SMD
+.....LYR 1
+.....NET "(Net0)"
+.....NETCLASS "(Default)"
+.....NAME "Rectangle 30x11"
+.....REF_DES "LIS"
+.....XY (10500128, 47780800)  ! (10,5mm, 47,78mm)
+..OBJECT_2
+...OBJECT
+....PAD SMD
+.....LYR 1
+.....NET "+3.3V"
+.....NETCLASS "(Default)"
+.....NAME "Rectangle 30x11"
+.....REF_DES "LIS"
+.....XY (10000002, 47780800)  ! (10mm, 47,78mm)
+.PROXIMITY
+..VIO_XY (11360426, 47399800)  ! (11,36mm, 47,4mm)
+..CLEARANCE 254000  ! 0,25mm
+!..CLEARANCE_STRING "NetClass Pad-To-Pad : Scheme=(Minimum), Layer=1, NetName1=LIS_SCL, NetName2=(Net0), Clearance=0,25mm  "
+..OBJECT_1
+...OBJECT
+....PAD SMD
+.....LYR 1
+.....NET "LIS_SCL"
+.....NETCLASS "(Default)"
+.....NAME "Rectangle 30x11"
+.....REF_DES "LIS"
+.....XY (11500126, 47780800)  ! (11,5mm, 47,78mm)
+..OBJECT_2
+...OBJECT
+....PAD SMD
+.....LYR 1
+.....NET "(Net0)"
+.....NETCLASS "(Default)"
+.....NAME "Rectangle 30x11"
+.....REF_DES "LIS"
+.....XY (11000000, 47780800)  ! (11mm, 47,78mm)
+.PROXIMITY
+..VIO_XY (11860298, 47399800)  ! (11,86mm, 47,4mm)
+..CLEARANCE 254000  ! 0,25mm
+!..CLEARANCE_STRING "NetClass Pad-To-Pad : Scheme=(Minimum), Layer=1, NetName1=GND, NetName2=LIS_SCL, Clearance=0,25mm  "
+..OBJECT_1
+...OBJECT
+....PAD SMD
+.....LYR 1
+.....NET "GND"
+.....NETCLASS "(Default)"
+.....NAME "Rectangle 30x11"
+.....REF_DES "LIS"
+.....XY (11999998, 47780800)  ! (12mm, 47,78mm)
+..OBJECT_2
+...OBJECT
+....PAD SMD
+.....LYR 1
+.....NET "LIS_SCL"
+.....NETCLASS "(Default)"
+.....NAME "Rectangle 30x11"
+.....REF_DES "LIS"
+.....XY (11500126, 47780800)  ! (11,5mm, 47,78mm)
+.PROXIMITY
+..VIO_XY (11838200, 48360174)  ! (11,84mm, 48,36mm)
+..CLEARANCE 254000  ! 0,25mm
+!..CLEARANCE_STRING "NetClass Pad-To-Pad : Scheme=(Minimum), Layer=1, NetName1=LIS_SDA, NetName2=GND, Clearance=0,25mm  "
+..OBJECT_1
+...OBJECT
+....PAD SMD
+.....LYR 1
+.....NET "LIS_SDA"
+.....NETCLASS "(Default)"
+.....NAME "Rectangle 30x11"
+.....REF_DES "LIS"
+.....XY (12219200, 48499874)  ! (12,22mm, 48,5mm)
+..OBJECT_2
+...OBJECT
+....PAD SMD
+.....LYR 1
+.....NET "GND"
+.....NETCLASS "(Default)"
+.....NAME "Rectangle 30x11"
+.....REF_DES "LIS"
+.....XY (11999998, 47780800)  ! (12mm, 47,78mm)
+.PROXIMITY
+..VIO_XY (11838200, 49585418)  ! (11,84mm, 49,59mm)
+..CLEARANCE 254000  ! 0,25mm
+!..CLEARANCE_STRING "NetClass Pad-To-Pad : Scheme=(Minimum), Layer=1, NetName1=+3.3V, NetName2=(Net0), Clearance=0,25mm  "
+..OBJECT_1
+...OBJECT
+....PAD SMD
+.....LYR 1
+.....NET "+3.3V"
+.....NETCLASS "(Default)"
+.....NAME "Rectangle 30x11"
+.....REF_DES "LIS"
+.....XY (12219200, 49500126)  ! (12,22mm, 49,5mm)
+..OBJECT_2
+...OBJECT
+....PAD SMD
+.....LYR 1
+.....NET "(Net0)"
+.....NETCLASS "(Default)"
+.....NAME "Rectangle 30x11"
+.....REF_DES "LIS"
+.....XY (11999998, 50219200)  ! (12mm, 50,22mm)
+.PROXIMITY
+..VIO_XY (10606554, 49838200)  ! (10,61mm, 49,84mm)
+..CLEARANCE 254000  ! 0,25mm
+!..CLEARANCE_STRING "NetClass Pad-To-Pad : Scheme=(Minimum), Layer=1, NetName1=GND, NetName2=(Net0), Clearance=0,25mm  "
+..OBJECT_1
+...OBJECT
+....PAD SMD
+.....LYR 1
+.....NET "GND"
+.....NETCLASS "(Default)"
+.....NAME "Rectangle 30x11"
+.....REF_DES "LIS"
+.....XY (10499874, 50219200)  ! (10,5mm, 50,22mm)
+..OBJECT_2
+...OBJECT
+....PAD SMD
+.....LYR 1
+.....NET "(Net0)"
+.....NETCLASS "(Default)"
+.....NAME "Rectangle 30x11"
+.....REF_DES "LIS"
+.....XY (11000000, 50219200)  ! (11mm, 50,22mm)
+.PROXIMITY
+..VIO_XY (10106428, 49838200)  ! (10,11mm, 49,84mm)
+..CLEARANCE 254000  ! 0,25mm
+!..CLEARANCE_STRING "NetClass Pad-To-Pad : Scheme=(Minimum), Layer=1, NetName1=(Net0), NetName2=GND, Clearance=0,25mm  "
+..OBJECT_1
+...OBJECT
+....PAD SMD
+.....LYR 1
+.....NET "(Net0)"
+.....NETCLASS "(Default)"
+.....NAME "Rectangle 30x11"
+.....REF_DES "LIS"
+.....XY (10000002, 50219200)  ! (10mm, 50,22mm)
+..OBJECT_2
+...OBJECT
+....PAD SMD
+.....LYR 1
+.....NET "GND"
+.....NETCLASS "(Default)"
+.....NAME "Rectangle 30x11"
+.....REF_DES "LIS"
+.....XY (10499874, 50219200)  ! (10,5mm, 50,22mm)
+.PROXIMITY
+..VIO_XY (9702078, 49639826)  ! (9,7mm, 49,64mm)
+..CLEARANCE 254000  ! 0,25mm
+!..CLEARANCE_STRING "NetClass Pad-To-Pad : Scheme=(Minimum), Layer=1, NetName1=+3.3V, NetName2=(Net0), Clearance=0,25mm  "
+..OBJECT_1
+...OBJECT
+....PAD SMD
+.....LYR 1
+.....NET "+3.3V"
+.....NETCLASS "(Default)"
+.....NAME "Rectangle 30x11"
+.....REF_DES "LIS"
+.....XY (9780800, 49500126)  ! (9,78mm, 49,5mm)
+..OBJECT_2
+...OBJECT
+....PAD SMD
+.....LYR 1
+.....NET "(Net0)"
+.....NETCLASS "(Default)"
+.....NAME "Rectangle 30x11"
+.....REF_DES "LIS"
+.....XY (10000002, 50219200)  ! (10mm, 50,22mm)
+.PROXIMITY
+..VIO_XY (9399800, 49360426)  ! (9,4mm, 49,36mm)
+..CLEARANCE 254000  ! 0,25mm
+!..CLEARANCE_STRING "NetClass Pad-To-Pad : Scheme=(Minimum), Layer=1, NetName1=+3.3V, NetName2=(Net0), Clearance=0,25mm  "
+..OBJECT_1
+...OBJECT
+....PAD SMD
+.....LYR 1
+.....NET "+3.3V"
+.....NETCLASS "(Default)"
+.....NAME "Rectangle 30x11"
+.....REF_DES "LIS"
+.....XY (9780800, 49500126)  ! (9,78mm, 49,5mm)
+..OBJECT_2
+...OBJECT
+....PAD SMD
+.....LYR 1
+.....NET "(Net0)"
+.....NETCLASS "(Default)"
+.....NAME "Rectangle 30x11"
+.....REF_DES "LIS"
+.....XY (9780800, 49000000)  ! (9,78mm, 49mm)
+.PROXIMITY
+..VIO_XY (11838200, 48860300)  ! (11,84mm, 48,86mm)
+..CLEARANCE 254000  ! 0,25mm
+!..CLEARANCE_STRING "NetClass Pad-To-Pad : Scheme=(Minimum), Layer=1, NetName1=(Net0), NetName2=LIS_SDA, Clearance=0,25mm  "
+..OBJECT_1
+...OBJECT
+....PAD SMD
+.....LYR 1
+.....NET "(Net0)"
+.....NETCLASS "(Default)"
+.....NAME "Rectangle 30x11"
+.....REF_DES "LIS"
+.....XY (12219200, 49000000)  ! (12,22mm, 49mm)
+..OBJECT_2
+...OBJECT
+....PAD SMD
+.....LYR 1
+.....NET "LIS_SDA"
+.....NETCLASS "(Default)"
+.....NAME "Rectangle 30x11"
+.....REF_DES "LIS"
+.....XY (12219200, 48499874)  ! (12,22mm, 48,5mm)
+.PROXIMITY
+..VIO_XY (11838200, 49360426)  ! (11,84mm, 49,36mm)
+..CLEARANCE 254000  ! 0,25mm
+!..CLEARANCE_STRING "NetClass Pad-To-Pad : Scheme=(Minimum), Layer=1, NetName1=+3.3V, NetName2=(Net0), Clearance=0,25mm  "
+..OBJECT_1
+...OBJECT
+....PAD SMD
+.....LYR 1
+.....NET "+3.3V"
+.....NETCLASS "(Default)"
+.....NAME "Rectangle 30x11"
+.....REF_DES "LIS"
+.....XY (12219200, 49500126)  ! (12,22mm, 49,5mm)
+..OBJECT_2
+...OBJECT
+....PAD SMD
+.....LYR 1
+.....NET "(Net0)"
+.....NETCLASS "(Default)"
+.....NAME "Rectangle 30x11"
+.....REF_DES "LIS"
+.....XY (12219200, 49000000)  ! (12,22mm, 49mm)
+.PROXIMITY
+..VIO_XY (21999995, 11126476)  ! (22mm, 11,13mm)
+..CLEARANCE 254000  ! 0,25mm
+!..CLEARANCE_STRING "Element-To-Element Matrix : Clearance=0,25mm  "
+..OBJECT_1
+...OBJECT
+....OUTLINE_OBJ BOARD
+.....XY (22000000, 62000000)  ! (22mm, 62mm)
+..OBJECT_2
+...OBJECT
+....OUTLINE_OBJ PLACE
+.....SIDE TOP
+.....XY (15477200, 11380222)  ! (15,48mm, 11,38mm)
+.....HGT 0
+.....UNDER_HGT 0
+.....REF_DES "USB1"
+.PROXIMITY
+..VIO_XY (5876476, -5)  ! (5,88mm, 0mm)
+..CLEARANCE 254000  ! 0,25mm
+!..CLEARANCE_STRING "Element-To-Element Matrix : Clearance=0,25mm  "
+..OBJECT_1
+...OBJECT
+....OUTLINE_OBJ BOARD
+.....XY (22000000, 0)  ! (22mm, 0mm)
+..OBJECT_2
+...OBJECT
+....OUTLINE_OBJ PLACE
+.....SIDE TOP
+.....XY (6130222, -951600)  ! (6,13mm, -0,95mm)
+.....HGT 0
+.....UNDER_HGT 0
+.....REF_DES "USB"
+.TRACE_LOOP
+..SINGLE YES
+..OBJECT
+...TRACE REGULAR
+....LYR 2
+....NET "(Net0)"
+....NETCLASS "(Default)"
+....XY (2534800, 9788800) (2534800, 9788800)
+.TRACE_LOOP
+..SINGLE YES
+..OBJECT
+...TRACE REGULAR
+....LYR 2
+....NET "(Net0)"
+....NETCLASS "(Default)"
+....XY (2534800, 10500000) (2534800, 10500000)
+.TRACE_LOOP
+..SINGLE YES
+..OBJECT
+...TRACE REGULAR
+....LYR 2
+....NET "(Net0)"
+....NETCLASS "(Default)"
+....XY (2534800, 11211200) (2534800, 11211200)
+.TRACE_LOOP
+..SINGLE YES
+..OBJECT
+...TRACE REGULAR
+....LYR 2
+....NET "(Net0)"
+....NETCLASS "(Default)"
+....XY (2607767, 10004601) (2607767, 10004601)
+.TRACE_LOOP
+..SINGLE YES
+..OBJECT
+...TRACE REGULAR
+....LYR 2
+....NET "(Net0)"
+....NETCLASS "(Default)"
+....XY (2607767, 10715801) (2607767, 10715801)
+.TRACE_LOOP
+..SINGLE YES
+..OBJECT
+...TRACE REGULAR
+....LYR 2
+....NET "(Net0)"
+....NETCLASS "(Default)"
+....XY (3144400, 10144400) (3144400, 10144400)
+.TRACE_LOOP
+..SINGLE YES
+..OBJECT
+...TRACE REGULAR
+....LYR 2
+....NET "(Net0)"
+....NETCLASS "(Default)"
+....XY (3144400, 10855600) (3144400, 10855600)
+.TRACE_LOOP
+..SINGLE YES
+..OBJECT
+...TRACE REGULAR
+....LYR 2
+....NET "(Net0)"
+....NETCLASS "(Default)"
+....XY (3217367, 9649001) (3217367, 9649001)
+.TRACE_LOOP
+..SINGLE YES
+..OBJECT
+...TRACE REGULAR
+....LYR 2
+....NET "(Net0)"
+....NETCLASS "(Default)"
+....XY (3217367, 10360201) (3217367, 10360201)
+.TRACE_LOOP
+..SINGLE YES
+..OBJECT
+...TRACE REGULAR
+....LYR 2
+....NET "(Net0)"
+....NETCLASS "(Default)"
+....XY (3217367, 11071401) (3217367, 11071401)
+.TRACE_LOOP
+..SINGLE YES
+..OBJECT
+...TRACE REGULAR
+....LYR 2
+....NET "(Net0)"
+....NETCLASS "(Default)"
+....XY (3754000, 9788800) (3754000, 9788800)
+.TRACE_LOOP
+..SINGLE YES
+..OBJECT
+...TRACE REGULAR
+....LYR 2
+....NET "(Net0)"
+....NETCLASS "(Default)"
+....XY (3754000, 10500000) (3754000, 10500000)
+.TRACE_LOOP
+..SINGLE YES
+..OBJECT
+...TRACE REGULAR
+....LYR 2
+....NET "(Net0)"
+....NETCLASS "(Default)"
+....XY (3754000, 11211200) (3754000, 11211200)
+.TRACE_LOOP
+..SINGLE YES
+..OBJECT
+...TRACE REGULAR
+....LYR 2
+....NET "(Net0)"
+....NETCLASS "(Default)"
+....XY (3826967, 10004601) (3826967, 10004601)
+.TRACE_LOOP
+..SINGLE YES
+..OBJECT
+...TRACE REGULAR
+....LYR 2
+....NET "(Net0)"
+....NETCLASS "(Default)"
+....XY (3826967, 10715801) (3826967, 10715801)
+.TRACE_LOOP
+..SINGLE YES
+..OBJECT
+...TRACE REGULAR
+....LYR 2
+....NET "(Net0)"
+....NETCLASS "(Default)"
+....XY (4363600, 10144400) (4363600, 10144400)
+.TRACE_LOOP
+..SINGLE YES
+..OBJECT
+...TRACE REGULAR
+....LYR 2
+....NET "(Net0)"
+....NETCLASS "(Default)"
+....XY (4363600, 10855600) (4363600, 10855600)
+.TRACE_LOOP
+..SINGLE YES
+..OBJECT
+...TRACE REGULAR
+....LYR 2
+....NET "(Net0)"
+....NETCLASS "(Default)"
+....XY (4436567, 9649001) (4436567, 9649001)
+.TRACE_LOOP
+..SINGLE YES
+..OBJECT
+...TRACE REGULAR
+....LYR 2
+....NET "(Net0)"
+....NETCLASS "(Default)"
+....XY (4436567, 10360201) (4436567, 10360201)
+.TRACE_LOOP
+..SINGLE YES
+..OBJECT
+...TRACE REGULAR
+....LYR 2
+....NET "(Net0)"
+....NETCLASS "(Default)"
+....XY (4436567, 11071401) (4436567, 11071401)
+.TRACE_WIDTH
+..WDT_MIN 200000
+..WDT_MAX 25000000
+..OBJECT
+...TRACE REGULAR
+....XY (12294200, 49500126) (12294200, 49500126)
+....LYR 1
+....WDT 150000
+....NET "+3.3V"
+....NETCLASS "(Default)"
+.TRACE_WIDTH
+..WDT_MIN 200000
+..WDT_MAX 25000000
+..OBJECT
+...TRACE REGULAR
+....XY (8940200, 9964282) (8940200, 9964282)
+....LYR 1
+....WDT 150000
+....NET "MOSFON"
+....NETCLASS "(Default)"
+.TRACE_WIDTH
+..WDT_MIN 200000
+..WDT_MAX 25000000
+..OBJECT
+...TRACE REGULAR
+....XY (20219000, 47480000) (20219000, 47480000)
+....LYR 1
+....WDT 150000
+....NET "LIS_SCL"
+....NETCLASS "(Default)"
+.TRACE_WIDTH
+..WDT_MIN 200000
+..WDT_MAX 25000000
+..OBJECT
+...TRACE REGULAR
+....XY (20219000, 48750000) (20219000, 48750000)
+....LYR 1
+....WDT 150000
+....NET "LIS_SDA"
+....NETCLASS "(Default)"
+.VIA_UNDER_SMD
+..OBJECT_1
+...OBJECT
+....VIA
+.....XY (1925200, 10144400)
+.....PADSTACK "Via Round 28 Drill 12"
+.....LYR 1
+.....NET "(Net0)"
+..OBJECT_2
+...OBJECT
+....CMP "SOIC8_.05SP_.153X.192B_.236W_PPAD"
+.....XY (1925200, 10144400)
+.....LYR 1
+.....REF_DES "TC4056"
+......SIDE TOP
+.VIA_UNDER_SMD
+..OBJECT_1
+...OBJECT
+....VIA
+.....XY (1925200, 9433200)
+.....PADSTACK "Via Round 28 Drill 12"
+.....LYR 1
+.....NET "(Net0)"
+..OBJECT_2
+...OBJECT
+....CMP "SOIC8_.05SP_.153X.192B_.236W_PPAD"
+.....XY (1925200, 9433200)
+.....LYR 1
+.....REF_DES "TC4056"
+......SIDE TOP
+.VIA_UNDER_SMD
+..OBJECT_1
+...OBJECT
+....VIA
+.....XY (1925200, 10855600)
+.....PADSTACK "Via Round 28 Drill 12"
+.....LYR 1
+.....NET "(Net0)"
+..OBJECT_2
+...OBJECT
+....CMP "SOIC8_.05SP_.153X.192B_.236W_PPAD"
+.....XY (1925200, 10855600)
+.....LYR 1
+.....REF_DES "TC4056"
+......SIDE TOP
+.VIA_UNDER_SMD
+..OBJECT_1
+...OBJECT
+....VIA
+.....XY (1925200, 11566800)
+.....PADSTACK "Via Round 28 Drill 12"
+.....LYR 1
+.....NET "(Net0)"
+..OBJECT_2
+...OBJECT
+....CMP "SOIC8_.05SP_.153X.192B_.236W_PPAD"
+.....XY (1925200, 11566800)
+.....LYR 1
+.....REF_DES "TC4056"
+......SIDE TOP
+.VIA_UNDER_SMD
+..OBJECT_1
+...OBJECT
+....VIA
+.....XY (4363600, 11566800)
+.....PADSTACK "Via Round 28 Drill 12"
+.....LYR 1
+.....NET "(Net0)"
+..OBJECT_2
+...OBJECT
+....CMP "SOIC8_.05SP_.153X.192B_.236W_PPAD"
+.....XY (4363600, 11566800)
+.....LYR 1
+.....REF_DES "TC4056"
+......SIDE TOP
+.VIA_UNDER_SMD
+..OBJECT_1
+...OBJECT
+....VIA
+.....XY (4363600, 10855600)
+.....PADSTACK "Via Round 28 Drill 12"
+.....LYR 1
+.....NET "(Net0)"
+..OBJECT_2
+...OBJECT
+....CMP "SOIC8_.05SP_.153X.192B_.236W_PPAD"
+.....XY (4363600, 10855600)
+.....LYR 1
+.....REF_DES "TC4056"
+......SIDE TOP
+.VIA_UNDER_SMD
+..OBJECT_1
+...OBJECT
+....VIA
+.....XY (4363600, 9433200)
+.....PADSTACK "Via Round 28 Drill 12"
+.....LYR 1
+.....NET "(Net0)"
+..OBJECT_2
+...OBJECT
+....CMP "SOIC8_.05SP_.153X.192B_.236W_PPAD"
+.....XY (4363600, 9433200)
+.....LYR 1
+.....REF_DES "TC4056"
+......SIDE TOP
+.VIA_UNDER_SMD
+..OBJECT_1
+...OBJECT
+....VIA
+.....XY (4363600, 10144400)
+.....PADSTACK "Via Round 28 Drill 12"
+.....LYR 1
+.....NET "(Net0)"
+..OBJECT_2
+...OBJECT
+....CMP "SOIC8_.05SP_.153X.192B_.236W_PPAD"
+.....XY (4363600, 10144400)
+.....LYR 1
+.....REF_DES "TC4056"
+......SIDE TOP
+.VIA_UNDER_SMD
+..OBJECT_1
+...OBJECT
+....VIA
+.....XY (2534800, 11211200)
+.....PADSTACK "Via Round 28 Drill 12"
+.....LYR 1
+.....NET "(Net0)"
+..OBJECT_2
+...OBJECT
+....CMP "SOIC8_.05SP_.153X.192B_.236W_PPAD"
+.....XY (2534800, 11211200)
+.....LYR 1
+.....REF_DES "TC4056"
+......SIDE TOP
+.VIA_UNDER_SMD
+..OBJECT_1
+...OBJECT
+....VIA
+.....XY (2534800, 10500000)
+.....PADSTACK "Via Round 28 Drill 12"
+.....LYR 1
+.....NET "(Net0)"
+..OBJECT_2
+...OBJECT
+....CMP "SOIC8_.05SP_.153X.192B_.236W_PPAD"
+.....XY (2534800, 10500000)
+.....LYR 1
+.....REF_DES "TC4056"
+......SIDE TOP
+.VIA_UNDER_SMD
+..OBJECT_1
+...OBJECT
+....VIA
+.....XY (3144400, 11566800)
+.....PADSTACK "Via Round 28 Drill 12"
+.....LYR 1
+.....NET "(Net0)"
+..OBJECT_2
+...OBJECT
+....CMP "SOIC8_.05SP_.153X.192B_.236W_PPAD"
+.....XY (3144400, 11566800)
+.....LYR 1
+.....REF_DES "TC4056"
+......SIDE TOP
+.VIA_UNDER_SMD
+..OBJECT_1
+...OBJECT
+....VIA
+.....XY (3144400, 10855600)
+.....PADSTACK "Via Round 28 Drill 12"
+.....LYR 1
+.....NET "(Net0)"
+..OBJECT_2
+...OBJECT
+....CMP "SOIC8_.05SP_.153X.192B_.236W_PPAD"
+.....XY (3144400, 10855600)
+.....LYR 1
+.....REF_DES "TC4056"
+......SIDE TOP
+.VIA_UNDER_SMD
+..OBJECT_1
+...OBJECT
+....VIA
+.....XY (3144400, 9433200)
+.....PADSTACK "Via Round 28 Drill 12"
+.....LYR 1
+.....NET "(Net0)"
+..OBJECT_2
+...OBJECT
+....CMP "SOIC8_.05SP_.153X.192B_.236W_PPAD"
+.....XY (3144400, 9433200)
+.....LYR 1
+.....REF_DES "TC4056"
+......SIDE TOP
+.VIA_UNDER_SMD
+..OBJECT_1
+...OBJECT
+....VIA
+.....XY (2534800, 9788800)
+.....PADSTACK "Via Round 28 Drill 12"
+.....LYR 1
+.....NET "(Net0)"
+..OBJECT_2
+...OBJECT
+....CMP "SOIC8_.05SP_.153X.192B_.236W_PPAD"
+.....XY (2534800, 9788800)
+.....LYR 1
+.....REF_DES "TC4056"
+......SIDE TOP
+.VIA_UNDER_SMD
+..OBJECT_1
+...OBJECT
+....VIA
+.....XY (3144400, 10144400)
+.....PADSTACK "Via Round 28 Drill 12"
+.....LYR 1
+.....NET "(Net0)"
+..OBJECT_2
+...OBJECT
+....CMP "SOIC8_.05SP_.153X.192B_.236W_PPAD"
+.....XY (3144400, 10144400)
+.....LYR 1
+.....REF_DES "TC4056"
+......SIDE TOP
+.VIA_UNDER_SMD
+..OBJECT_1
+...OBJECT
+....VIA
+.....XY (3754000, 11211200)
+.....PADSTACK "Via Round 28 Drill 12"
+.....LYR 1
+.....NET "(Net0)"
+..OBJECT_2
+...OBJECT
+....CMP "SOIC8_.05SP_.153X.192B_.236W_PPAD"
+.....XY (3754000, 11211200)
+.....LYR 1
+.....REF_DES "TC4056"
+......SIDE TOP
+.VIA_UNDER_SMD
+..OBJECT_1
+...OBJECT
+....VIA
+.....XY (3754000, 10500000)
+.....PADSTACK "Via Round 28 Drill 12"
+.....LYR 1
+.....NET "(Net0)"
+..OBJECT_2
+...OBJECT
+....CMP "SOIC8_.05SP_.153X.192B_.236W_PPAD"
+.....XY (3754000, 10500000)
+.....LYR 1
+.....REF_DES "TC4056"
+......SIDE TOP
+.VIA_UNDER_SMD
+..OBJECT_1
+...OBJECT
+....VIA
+.....XY (3754000, 9788800)
+.....PADSTACK "Via Round 28 Drill 12"
+.....LYR 1
+.....NET "(Net0)"
+..OBJECT_2
+...OBJECT
+....CMP "SOIC8_.05SP_.153X.192B_.236W_PPAD"
+.....XY (3754000, 9788800)
+.....LYR 1
+.....REF_DES "TC4056"
+......SIDE TOP
+.VIA_UNDER_PART
+..OBJECT_1
+...OBJECT
+....VIA
+.....XY (1925200, 10144400)
+.....PADSTACK "Via Round 28 Drill 12"
+.....LYR 1
+.....NET "(Net0)"
+..OBJECT_2
+...OBJECT
+....CMP "SOIC8_.05SP_.153X.192B_.236W_PPAD"
+.....XY (3500000, 10500000)
+.....LYR 1
+.....REF_DES "TC4056"
+......REF_TYPE ASSY
+.VIA_UNDER_PART
+..OBJECT_1
+...OBJECT
+....VIA
+.....XY (1925200, 9433200)
+.....PADSTACK "Via Round 28 Drill 12"
+.....LYR 1
+.....NET "(Net0)"
+..OBJECT_2
+...OBJECT
+....CMP "SOIC8_.05SP_.153X.192B_.236W_PPAD"
+.....XY (3500000, 10500000)
+.....LYR 1
+.....REF_DES "TC4056"
+......REF_TYPE ASSY
+.VIA_UNDER_PART
+..OBJECT_1
+...OBJECT
+....VIA
+.....XY (1925200, 10855600)
+.....PADSTACK "Via Round 28 Drill 12"
+.....LYR 1
+.....NET "(Net0)"
+..OBJECT_2
+...OBJECT
+....CMP "SOIC8_.05SP_.153X.192B_.236W_PPAD"
+.....XY (3500000, 10500000)
+.....LYR 1
+.....REF_DES "TC4056"
+......REF_TYPE ASSY
+.VIA_UNDER_PART
+..OBJECT_1
+...OBJECT
+....VIA
+.....XY (1925200, 11566800)
+.....PADSTACK "Via Round 28 Drill 12"
+.....LYR 1
+.....NET "(Net0)"
+..OBJECT_2
+...OBJECT
+....CMP "SOIC8_.05SP_.153X.192B_.236W_PPAD"
+.....XY (3500000, 10500000)
+.....LYR 1
+.....REF_DES "TC4056"
+......REF_TYPE ASSY
+.VIA_UNDER_PART
+..OBJECT_1
+...OBJECT
+....VIA
+.....XY (4363600, 11566800)
+.....PADSTACK "Via Round 28 Drill 12"
+.....LYR 1
+.....NET "(Net0)"
+..OBJECT_2
+...OBJECT
+....CMP "SOIC8_.05SP_.153X.192B_.236W_PPAD"
+.....XY (3500000, 10500000)
+.....LYR 1
+.....REF_DES "TC4056"
+......REF_TYPE ASSY
+.VIA_UNDER_PART
+..OBJECT_1
+...OBJECT
+....VIA
+.....XY (4363600, 11566800)
+.....PADSTACK "Via Round 28 Drill 12"
+.....LYR 1
+.....NET "(Net0)"
+..OBJECT_2
+...OBJECT
+....CMP "SW_BT6"
+.....XY (11000000, 10750000)
+.....LYR 1
+.....REF_DES "BTNON"
+......REF_TYPE ASSY
+.VIA_UNDER_PART
+..OBJECT_1
+...OBJECT
+....VIA
+.....XY (4363600, 10855600)
+.....PADSTACK "Via Round 28 Drill 12"
+.....LYR 1
+.....NET "(Net0)"
+..OBJECT_2
+...OBJECT
+....CMP "SOIC8_.05SP_.153X.192B_.236W_PPAD"
+.....XY (3500000, 10500000)
+.....LYR 1
+.....REF_DES "TC4056"
+......REF_TYPE ASSY
+.VIA_UNDER_PART
+..OBJECT_1
+...OBJECT
+....VIA
+.....XY (4363600, 10855600)
+.....PADSTACK "Via Round 28 Drill 12"
+.....LYR 1
+.....NET "(Net0)"
+..OBJECT_2
+...OBJECT
+....CMP "SW_BT6"
+.....XY (11000000, 10750000)
+.....LYR 1
+.....REF_DES "BTNON"
+......REF_TYPE ASSY
+.VIA_UNDER_PART
+..OBJECT_1
+...OBJECT
+....VIA
+.....XY (4363600, 9433200)
+.....PADSTACK "Via Round 28 Drill 12"
+.....LYR 1
+.....NET "(Net0)"
+..OBJECT_2
+...OBJECT
+....CMP "SOIC8_.05SP_.153X.192B_.236W_PPAD"
+.....XY (3500000, 10500000)
+.....LYR 1
+.....REF_DES "TC4056"
+......REF_TYPE ASSY
+.VIA_UNDER_PART
+..OBJECT_1
+...OBJECT
+....VIA
+.....XY (4363600, 9433200)
+.....PADSTACK "Via Round 28 Drill 12"
+.....LYR 1
+.....NET "(Net0)"
+..OBJECT_2
+...OBJECT
+....CMP "SW_BT6"
+.....XY (11000000, 10750000)
+.....LYR 1
+.....REF_DES "BTNON"
+......REF_TYPE ASSY
+.VIA_UNDER_PART
+..OBJECT_1
+...OBJECT
+....VIA
+.....XY (4363600, 10144400)
+.....PADSTACK "Via Round 28 Drill 12"
+.....LYR 1
+.....NET "(Net0)"
+..OBJECT_2
+...OBJECT
+....CMP "SOIC8_.05SP_.153X.192B_.236W_PPAD"
+.....XY (3500000, 10500000)
+.....LYR 1
+.....REF_DES "TC4056"
+......REF_TYPE ASSY
+.VIA_UNDER_PART
+..OBJECT_1
+...OBJECT
+....VIA
+.....XY (4363600, 10144400)
+.....PADSTACK "Via Round 28 Drill 12"
+.....LYR 1
+.....NET "(Net0)"
+..OBJECT_2
+...OBJECT
+....CMP "SW_BT6"
+.....XY (11000000, 10750000)
+.....LYR 1
+.....REF_DES "BTNON"
+......REF_TYPE ASSY
+.VIA_UNDER_PART
+..OBJECT_1
+...OBJECT
+....VIA
+.....XY (2534800, 11211200)
+.....PADSTACK "Via Round 28 Drill 12"
+.....LYR 1
+.....NET "(Net0)"
+..OBJECT_2
+...OBJECT
+....CMP "SOIC8_.05SP_.153X.192B_.236W_PPAD"
+.....XY (3500000, 10500000)
+.....LYR 1
+.....REF_DES "TC4056"
+......REF_TYPE ASSY
+.VIA_UNDER_PART
+..OBJECT_1
+...OBJECT
+....VIA
+.....XY (2534800, 10500000)
+.....PADSTACK "Via Round 28 Drill 12"
+.....LYR 1
+.....NET "(Net0)"
+..OBJECT_2
+...OBJECT
+....CMP "SOIC8_.05SP_.153X.192B_.236W_PPAD"
+.....XY (3500000, 10500000)
+.....LYR 1
+.....REF_DES "TC4056"
+......REF_TYPE ASSY
+.VIA_UNDER_PART
+..OBJECT_1
+...OBJECT
+....VIA
+.....XY (3144400, 11566800)
+.....PADSTACK "Via Round 28 Drill 12"
+.....LYR 1
+.....NET "(Net0)"
+..OBJECT_2
+...OBJECT
+....CMP "SOIC8_.05SP_.153X.192B_.236W_PPAD"
+.....XY (3500000, 10500000)
+.....LYR 1
+.....REF_DES "TC4056"
+......REF_TYPE ASSY
+.VIA_UNDER_PART
+..OBJECT_1
+...OBJECT
+....VIA
+.....XY (3144400, 10855600)
+.....PADSTACK "Via Round 28 Drill 12"
+.....LYR 1
+.....NET "(Net0)"
+..OBJECT_2
+...OBJECT
+....CMP "SOIC8_.05SP_.153X.192B_.236W_PPAD"
+.....XY (3500000, 10500000)
+.....LYR 1
+.....REF_DES "TC4056"
+......REF_TYPE ASSY
+.VIA_UNDER_PART
+..OBJECT_1
+...OBJECT
+....VIA
+.....XY (3144400, 9433200)
+.....PADSTACK "Via Round 28 Drill 12"
+.....LYR 1
+.....NET "(Net0)"
+..OBJECT_2
+...OBJECT
+....CMP "SOIC8_.05SP_.153X.192B_.236W_PPAD"
+.....XY (3500000, 10500000)
+.....LYR 1
+.....REF_DES "TC4056"
+......REF_TYPE ASSY
+.VIA_UNDER_PART
+..OBJECT_1
+...OBJECT
+....VIA
+.....XY (2534800, 9788800)
+.....PADSTACK "Via Round 28 Drill 12"
+.....LYR 1
+.....NET "(Net0)"
+..OBJECT_2
+...OBJECT
+....CMP "SOIC8_.05SP_.153X.192B_.236W_PPAD"
+.....XY (3500000, 10500000)
+.....LYR 1
+.....REF_DES "TC4056"
+......REF_TYPE ASSY
+.VIA_UNDER_PART
+..OBJECT_1
+...OBJECT
+....VIA
+.....XY (3144400, 10144400)
+.....PADSTACK "Via Round 28 Drill 12"
+.....LYR 1
+.....NET "(Net0)"
+..OBJECT_2
+...OBJECT
+....CMP "SOIC8_.05SP_.153X.192B_.236W_PPAD"
+.....XY (3500000, 10500000)
+.....LYR 1
+.....REF_DES "TC4056"
+......REF_TYPE ASSY
+.VIA_UNDER_PART
+..OBJECT_1
+...OBJECT
+....VIA
+.....XY (3754000, 11211200)
+.....PADSTACK "Via Round 28 Drill 12"
+.....LYR 1
+.....NET "(Net0)"
+..OBJECT_2
+...OBJECT
+....CMP "SOIC8_.05SP_.153X.192B_.236W_PPAD"
+.....XY (3500000, 10500000)
+.....LYR 1
+.....REF_DES "TC4056"
+......REF_TYPE ASSY
+.VIA_UNDER_PART
+..OBJECT_1
+...OBJECT
+....VIA
+.....XY (3888000, 10933091)
+.....PADSTACK "Via Round 28 Drill 12"
+.....LYR 1
+.....NET "(Net0)"
+..OBJECT_2
+...OBJECT
+....CMP "SW_BT6"
+.....XY (11000000, 10750000)
+.....LYR 1
+.....REF_DES "BTNON"
+......REF_TYPE ASSY
+.VIA_UNDER_PART
+..OBJECT_1
+...OBJECT
+....VIA
+.....XY (3754000, 10500000)
+.....PADSTACK "Via Round 28 Drill 12"
+.....LYR 1
+.....NET "(Net0)"
+..OBJECT_2
+...OBJECT
+....CMP "SOIC8_.05SP_.153X.192B_.236W_PPAD"
+.....XY (3500000, 10500000)
+.....LYR 1
+.....REF_DES "TC4056"
+......REF_TYPE ASSY
+.VIA_UNDER_PART
+..OBJECT_1
+...OBJECT
+....VIA
+.....XY (3888000, 10221891)
+.....PADSTACK "Via Round 28 Drill 12"
+.....LYR 1
+.....NET "(Net0)"
+..OBJECT_2
+...OBJECT
+....CMP "SW_BT6"
+.....XY (11000000, 10750000)
+.....LYR 1
+.....REF_DES "BTNON"
+......REF_TYPE ASSY
+.VIA_UNDER_PART
+..OBJECT_1
+...OBJECT
+....VIA
+.....XY (3754000, 9788800)
+.....PADSTACK "Via Round 28 Drill 12"
+.....LYR 1
+.....NET "(Net0)"
+..OBJECT_2
+...OBJECT
+....CMP "SOIC8_.05SP_.153X.192B_.236W_PPAD"
+.....XY (3500000, 10500000)
+.....LYR 1
+.....REF_DES "TC4056"
+......REF_TYPE ASSY
+.VIA_UNDER_PART
+..OBJECT_1
+...OBJECT
+....VIA
+.....XY (3888000, 9510691)
+.....PADSTACK "Via Round 28 Drill 12"
+.....LYR 1
+.....NET "(Net0)"
+..OBJECT_2
+...OBJECT
+....CMP "SW_BT6"
+.....XY (11000000, 10750000)
+.....LYR 1
+.....REF_DES "BTNON"
+......REF_TYPE ASSY
+.VIA_UNDER_PART
+..OBJECT_1
+...OBJECT
+....VIA
+.....XY (6783500, 39250000)
+.....PADSTACK "Via Round 28 Drill 12"
+.....LYR 1
+.....NET "GPIO0"
+..OBJECT_2
+...OBJECT
+....CMP "RES_SMD_0603_.061X.031B"
+.....XY (8307500, 39885000)
+.....LYR 1
+.....REF_DES "RCAP1"
+......REF_TYPE ASSY
+.VIA_UNDER_PART
+..OBJECT_1
+...OBJECT
+....VIA
+.....XY (7328235, 14806172)
+.....PADSTACK "Via Round 28 Drill 12"
+.....LYR 1
+.....NET "N10453522"
+..OBJECT_2
+...OBJECT
+....CMP "SW_BT6"
+.....XY (11000000, 10750000)
+.....LYR 1
+.....REF_DES "BTNON"
+......REF_TYPE ASSY
+.VIA_UNDER_PART
+..OBJECT_1
+...OBJECT
+....VIA
+.....XY (17845281, 8782155)
+.....PADSTACK "Via Round 28 Drill 12"
+.....LYR 1
+.....NET "N10453522"
+..OBJECT_2
+...OBJECT
+....CMP "SW_BT6"
+.....XY (11000000, 10750000)
+.....LYR 1
+.....REF_DES "BTNON"
+......REF_TYPE ASSY
+.VIA_UNDER_PART
+..OBJECT_1
+...OBJECT
+....VIA
+.....XY (6296455, 18933675)
+.....PADSTACK "Via Round 55 Drill 35"
+.....LYR 1
+.....NET "VBT"
+..OBJECT_2
+...OBJECT
+....CMP "SOT23_PO=1,2,3"
+.....XY (4500000, 20000000)
+.....LYR 1
+.....REF_DES "DMG"
+......REF_TYPE ASSY
+.VIA_UNDER_PART
+..OBJECT_1
+...OBJECT
+....VIA
+.....XY (5996792, 13357500)
+.....PADSTACK "Via Round 36 Drill 16"
+.....LYR 1
+.....NET "VBT"
+..OBJECT_2
+...OBJECT
+....CMP "SOIC8_.05SP_.153X.192B_.236W_PPAD"
+.....XY (3500000, 10500000)
+.....LYR 1
+.....REF_DES "TC4056"
+......REF_TYPE ASSY
+.VIA_UNDER_PART
+..OBJECT_1
+...OBJECT
+....VIA
+.....XY (5988898, 13442093)
+.....PADSTACK "Via Round 36 Drill 16"
+.....LYR 1
+.....NET "VBT"
+..OBJECT_2
+...OBJECT
+....CMP "SW_BT6"
+.....XY (11000000, 10750000)
+.....LYR 1
+.....REF_DES "BTNON"
+......REF_TYPE ASSY
+.VIA_UNDER_PART
+..OBJECT_1
+...OBJECT
+....VIA
+.....XY (5239271, 6432000)
+.....PADSTACK "Via Round 28 Drill 12"
+.....LYR 1
+.....NET "+5V"
+..OBJECT_2
+...OBJECT
+....CMP "SW_BT6"
+.....XY (11000000, 10750000)
+.....LYR 1
+.....REF_DES "BTNON"
+......REF_TYPE ASSY
+.VIA_UNDER_PART
+..OBJECT_1
+...OBJECT
+....VIA
+.....XY (6438749, 22230000)
+.....PADSTACK "Via Round 28 Drill 12"
+.....LYR 1
+.....NET "GND"
+..OBJECT_2
+...OBJECT
+....CMP "CN_TSHDR_THRU_4P_4X1_.1SP_ST"
+.....XY (6000000, 23500000)
+.....LYR 1
+.....REF_DES "OUT1"
+......REF_TYPE ASSY
+.VIA_UNDER_PART
+..OBJECT_1
+...OBJECT
+....VIA
+.....XY (6212591, 21898796)
+.....PADSTACK "Via Round 28 Drill 12"
+.....LYR 1
+.....NET "GND"
+..OBJECT_2
+...OBJECT
+....CMP "SOT23_PO=1,2,3"
+.....XY (4500000, 20000000)
+.....LYR 1
+.....REF_DES "DMG"
+......REF_TYPE ASSY
+.VIA_UNDER_PART
+..OBJECT_1
+...OBJECT
+....VIA
+.....XY (14730000, 32118700)
+.....PADSTACK "Via Round 28 Drill 12"
+.....LYR 1
+.....NET "GND"
+..OBJECT_2
+...OBJECT
+....CMP "CN_TSHDR_THRU_4P_4X1_.1SP_ST"
+.....XY (16000000, 23500000)
+.....LYR 1
+.....REF_DES "OUT2"
+......REF_TYPE ASSY
+.VIA_UNDER_PART
+..OBJECT_1
+...OBJECT
+....VIA
+.....XY (14689883, 34696500)
+.....PADSTACK "Via Round 28 Drill 12"
+.....LYR 1
+.....NET "GND"
+..OBJECT_2
+...OBJECT
+....CMP "RES_SMD_0805_.079X.048B"
+.....XY (12615000, 33807500)
+.....LYR 1
+.....REF_DES "C1"
+......REF_TYPE ASSY
+.VIA_UNDER_PART
+..OBJECT_1
+...OBJECT
+....VIA
+.....XY (17503756, 13301724)
+.....PADSTACK "Via Round 28 Drill 12"
+.....LYR 1
+.....NET "GND"
+..OBJECT_2
+...OBJECT
+....CMP "SW_BT6"
+.....XY (11000000, 10750000)
+.....LYR 1
+.....REF_DES "BTNON"
+......REF_TYPE ASSY
+.VIA_UNDER_PART
+..OBJECT_1
+...OBJECT
+....VIA
+.....XY (17503756, 13301724)
+.....PADSTACK "Via Round 28 Drill 12"
+.....LYR 1
+.....NET "GND"
+..OBJECT_2
+...OBJECT
+....CMP "USB_TYPEC"
+.....XY (16493200, 16250000)
+.....LYR 1
+.....REF_DES "USB1"
+......REF_TYPE ASSY
+.VIA_UNDER_PART
+..OBJECT_1
+...OBJECT
+....VIA
+.....XY (14908156, 13973799)
+.....PADSTACK "Via Round 28 Drill 12"
+.....LYR 1
+.....NET "GND"
+..OBJECT_2
+...OBJECT
+....CMP "SW_BT6"
+.....XY (11000000, 10750000)
+.....LYR 1
+.....REF_DES "BTNON"
+......REF_TYPE ASSY
+.VIA_UNDER_PART
+..OBJECT_1
+...OBJECT
+....VIA
+.....XY (15477200, 13689382)
+.....PADSTACK "Via Round 28 Drill 12"
+.....LYR 1
+.....NET "GND"
+..OBJECT_2
+...OBJECT
+....CMP "USB_TYPEC"
+.....XY (16493200, 16250000)
+.....LYR 1
+.....REF_DES "USB1"
+......REF_TYPE ASSY
+.VIA_UNDER_PART
+..OBJECT_1
+...OBJECT
+....VIA
+.....XY (17367079, 19219906)
+.....PADSTACK "Via Round 28 Drill 12"
+.....LYR 1
+.....NET "GND"
+..OBJECT_2
+...OBJECT
+....CMP "USB_TYPEC"
+.....XY (16493200, 16250000)
+.....LYR 1
+.....REF_DES "USB1"
+......REF_TYPE ASSY
+.VIA_UNDER_PART
+..OBJECT_1
+...OBJECT
+....VIA
+.....XY (7876934, 4098103)
+.....PADSTACK "Via Round 28 Drill 12"
+.....LYR 1
+.....NET "GND"
+..OBJECT_2
+...OBJECT
+....CMP "USB_TYPEC"
+.....XY (11000000, 5500000)
+.....LYR 1
+.....REF_DES "USB"
+......REF_TYPE ASSY
+.VIA_UNDER_PART
+..OBJECT_1
+...OBJECT
+....VIA
+.....XY (4730000, 23665503)
+.....PADSTACK "Via Round 28 Drill 12"
+.....LYR 1
+.....NET "GND"
+..OBJECT_2
+...OBJECT
+....CMP "CN_TSHDR_THRU_4P_4X1_.1SP_ST"
+.....XY (6000000, 23500000)
+.....LYR 1
+.....REF_DES "OUT1"
+......REF_TYPE ASSY
+.VIA_UNDER_PART
+..OBJECT_1
+...OBJECT
+....VIA
+.....XY (11518014, 38688480)
+.....PADSTACK "Via Round 28 Drill 12"
+.....LYR 1
+.....NET "GND"
+..OBJECT_2
+...OBJECT
+....CMP "SOT25_5P_.115X.065B_.110W_PO=1,2,3,4,5"
+.....XY (11865000, 37557500)
+.....LYR 1
+.....REF_DES "LDO"
+......REF_TYPE ASSY
+.VIA_UNDER_PART
+..OBJECT_1
+...OBJECT
+....VIA
+.....XY (7157260, 30036305)
+.....PADSTACK "Via Round 28 Drill 12"
+.....LYR 1
+.....NET "GND"
+..OBJECT_2
+...OBJECT
+....CMP "CN_TSHDR_THRU_4P_4X1_.1SP_ST"
+.....XY (6000000, 23500000)
+.....LYR 1
+.....REF_DES "OUT1"
+......REF_TYPE ASSY
+.VIA_UNDER_PART
+..OBJECT_1
+...OBJECT
+....VIA
+.....XY (20417533, 13339256)
+.....PADSTACK "Via Round 28 Drill 12"
+.....LYR 1
+.....NET "GND"
+..OBJECT_2
+...OBJECT
+....CMP "USB_TYPEC"
+.....XY (16493200, 16250000)
+.....LYR 1
+.....REF_DES "USB1"
+......REF_TYPE ASSY
+.VIA_UNDER_PART
+..OBJECT_1
+...OBJECT
+....VIA
+.....XY (20352061, 14386808)
+.....PADSTACK "Via Round 28 Drill 12"
+.....LYR 1
+.....NET "GND"
+..OBJECT_2
+...OBJECT
+....CMP "USB_TYPEC"
+.....XY (16493200, 16250000)
+.....LYR 1
+.....REF_DES "USB1"
+......REF_TYPE ASSY
+.VIA_UNDER_PART
+..OBJECT_1
+...OBJECT
+....VIA
+.....XY (20384797, 15368888)
+.....PADSTACK "Via Round 28 Drill 12"
+.....LYR 1
+.....NET "GND"
+..OBJECT_2
+...OBJECT
+....CMP "USB_TYPEC"
+.....XY (16493200, 16250000)
+.....LYR 1
+.....REF_DES "USB1"
+......REF_TYPE ASSY
+.VIA_UNDER_PART
+..OBJECT_1
+...OBJECT
+....VIA
+.....XY (20417534, 16350968)
+.....PADSTACK "Via Round 28 Drill 12"
+.....LYR 1
+.....NET "GND"
+..OBJECT_2
+...OBJECT
+....CMP "USB_TYPEC"
+.....XY (16493200, 16250000)
+.....LYR 1
+.....REF_DES "USB1"
+......REF_TYPE ASSY
+.VIA_UNDER_PART
+..OBJECT_1
+...OBJECT
+....VIA
+.....XY (20450270, 17333048)
+.....PADSTACK "Via Round 28 Drill 12"
+.....LYR 1
+.....NET "GND"
+..OBJECT_2
+...OBJECT
+....CMP "USB_TYPEC"
+.....XY (16493200, 16250000)
+.....LYR 1
+.....REF_DES "USB1"
+......REF_TYPE ASSY
+.VIA_UNDER_PART
+..OBJECT_1
+...OBJECT
+....VIA
+.....XY (20483006, 18315128)
+.....PADSTACK "Via Round 28 Drill 12"
+.....LYR 1
+.....NET "GND"
+..OBJECT_2
+...OBJECT
+....CMP "USB_TYPEC"
+.....XY (16493200, 16250000)
+.....LYR 1
+.....REF_DES "USB1"
+......REF_TYPE ASSY
+.VIA_UNDER_PART
+..OBJECT_1
+...OBJECT
+....VIA
+.....XY (20515742, 19297208)
+.....PADSTACK "Via Round 28 Drill 12"
+.....LYR 1
+.....NET "GND"
+..OBJECT_2
+...OBJECT
+....CMP "USB_TYPEC"
+.....XY (16493200, 16250000)
+.....LYR 1
+.....REF_DES "USB1"
+......REF_TYPE ASSY
+.VIA_UNDER_PART
+..OBJECT_1
+...OBJECT
+....VIA
+.....XY (7785528, 1226936)
+.....PADSTACK "Via Round 28 Drill 12"
+.....LYR 1
+.....NET "GND"
+..OBJECT_2
+...OBJECT
+....CMP "USB_TYPEC"
+.....XY (11000000, 5500000)
+.....LYR 1
+.....REF_DES "USB"
+......REF_TYPE ASSY
+.VIA_UNDER_PART
+..OBJECT_1
+...OBJECT
+....VIA
+.....XY (8931288, 1259672)
+.....PADSTACK "Via Round 28 Drill 12"
+.....LYR 1
+.....NET "GND"
+..OBJECT_2
+...OBJECT
+....CMP "USB_TYPEC"
+.....XY (11000000, 5500000)
+.....LYR 1
+.....REF_DES "USB"
+......REF_TYPE ASSY
+.VIA_UNDER_PART
+..OBJECT_1
+...OBJECT
+....VIA
+.....XY (10044312, 1292408)
+.....PADSTACK "Via Round 28 Drill 12"
+.....LYR 1
+.....NET "GND"
+..OBJECT_2
+...OBJECT
+....CMP "USB_TYPEC"
+.....XY (11000000, 5500000)
+.....LYR 1
+.....REF_DES "USB"
+......REF_TYPE ASSY
+.VIA_UNDER_PART
+..OBJECT_1
+...OBJECT
+....VIA
+.....XY (11157336, 1325144)
+.....PADSTACK "Via Round 28 Drill 12"
+.....LYR 1
+.....NET "GND"
+..OBJECT_2
+...OBJECT
+....CMP "USB_TYPEC"
+.....XY (11000000, 5500000)
+.....LYR 1
+.....REF_DES "USB"
+......REF_TYPE ASSY
+.VIA_UNDER_PART
+..OBJECT_1
+...OBJECT
+....VIA
+.....XY (12270360, 1357880)
+.....PADSTACK "Via Round 28 Drill 12"
+.....LYR 1
+.....NET "GND"
+..OBJECT_2
+...OBJECT
+....CMP "USB_TYPEC"
+.....XY (11000000, 5500000)
+.....LYR 1
+.....REF_DES "USB"
+......REF_TYPE ASSY
+.VIA_UNDER_PART
+..OBJECT_1
+...OBJECT
+....VIA
+.....XY (13383384, 1390616)
+.....PADSTACK "Via Round 28 Drill 12"
+.....LYR 1
+.....NET "GND"
+..OBJECT_2
+...OBJECT
+....CMP "USB_TYPEC"
+.....XY (11000000, 5500000)
+.....LYR 1
+.....REF_DES "USB"
+......REF_TYPE ASSY
+.VIA_UNDER_PART
+..OBJECT_1
+...OBJECT
+....VIA
+.....XY (19526840, 5528992)
+.....PADSTACK "Via Round 28 Drill 12"
+.....LYR 1
+.....NET "GND"
+..OBJECT_2
+...OBJECT
+....CMP "SOIC4_3528"
+.....XY (18750000, 5500000)
+.....LYR 1
+.....REF_DES "J21"
+......REF_TYPE ASSY
+.VIA_UNDER_PART
+..OBJECT_1
+...OBJECT
+....VIA
+.....XY (13541276, 4130839)
+.....PADSTACK "Via Round 28 Drill 12"
+.....LYR 1
+.....NET "GND"
+..OBJECT_2
+...OBJECT
+....CMP "USB_TYPEC"
+.....XY (11000000, 5500000)
+.....LYR 1
+.....REF_DES "USB"
+......REF_TYPE ASSY
+.VIA_UNDER_PART
+..OBJECT_1
+...OBJECT
+....VIA
+.....XY (6609393, 50355721)
+.....PADSTACK "Via Round 28 Drill 12"
+.....LYR 2
+.....NET "GPIO22"
+..OBJECT_2
+...OBJECT
+....CMP "ESP32W_THRU"
+.....XY (11000000, 48750000)
+.....LYR 2
+.....REF_DES "J1"
+......REF_TYPE ASSY
+.VIA_UNDER_PART
+..OBJECT_1
+...OBJECT
+....VIA
+.....XY (16380156, 51080710)
+.....PADSTACK "Via Round 28 Drill 12"
+.....LYR 2
+.....NET "CH_EN"
+..OBJECT_2
+...OBJECT
+....CMP "ESP32W_THRU"
+.....XY (11000000, 48750000)
+.....LYR 2
+.....REF_DES "J1"
+......REF_TYPE ASSY
+.VIA_UNDER_PART
+..OBJECT_1
+...OBJECT
+....VIA
+.....XY (4583997, 42639150)
+.....PADSTACK "Via Round 28 Drill 12"
+.....LYR 2
+.....NET "MOSFON"
+..OBJECT_2
+...OBJECT
+....CMP "ESP32W_THRU"
+.....XY (11000000, 48750000)
+.....LYR 2
+.....REF_DES "J1"
+......REF_TYPE ASSY
+.VIA_UNDER_PART
+..OBJECT_1
+...OBJECT
+....VIA
+.....XY (6411901, 38894927)
+.....PADSTACK "Via Round 28 Drill 12"
+.....LYR 2
+.....NET "GPIO0"
+..OBJECT_2
+...OBJECT
+....CMP "ESP32W_THRU"
+.....XY (11000000, 48750000)
+.....LYR 2
+.....REF_DES "J1"
+......REF_TYPE ASSY
+.VIA_UNDER_PART
+..OBJECT_1
+...OBJECT
+....VIA
+.....XY (12746352, 32417800)
+.....PADSTACK "Via Round 28 Drill 12"
+.....LYR 2
+.....NET "GND"
+..OBJECT_2
+...OBJECT
+....CMP "ESP32W_THRU"
+.....XY (11000000, 48750000)
+.....LYR 2
+.....REF_DES "J1"
+......REF_TYPE ASSY
+.VIA_UNDER_PART
+..OBJECT_1
+...OBJECT
+....VIA
+.....XY (13600429, 50966063)
+.....PADSTACK "Via Round 28 Drill 12"
+.....LYR 2
+.....NET "GND"
+..OBJECT_2
+...OBJECT
+....CMP "ESP32W_THRU"
+.....XY (11000000, 48750000)
+.....LYR 2
+.....REF_DES "J1"
+......REF_TYPE ASSY
+.VIA_UNDER_PART
+..OBJECT_1
+...OBJECT
+....VIA
+.....XY (14345232, 32473102)
+.....PADSTACK "Via Round 28 Drill 12"
+.....LYR 2
+.....NET "GND"
+..OBJECT_2
+...OBJECT
+....CMP "ESP32W_THRU"
+.....XY (11000000, 48750000)
+.....LYR 2
+.....REF_DES "J1"
+......REF_TYPE ASSY
+.VIA_UNDER_PART
+..OBJECT_1
+...OBJECT
+....VIA
+.....XY (14644815, 34869766)
+.....PADSTACK "Via Round 28 Drill 12"
+.....LYR 2
+.....NET "GND"
+..OBJECT_2
+...OBJECT
+....CMP "ESP32W_THRU"
+.....XY (11000000, 48750000)
+.....LYR 2
+.....REF_DES "J1"
+......REF_TYPE ASSY
+.VIA_UNDER_PART
+..OBJECT_1
+...OBJECT
+....VIA
+.....XY (11498254, 35143840)
+.....PADSTACK "Via Round 28 Drill 12"
+.....LYR 2
+.....NET "GND"
+..OBJECT_2
+...OBJECT
+....CMP "ESP32W_THRU"
+.....XY (11000000, 48750000)
+.....LYR 2
+.....REF_DES "J1"
+......REF_TYPE ASSY
+.VIA_UNDER_PART
+..OBJECT_1
+...OBJECT
+....VIA
+.....XY (11518014, 38688480)
+.....PADSTACK "Via Round 28 Drill 12"
+.....LYR 2
+.....NET "GND"
+..OBJECT_2
+...OBJECT
+....CMP "ESP32W_THRU"
+.....XY (11000000, 48750000)
+.....LYR 2
+.....REF_DES "J1"
+......REF_TYPE ASSY
+.VIA_UNDER_PART
+..OBJECT_1
+...OBJECT
+....VIA
+.....XY (3747374, 47895509)
+.....PADSTACK "Via Round 28 Drill 12"
+.....LYR 2
+.....NET "GND"
+..OBJECT_2
+...OBJECT
+....CMP "ESP32W_THRU"
+.....XY (11000000, 48750000)
+.....LYR 2
+.....REF_DES "J1"
+......REF_TYPE ASSY
+.VIA_UNDER_PART
+..OBJECT_1
+...OBJECT
+....VIA
+.....XY (11997952, 52169258)
+.....PADSTACK "Via Round 28 Drill 12"
+.....LYR 2
+.....NET "GND"
+..OBJECT_2
+...OBJECT
+....CMP "ESP32W_THRU"
+.....XY (11000000, 48750000)
+.....LYR 2
+.....REF_DES "J1"
+......REF_TYPE ASSY
+.VIA_UNDER_PART
+..OBJECT_1
+...OBJECT
+....VIA
+.....XY (11212387, 51478913)
+.....PADSTACK "Via Round 28 Drill 12"
+.....LYR 2
+.....NET "GND"
+..OBJECT_2
+...OBJECT
+....CMP "ESP32W_THRU"
+.....XY (11000000, 48750000)
+.....LYR 2
+.....REF_DES "J1"
+......REF_TYPE ASSY
+.VIA_UNDER_PART
+..OBJECT_1
+...OBJECT
+....VIA
+.....XY (15152789, 49654715)
+.....PADSTACK "Via Round 28 Drill 12"
+.....LYR 2
+.....NET "GND"
+..OBJECT_2
+...OBJECT
+....CMP "ESP32W_THRU"
+.....XY (11000000, 48750000)
+.....LYR 2
+.....REF_DES "J1"
+......REF_TYPE ASSY
+.VIA_UNDER_PART
+..OBJECT_1
+...OBJECT
+....VIA
+.....XY (13437236, 49536401)
+.....PADSTACK "Via Round 28 Drill 12"
+.....LYR 2
+.....NET "GND"
+..OBJECT_2
+...OBJECT
+....CMP "ESP32W_THRU"
+.....XY (11000000, 48750000)
+.....LYR 2
+.....REF_DES "J1"
+......REF_TYPE ASSY
+.VIA_UNDER_PART
+..OBJECT_1
+...OBJECT
+....VIA
+.....XY (8290580, 44448901)
+.....PADSTACK "Via Round 28 Drill 12"
+.....LYR 2
+.....NET "GND"
+..OBJECT_2
+...OBJECT
+....CMP "ESP32W_THRU"
+.....XY (11000000, 48750000)
+.....LYR 2
+.....REF_DES "J1"
+......REF_TYPE ASSY
+.VIA_UNDER_PART
+..OBJECT_1
+...OBJECT
+....VIA
+.....XY (10932926, 41471332)
+.....PADSTACK "Via Round 28 Drill 12"
+.....LYR 2
+.....NET "GND"
+..OBJECT_2
+...OBJECT
+....CMP "ESP32W_THRU"
+.....XY (11000000, 48750000)
+.....LYR 2
+.....REF_DES "J1"
+......REF_TYPE ASSY
+.VIA_UNDER_PART
+..OBJECT_1
+...OBJECT
+....VIA
+.....XY (14166842, 39519151)
+.....PADSTACK "Via Round 28 Drill 12"
+.....LYR 2
+.....NET "GND"
+..OBJECT_2
+...OBJECT
+....CMP "ESP32W_THRU"
+.....XY (11000000, 48750000)
+.....LYR 2
+.....REF_DES "J1"
+......REF_TYPE ASSY
+.VIA_UNDER_PART
+..OBJECT_1
+...OBJECT
+....VIA
+.....XY (8182565, 33667718)
+.....PADSTACK "Via Round 28 Drill 12"
+.....LYR 2
+.....NET "GND"
+..OBJECT_2
+...OBJECT
+....CMP "ESP32W_THRU"
+.....XY (11000000, 48750000)
+.....LYR 2
+.....REF_DES "J1"
+......REF_TYPE ASSY
+.VIA_UNDER_PART
+..OBJECT_1
+...OBJECT
+....VIA
+.....XY (8626260, 32593048)
+.....PADSTACK "Via Round 28 Drill 12"
+.....LYR 2
+.....NET "GND"
+..OBJECT_2
+...OBJECT
+....CMP "ESP32W_THRU"
+.....XY (11000000, 48750000)
+.....LYR 2
+.....REF_DES "J1"
+......REF_TYPE ASSY
+.VIA_UNDER_PART
+..OBJECT_1
+...OBJECT
+....VIA
+.....XY (3636076, 56420832)
+.....PADSTACK "Via Round 28 Drill 12"
+.....LYR 2
+.....NET "GND"
+..OBJECT_2
+...OBJECT
+....CMP "ESP32W_THRU"
+.....XY (11000000, 48750000)
+.....LYR 2
+.....REF_DES "J1"
+......REF_TYPE ASSY
+.VIA_UNDER_PART
+..OBJECT_1
+...OBJECT
+....VIA
+.....XY (16226243, 56253431)
+.....PADSTACK "Via Round 28 Drill 12"
+.....LYR 2
+.....NET "GND"
+..OBJECT_2
+...OBJECT
+....CMP "ESP32W_THRU"
+.....XY (11000000, 48750000)
+.....LYR 2
+.....REF_DES "J1"
+......REF_TYPE ASSY
+.VIA_UNDER_PART
+..OBJECT_1
+...OBJECT
+....VIA
+.....XY (8988538, 45853754)
+.....PADSTACK "Via Round 28 Drill 12"
+.....LYR 2
+.....NET "GND"
+..OBJECT_2
+...OBJECT
+....CMP "ESP32W_THRU"
+.....XY (11000000, 48750000)
+.....LYR 2
+.....REF_DES "J1"
+......REF_TYPE ASSY
+.VIA_UNDER_PART
+..OBJECT_1
+...OBJECT
+....VIA
+.....XY (7738868, 42803089)
+.....PADSTACK "Via Round 28 Drill 12"
+.....LYR 2
+.....NET "GND"
+..OBJECT_2
+...OBJECT
+....CMP "ESP32W_THRU"
+.....XY (11000000, 48750000)
+.....LYR 2
+.....REF_DES "J1"
+......REF_TYPE ASSY
+.VIA_UNDER_PART
+..OBJECT_1
+...OBJECT
+....VIA
+.....XY (14207748, 40634544)
+.....PADSTACK "Via Round 28 Drill 12"
+.....LYR 2
+.....NET "GND"
+..OBJECT_2
+...OBJECT
+....CMP "ESP32W_THRU"
+.....XY (11000000, 48750000)
+.....LYR 2
+.....REF_DES "J1"
+......REF_TYPE ASSY
+.VIA_UNDER_PART
+..OBJECT_1
+...OBJECT
+....VIA
+.....XY (14244503, 42288519)
+.....PADSTACK "Via Round 28 Drill 12"
+.....LYR 2
+.....NET "GND"
+..OBJECT_2
+...OBJECT
+....CMP "ESP32W_THRU"
+.....XY (11000000, 48750000)
+.....LYR 2
+.....REF_DES "J1"
+......REF_TYPE ASSY
+.VIA_UNDER_PART
+..OBJECT_1
+...OBJECT
+....VIA
+.....XY (14465033, 43685209)
+.....PADSTACK "Via Round 28 Drill 12"
+.....LYR 2
+.....NET "GND"
+..OBJECT_2
+...OBJECT
+....CMP "ESP32W_THRU"
+.....XY (11000000, 48750000)
+.....LYR 2
+.....REF_DES "J1"
+......REF_TYPE ASSY
+.VIA_UNDER_PART
+..OBJECT_1
+...OBJECT
+....VIA
+.....XY (14428278, 45375939)
+.....PADSTACK "Via Round 28 Drill 12"
+.....LYR 2
+.....NET "GND"
+..OBJECT_2
+...OBJECT
+....CMP "ESP32W_THRU"
+.....XY (11000000, 48750000)
+.....LYR 2
+.....REF_DES "J1"
+......REF_TYPE ASSY
+.VIA_UNDER_PART
+..OBJECT_1
+...OBJECT
+....VIA
+.....XY (13325628, 45522959)
+.....PADSTACK "Via Round 28 Drill 12"
+.....LYR 2
+.....NET "GND"
+..OBJECT_2
+...OBJECT
+....CMP "ESP32W_THRU"
+.....XY (11000000, 48750000)
+.....LYR 2
+.....REF_DES "J1"
+......REF_TYPE ASSY
+.VIA_UNDER_PART
+..OBJECT_1
+...OBJECT
+....VIA
+.....XY (13067983, 47630244)
+.....PADSTACK "Via Round 28 Drill 12"
+.....LYR 2
+.....NET "GND"
+..OBJECT_2
+...OBJECT
+....CMP "ESP32W_THRU"
+.....XY (11000000, 48750000)
+.....LYR 2
+.....REF_DES "J1"
+......REF_TYPE ASSY
+.VIA_UNDER_PART
+..OBJECT_1
+...OBJECT
+....VIA
+.....XY (14227768, 47646579)
+.....PADSTACK "Via Round 28 Drill 12"
+.....LYR 2
+.....NET "GND"
+..OBJECT_2
+...OBJECT
+....CMP "ESP32W_THRU"
+.....XY (11000000, 48750000)
+.....LYR 2
+.....REF_DES "J1"
+......REF_TYPE ASSY
+.VIA_UNDER_PART
+..OBJECT_1
+...OBJECT
+....VIA
+.....XY (12047308, 45539328)
+.....PADSTACK "Via Round 28 Drill 12"
+.....LYR 2
+.....NET "GND"
+..OBJECT_2
+...OBJECT
+....CMP "ESP32W_THRU"
+.....XY (11000000, 48750000)
+.....LYR 2
+.....REF_DES "J1"
+......REF_TYPE ASSY
+.VIA_UNDER_PART
+..OBJECT_1
+...OBJECT
+....VIA
+.....XY (10307595, 45955879)
+.....PADSTACK "Via Round 28 Drill 12"
+.....LYR 2
+.....NET "GND"
+..OBJECT_2
+...OBJECT
+....CMP "ESP32W_THRU"
+.....XY (11000000, 48750000)
+.....LYR 2
+.....REF_DES "J1"
+......REF_TYPE ASSY
+.VIA_UNDER_PART
+..OBJECT_1
+...OBJECT
+....VIA
+.....XY (9523499, 41912884)
+.....PADSTACK "Via Round 28 Drill 12"
+.....LYR 2
+.....NET "GND"
+..OBJECT_2
+...OBJECT
+....CMP "ESP32W_THRU"
+.....XY (11000000, 48750000)
+.....LYR 2
+.....REF_DES "J1"
+......REF_TYPE ASSY
+.VIA_UNDER_PART
+..OBJECT_1
+...OBJECT
+....VIA
+.....XY (5082199, 56367631)
+.....PADSTACK "Via Round 28 Drill 12"
+.....LYR 2
+.....NET "GND"
+..OBJECT_2
+...OBJECT
+....CMP "ESP32W_THRU"
+.....XY (11000000, 48750000)
+.....LYR 2
+.....REF_DES "J1"
+......REF_TYPE ASSY
+.VIA_UNDER_PART
+..OBJECT_1
+...OBJECT
+....VIA
+.....XY (6732034, 56400301)
+.....PADSTACK "Via Round 28 Drill 12"
+.....LYR 2
+.....NET "GND"
+..OBJECT_2
+...OBJECT
+....CMP "ESP32W_THRU"
+.....XY (11000000, 48750000)
+.....LYR 2
+.....REF_DES "J1"
+......REF_TYPE ASSY
+.VIA_UNDER_PART
+..OBJECT_1
+...OBJECT
+....VIA
+.....XY (8104174, 56400301)
+.....PADSTACK "Via Round 28 Drill 12"
+.....LYR 2
+.....NET "GND"
+..OBJECT_2
+...OBJECT
+....CMP "ESP32W_THRU"
+.....XY (11000000, 48750000)
+.....LYR 2
+.....REF_DES "J1"
+......REF_TYPE ASSY
+.VIA_UNDER_PART
+..OBJECT_1
+...OBJECT
+....VIA
+.....XY (9345634, 56383966)
+.....PADSTACK "Via Round 28 Drill 12"
+.....LYR 2
+.....NET "GND"
+..OBJECT_2
+...OBJECT
+....CMP "ESP32W_THRU"
+.....XY (11000000, 48750000)
+.....LYR 2
+.....REF_DES "J1"
+......REF_TYPE ASSY
+.VIA_UNDER_PART
+..OBJECT_1
+...OBJECT
+....VIA
+.....XY (10701439, 56318626)
+.....PADSTACK "Via Round 28 Drill 12"
+.....LYR 2
+.....NET "GND"
+..OBJECT_2
+...OBJECT
+....CMP "ESP32W_THRU"
+.....XY (11000000, 48750000)
+.....LYR 2
+.....REF_DES "J1"
+......REF_TYPE ASSY
+.VIA_UNDER_PART
+..OBJECT_1
+...OBJECT
+....VIA
+.....XY (11926564, 56285956)
+.....PADSTACK "Via Round 28 Drill 12"
+.....LYR 2
+.....NET "GND"
+..OBJECT_2
+...OBJECT
+....CMP "ESP32W_THRU"
+.....XY (11000000, 48750000)
+.....LYR 2
+.....REF_DES "J1"
+......REF_TYPE ASSY
+.VIA_UNDER_PART
+..OBJECT_1
+...OBJECT
+....VIA
+.....XY (13298704, 56285956)
+.....PADSTACK "Via Round 28 Drill 12"
+.....LYR 2
+.....NET "GND"
+..OBJECT_2
+...OBJECT
+....CMP "ESP32W_THRU"
+.....XY (11000000, 48750000)
+.....LYR 2
+.....REF_DES "J1"
+......REF_TYPE ASSY
+.VIA_UNDER_PART
+..OBJECT_1
+...OBJECT
+....VIA
+.....XY (14654509, 56236951)
+.....PADSTACK "Via Round 28 Drill 12"
+.....LYR 2
+.....NET "GND"
+..OBJECT_2
+...OBJECT
+....CMP "ESP32W_THRU"
+.....XY (11000000, 48750000)
+.....LYR 2
+.....REF_DES "J1"
+......REF_TYPE ASSY
+.VIA_UNDER_PART
+..OBJECT_1
+...OBJECT
+....VIA
+.....XY (5597005, 53067913)
+.....PADSTACK "Via Round 28 Drill 12"
+.....LYR 2
+.....NET "GND"
+..OBJECT_2
+...OBJECT
+....CMP "ESP32W_THRU"
+.....XY (11000000, 48750000)
+.....LYR 2
+.....REF_DES "J1"
+......REF_TYPE ASSY
+.VIA_UNDER_PART
+..OBJECT_1
+...OBJECT
+....VIA
+.....XY (3979807, 54562596)
+.....PADSTACK "Via Round 28 Drill 12"
+.....LYR 2
+.....NET "GND"
+..OBJECT_2
+...OBJECT
+....CMP "ESP32W_THRU"
+.....XY (11000000, 48750000)
+.....LYR 2
+.....REF_DES "J1"
+......REF_TYPE ASSY
+.VIA_UNDER_PART
+..OBJECT_1
+...OBJECT
+....VIA
+.....XY (14756702, 54974117)
+.....PADSTACK "Via Round 28 Drill 12"
+.....LYR 2
+.....NET "GND"
+..OBJECT_2
+...OBJECT
+....CMP "ESP32W_THRU"
+.....XY (11000000, 48750000)
+.....LYR 2
+.....REF_DES "J1"
+......REF_TYPE ASSY
+.VIA_UNDER_PART
+..OBJECT_1
+...OBJECT
+....VIA
+.....XY (13264018, 54991679)
+.....PADSTACK "Via Round 28 Drill 12"
+.....LYR 2
+.....NET "GND"
+..OBJECT_2
+...OBJECT
+....CMP "ESP32W_THRU"
+.....XY (11000000, 48750000)
+.....LYR 2
+.....REF_DES "J1"
+......REF_TYPE ASSY
+.VIA_UNDER_PART
+..OBJECT_1
+...OBJECT
+....VIA
+.....XY (11894260, 54938996)
+.....PADSTACK "Via Round 28 Drill 12"
+.....LYR 2
+.....NET "GND"
+..OBJECT_2
+...OBJECT
+....CMP "ESP32W_THRU"
+.....XY (11000000, 48750000)
+.....LYR 2
+.....REF_DES "J1"
+......REF_TYPE ASSY
+.VIA_UNDER_PART
+..OBJECT_1
+...OBJECT
+....VIA
+.....XY (10594746, 54113629)
+.....PADSTACK "Via Round 28 Drill 12"
+.....LYR 2
+.....NET "GND"
+..OBJECT_2
+...OBJECT
+....CMP "ESP32W_THRU"
+.....XY (11000000, 48750000)
+.....LYR 2
+.....REF_DES "J1"
+......REF_TYPE ASSY
+.VIA_UNDER_PART
+..OBJECT_1
+...OBJECT
+....VIA
+.....XY (9137183, 52743871)
+.....PADSTACK "Via Round 28 Drill 12"
+.....LYR 2
+.....NET "GND"
+..OBJECT_2
+...OBJECT
+....CMP "ESP32W_THRU"
+.....XY (11000000, 48750000)
+.....LYR 2
+.....REF_DES "J1"
+......REF_TYPE ASSY
+.VIA_UNDER_PART
+..OBJECT_1
+...OBJECT
+....VIA
+.....XY (7468888, 51321430)
+.....PADSTACK "Via Round 28 Drill 12"
+.....LYR 2
+.....NET "GND"
+..OBJECT_2
+...OBJECT
+....CMP "ESP32W_THRU"
+.....XY (11000000, 48750000)
+.....LYR 2
+.....REF_DES "J1"
+......REF_TYPE ASSY

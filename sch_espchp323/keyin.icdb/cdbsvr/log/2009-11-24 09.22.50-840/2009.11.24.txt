@@ -1,0 +1,30 @@
+[2009.11.24 09:22:50] [0000m.00s.015ms] [0] WELCOME
+[2009.11.24 09:22:50] [0000m.00s.015ms] [1] iCDB Server ver.1.007, HvQ8kKCvhuzsBu5CD2LCWg, build:369282 created 2009-09-30 07:43:26, sources stamp:HvQ8kKCvhuzsBu5CD2LCWg
+[2009.11.24 09:22:50] [0000m.00s.015ms] [1] Copyright 2009 Mentor Graphics Corporation. All Rights Reserved.
+[2009.11.24 09:22:50] [0000m.00s.015ms] [1] Base flow version [2007.7]
+[2009.11.24 09:22:50] [0000m.00s.015ms] [1] GBS Install Id [11782], Flow Id [EE2007.7], Full Flow Name[Expedition Enterprise Flow], Exact Access Date[Aug 1 2009]
+[2009.11.24 09:22:50] [0000m.00s.031ms] [1] Machine [neptune]  User [mike]  PID [840]
+[2009.11.24 09:22:50] [0000m.00s.031ms] [1] Operating system [Microsoft Windows XP Professional Service Pack 3 (build 2600)]
+[2009.11.24 09:22:50] [0000m.00s.031ms] [1] Current working dir [C:\MentorData\CentralLib\Templates\Layout\4 Layer Template_1]
+[2009.11.24 09:22:50] [0000m.00s.031ms] [1] PATH [E:\MentorGraphics\2007.7EE\SDD_HOME\xe\win32\lib;E:\MentorGraphics\2007.7EE\SDD_HOME\wg\win32\lib;E:\MentorGraphics\2007.7EE\SDD_HOME\common\win32\bin;E:\MentorGraphics\2007.7EE\SDD_HOME\common\win32\lib;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\Program Files\doxygen\bin;C:\Program Files\Graphviz2.18\Bin;C:\Program Files\P-CAD 2006 Viewer\;C:\WINDOWS\system32\WindowsPowerShell\v1.0;C:\Program Files\Samsung\Samsung PC Studio 3\;C:\Program Files\TortoiseSVN\bin;E:\MENTOR~1\LICENS~1;E:/MentorGraphics/2007.7EE/MGC_HOME.ixn/bin;E:/MentorGraphics/2007.7EE/MGC_HOME.ixn/lib;E:\MentorGraphics\2007.7EE\MGC_HOME.ixn\bin;E:\MentorGraphics\2007.7EE\MGC_HOME.ixn\lib;C:\Program Files\CVSNT\]
+[2009.11.24 09:22:50] [0000m.00s.031ms] [1] WDIR [C:\MentorData\iCDB]
+[2009.11.24 09:22:50] [0000m.00s.031ms] [1] SDD_HOME [E:\MentorGraphics\2007.7EE\SDD_HOME]
+[2009.11.24 09:22:50] [0000m.00s.031ms] [1] SDD_PLATFORM [win32]
+[2009.11.24 09:22:50] [0000m.00s.031ms] [2] S: Loading config files
+[2009.11.24 09:22:50] [0000m.00s.031ms] [1] Config: WARNING: Could not open config file [C:\MentorData\CentralLib\Templates\Layout\4 Layer Template_1\keyin.icdb\cdbsvr\Server.cfg]
+[2009.11.24 09:22:50] [0000m.00s.031ms] [3] S: Config loaded
+[2009.11.24 09:22:50] [0000m.00s.031ms] [1] S: WARNING: Server is running in READ-ONLY access mode
+[2009.11.24 09:22:50] [0000m.00s.031ms] [0] S: Single-user mode (auto)
+[2009.11.24 09:22:50] [0000m.00s.031ms] [0] S: Event polling mode autodetection
+[2009.11.24 09:22:50] [0000m.00s.046ms] [0] S: Started up automatically by iCDB Client: neptune:mike:3712
+[2009.11.24 09:22:50] [0000m.00s.046ms] [0] S: Auto close mode
+[2009.11.24 09:22:50] [0000m.00s.046ms] [0] S: Project [C:\MentorData\CentralLib\Templates\Layout\4 Layer Template_1\keyin.icdb]
+[2009.11.24 09:22:50] [0000m.00s.046ms] [0] S: Database ID [019d-973d-ec27-0c76-08b7-b0b4-8b7b-0b40-6d06-f676-2710-fff8]
+[2009.11.24 09:22:50] [0000m.00s.046ms] [0] S: START
+[2009.11.24 09:22:50] [0000m.00s.046ms] [0] S: Server startup lock file created
+[2009.11.24 09:22:50] [0000m.00s.046ms] [0] S: Listening for client connections on port [10001]
+[2009.11.24 09:22:50] [0000m.00s.046ms] [0] S: Server network ID [neptune:192.168.0.137,5.231.138.203,neptune:10001]
+[2009.11.24 09:22:50] [0000m.00s.046ms] [0] S: Server GUID [83ab-e1ec-da76-16ce-abb7-b0be-bb7b-0b40-a256-f676-2710-fff8]
+[2009.11.24 09:22:50] [0000m.00s.046ms] [0] S: ERROR: Starting server: Core Exception: Category[CORE] Error[INVALID_DATABASE] Description[Invalid database location specified] Message[]
+[2009.11.24 09:22:50] [0000m.00s.046ms] [0] S: Closing server
+[2009.11.24 09:22:50] [0000m.00s.046ms] [0] S: STOP

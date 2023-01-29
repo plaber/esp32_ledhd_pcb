@@ -1,0 +1,14 @@
+
+                                Autosave Log File
+                                -----------------
+
+                       10:19 AM Saturday, January 21, 2023
+      Job Name: C:\PCB_Projects\new_ledsContr3\sch_espchp323\PCB\esp32.pcb
+
+
+                               Autosave log closed
+                               -------------------
+
+                       11:03 AM Saturday, January 21, 2023
+      Job Name: C:\PCB_Projects\new_ledsContr3\sch_espchp323\PCB\esp32.pcb
+
