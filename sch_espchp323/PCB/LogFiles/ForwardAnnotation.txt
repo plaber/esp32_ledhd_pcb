@@ -2,7 +2,7 @@
                                Forward Annotation
                                ------------------
 
-                       10:19 AM Saturday, January 21, 2023
+                       12:40 PM Tuesday, February 14, 2023
       Job Name: C:\PCB_Projects\new_ledsContr3\sch_espchp323\PCB\esp32.pcb
 
 
@@ -60,7 +60,7 @@ Version:  01.01.00
                                      NetLoad
                                      -------
 
-                       10:19 AM Saturday, January 21, 2023
+                       12:40 PM Tuesday, February 14, 2023
       Job Name: C:\PCB_Projects\new_ledsContr3\sch_espchp323\PCB\esp32.pcb
 
 
@@ -73,23 +73,7 @@ Version:  02.11.12
 	Schematic reference designator changes will be forward annotated.
 
 
-    WARNING:  Removing PCB Net Name "N10486658" from the NetPropsDB.  It is no longer in the schematic.
-
-    WARNING:  Removing PCB Net Name "N10486686" from the NetPropsDB.  It is no longer in the schematic.
-
-    WARNING:  Removing PCB Net Name "N10486944" from the NetPropsDB.  It is no longer in the schematic.
-
-    WARNING:  Removing PCB Net Name "N10487226" from the NetPropsDB.  It is no longer in the schematic.
-
-    WARNING:  Adding PCB Net Name "GPIO14" to the NetPropsDB.
-
-    WARNING:  Adding PCB Net Name "GPIO25" to the NetPropsDB.
-
-    WARNING:  Adding PCB Net Name "GPIO26" to the NetPropsDB.
-
-    WARNING:  Adding PCB Net Name "GPIO27" to the NetPropsDB.
-
-     Netload completed successfully with 8 warning(s).
+     Netload completed successfully with 0 warning(s).
      
      Back Annotating...
 
@@ -112,35 +96,10 @@ Version:  02.11.12
 
                  Beginning Netload on the Layout Design.
            ---------------------------------------------------
-	Assigned net GPIO14 to a trace which was originally on net N10486686.
-	Assigned net GPIO14 to a trace which was originally on net N10486686.
-	Assigned net GPIO14 to a via which was originally on net N10486686.
-	Assigned net GPIO14 to a trace which was originally on net N10486686.
-	Assigned net GPIO14 to a trace which was originally on net N10486686.
-	Assigned net GPIO25 to a trace which was originally on net N10486658.
-	Assigned net GPIO25 to a via which was originally on net N10486658.
-	Assigned net GPIO25 to a trace which was originally on net N10486658.
-	Assigned net GPIO25 to a trace which was originally on net N10486658.
-	Assigned net GPIO25 to a trace which was originally on net N10486658.
-	Assigned net GPIO26 to a trace which was originally on net N10487226.
-	Assigned net GPIO26 to a trace which was originally on net N10487226.
-	Assigned net GPIO26 to a via which was originally on net N10487226.
-	Assigned net GPIO26 to a trace which was originally on net N10487226.
-	Assigned net GPIO26 to a trace which was originally on net N10487226.
-	Assigned net GPIO27 to a trace which was originally on net N10486944.
-	Assigned net GPIO27 to a trace which was originally on net N10486944.
-	Assigned net GPIO27 to a via which was originally on net N10486944.
-	Assigned net GPIO27 to a trace which was originally on net N10486944.
-	Assigned net GPIO27 to a trace which was originally on net N10486944.
-
-Some nets were completely deleted from the Layout Design....
-	Deleted net N10486658, which has no pins, from the Layout Design.
-	Deleted net N10486686, which has no pins, from the Layout Design.
-	Deleted net N10486944, which has no pins, from the Layout Design.
-	Deleted net N10487226, which has no pins, from the Layout Design.
+	Broke back a trace from the point (8536200, 8032200).
 
 Forward-Annotation on the Layout Design has been successfully completed.
 
-There were 20 reassignments of nets.
-There were 0 traces broken back.
-There were 4 nets removed from the Layout Design.
+There were 0 reassignments of nets.
+There were 1 traces broken back.
+There were 0 nets removed from the Layout Design.

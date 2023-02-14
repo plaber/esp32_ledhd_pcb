@@ -145,7 +145,7 @@
       (Type "COrSchematicDoc")
       (Frame
         (Placement "44 0 1 -1 -1 -4 -30 22 1121 29 223")
-        (Scroll "987 14")
+        (Scroll "0 280")
         (Zoom "140")
         (Occurrence "/"))
       (Path "C:\PCB_PROJECTS\NEW_LEDSCONTR3\SCH_ESPCHP323\ESP.DSN")

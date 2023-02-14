@@ -1,10 +1,10 @@
 (PCB ESP
  (description
-  (timeStamp "2023 01 21 07 19 15")
+  (timeStamp "2023 02 14 09 40 15")
   (program "CAPTURE.EXE" (Version "16.5.0.p001"))
   (source "Original data from OrCAD/CAPTURE schematic")
   (title "")
-  (date "Saturday, January 21, 2023")
+  (date "Tuesday, February 14, 2023")
   (document "C:\\PCB_PROJECTS\\NEW_LEDSCONTR3\\SCH_ESPCHP323\\ESP.DSN")
   (revision "-")
   (organization "")
@@ -691,7 +691,7 @@
      RSP1-2 RSP2-2 J1-9))
   (net BTCHK
    (pins
-     J25-3 J1-26))
+     J25-3 J1-26 btnOn-4))
   (net CH_EN
    (pins
      Rup2-1 J1-3 C5-2 FT232-5 J23-1))
@@ -734,7 +734,7 @@
      Lis-6 J1-7))
   (net MOSFON
    (pins
-     dmg-1 RCAP2-1 J25-1 J1-29 btnOn-3 btnOn-4))
+     dmg-1 RCAP2-1 J25-1 J1-29 btnOn-3))
   (net N002491
    (pins
      RCAP1-2 C2-1))

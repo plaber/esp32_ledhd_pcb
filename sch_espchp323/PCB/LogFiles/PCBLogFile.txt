@@ -3,4 +3,6 @@ Expedition PCB - Pinnacle Version: 2013.0.543.380
 
 Successfully read the design.
 Time spent Generating UPG
+Cannot resolve immovable metal conflicts.
+Cannot resolve immovable metal conflicts.
 Saved the design...
